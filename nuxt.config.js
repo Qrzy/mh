@@ -30,6 +30,8 @@ export default {
     '@nuxtjs/stylelint-module',
     // https://go.nuxtjs.dev/vuetify
     '@nuxtjs/vuetify',
+    // https://composition-api.nuxtjs.org/getting-started/setup
+    '@nuxtjs/composition-api',
   ],
 
   // Modules (https://go.nuxtjs.dev/config-modules)
@@ -59,4 +61,9 @@ export default {
 
   // Build Configuration (https://go.nuxtjs.dev/config-build)
   build: {},
+
+  generate: {
+    // https://composition-api.nuxtjs.org/getting-started/setup
+    interval: 2000,
+  },
 };
