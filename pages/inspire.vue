@@ -19,6 +19,7 @@
       <button v-for="file in files" :key="file.name" type="button" @click="show(file.name)">
         {{ file.name }}
       </button>
+      <!-- eslint-disable-next-line vue/no-v-html -->
       <pre style="border: 1px solid grey; padding: 2rem; word-wrap: wrap" v-html="fileContent"></pre>
       <pre>{{ JSON.stringify(files, null, 2) }}</pre>
     </template>
