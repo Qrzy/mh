@@ -11,8 +11,6 @@ module.exports = {
     '.*\\.(vue)$': 'vue-jest',
   },
   collectCoverage: true,
-  collectCoverageFrom: [
-    '<rootDir>/components/**/*.vue',
-    '<rootDir>/pages/**/*.vue',
-  ],
+  collectCoverageFrom: ['<rootDir>/components/**/*.vue', '<rootDir>/pages/**/*.vue', '**/*.{ts,tsx}'],
+  transformIgnorePatterns: ['<rootDir>/node_modules/(?!(js-bbcode-parser))'],
 };

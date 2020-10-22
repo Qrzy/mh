@@ -1,93 +1,60 @@
 <template>
-  <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
-      <div class="text-center">
-        <logo />
-        <vuetify-logo />
-      </div>
-      <v-card>
-        <v-card-title class="headline">
-          Welcome to the Vuetify + Nuxt.js template
-        </v-card-title>
-        <v-card-text>
-          <p>
-            Vuetify is a progressive Material Design component framework for
-            Vue.js. It was designed to empower developers to create amazing
-            applications.
-          </p>
-          <p>
-            For more information on Vuetify, check out the
-            <a
-              href="https://vuetifyjs.com"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              documentation </a
-            >.
-          </p>
-          <p>
-            If you have questions, please join the official
-            <a
-              href="https://chat.vuetifyjs.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="chat"
-            >
-              discord </a
-            >.
-          </p>
-          <p>
-            Find a bug? Report it on the github
-            <a
-              href="https://github.com/vuetifyjs/vuetify/issues"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="contribute"
-            >
-              issue board </a
-            >.
-          </p>
-          <p>
-            Thank you for developing with Vuetify and I look forward to bringing
-            more exciting features in the future.
-          </p>
-          <div class="text-xs-right">
-            <em><small>&mdash; John Leider</small></em>
-          </div>
-          <hr class="my-3" />
-          <a
-            href="https://nuxtjs.org/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt Documentation
-          </a>
-          <br />
-          <a
-            href="https://github.com/nuxt/nuxt.js"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Nuxt GitHub
-          </a>
-        </v-card-text>
-        <v-card-actions>
-          <v-spacer />
-          <v-btn color="primary" nuxt to="/inspire"> Continue </v-btn>
-        </v-card-actions>
-      </v-card>
-    </v-col>
-  </v-row>
+  <div class="home">
+    <div
+      v-if="loading"
+      style="
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      "
+    >
+      <h1>Ładuję...</h1>
+    </div>
+    <template v-else>
+      <button v-for="file in files" :key="file.name" type="button" @click="show(file.name)">
+        {{ file.name }}
+      </button>
+      <pre style="border: 1px solid grey; padding: 2rem; word-wrap: wrap" v-html="fileContent"></pre>
+      <pre>{{ JSON.stringify(files, null, 2) }}</pre>
+    </template>
+  </div>
 </template>
 
-<script>
-import Logo from '~/components/Logo.vue';
-import VuetifyLogo from '~/components/VuetifyLogo.vue';
+<script lang="ts">
+import { defineComponent, computed, ref } from '@nuxtjs/composition-api';
+import { useMhGithub } from '@/composables/useMhGithub';
 
-export default {
-  components: {
-    Logo,
-    VuetifyLogo,
+export default defineComponent({
+  name: 'Home',
+  setup() {
+    const latestMhName = 'Polski MatHandel #37,5';
+    const { repoData, loadMhRepo, loading } = useMhGithub();
+    loadMhRepo();
+    const latestMhData = computed(() =>
+      repoData.value.object.entries.find((entry: { name: string }) => entry.name === latestMhName),
+    );
+    const files = computed(() =>
+      latestMhData.value.object.entries.filter((file: { name: string }) => file.name.startsWith('Wyniki')),
+    );
+
+    const currentFile = ref(null);
+    const show = (fileName: null) => (currentFile.value = fileName);
+    const fileContent = computed(
+      () => files.value.find((file: { name: null }) => file.name === currentFile.value)?.object.text || '',
+    );
+
+    return {
+      latestMhData,
+      loading,
+      files,
+      show,
+      fileContent,
+    };
   },
-};
+});
 </script>

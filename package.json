@@ -26,7 +26,10 @@
     "@nuxt/typescript-runtime": "^2.0.0",
     "@nuxtjs/composition-api": "^0.13.5",
     "@nuxtjs/pwa": "^3.0.2",
+    "@octokit/graphql": "^4.5.6",
+    "bgg-xml-api-client": "^0.1.4",
     "core-js": "^3.6.5",
+    "normalize-text": "^2.3.1",
     "nuxt": "^2.14.6"
   },
   "devDependencies": {
