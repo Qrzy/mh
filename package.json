@@ -28,8 +28,10 @@
     "@nuxtjs/pwa": "^3.0.2",
     "@nuxtjs/vuetify": "^1.11.2",
     "@octokit/graphql": "^4.5.6",
+    "@types/jest": "^26.0.15",
     "bgg-xml-api-client": "^0.1.4",
     "core-js": "^3.6.5",
+    "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
     "nuxt": "^2.14.6"
   },

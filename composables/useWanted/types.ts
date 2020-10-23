@@ -1,4 +1,4 @@
-import { ComputedRef } from 'vue';
+import { ComputedRef } from '@nuxtjs/composition-api';
 
 export enum WantLevel {
   NO_THANKS = -3,

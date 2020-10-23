@@ -1,4 +1,4 @@
-import { customRef, Ref } from 'vue';
+import { customRef, Ref } from '@nuxtjs/composition-api';
 import { storageAdapter } from './storageAdapter';
 
 export const storedRef = <T>(key: string, value: T): Ref<T> => {
