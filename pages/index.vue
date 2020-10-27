@@ -4,8 +4,17 @@
   </div>
 </template>
 
+<script lang="ts">
+import { defineComponent } from '@nuxtjs/composition-api';
+
+export default defineComponent({
+  layout: 'empty',
+});
+</script>
+
 <style scoped>
 .wip {
+  color: #fff;
   display: flex;
   position: fixed;
   top: 0;
