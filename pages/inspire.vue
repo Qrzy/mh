@@ -1,61 +1,45 @@
 <template>
   <div class="home">
-    <div
-      v-if="loading"
-      style="
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-      "
-    >
-      <h1>Ładuję...</h1>
-    </div>
-    <template v-else>
-      <button v-for="file in files" :key="file.name" type="button" @click="show(file.name)">
-        {{ file.name }}
-      </button>
-      <!-- eslint-disable-next-line vue/no-v-html -->
-      <pre style="border: 1px solid grey; padding: 2rem; word-wrap: wrap" v-html="fileContent"></pre>
-      <pre>{{ JSON.stringify(files, null, 2) }}</pre>
-    </template>
+    <form @submit.prevent="register()">
+      <input v-model="loginData.email" type="email" placeholder="email" />
+      <input v-model="loginData.pass" type="password" placeholder="password" />
+      <input type="submit" value="Zarejestruj się" />
+    </form>
   </div>
 </template>
 
 <script lang="ts">
-import { defineComponent, computed, ref } from '@nuxtjs/composition-api';
-import { useMhGithub } from '@/composables/useMhGithub';
+import { defineComponent, ref } from '@nuxtjs/composition-api';
 
 export default defineComponent({
   name: 'Home',
-  setup() {
-    const latestMhName = 'Polski MatHandel #37,5';
-    const { repoData, loadMhRepo, loading } = useMhGithub();
-    loadMhRepo();
-    const latestMhData = computed(() =>
-      repoData.value.object.entries.find((entry: { name: string }) => entry.name === latestMhName),
-    );
-    const files = computed(() =>
-      latestMhData.value.object.entries.filter((file: { name: string }) => file.name.startsWith('Wyniki')),
-    );
-
-    const currentFile = ref(null);
-    const show = (fileName: null) => (currentFile.value = fileName);
-    const fileContent = computed(
-      () => files.value.find((file: { name: null }) => file.name === currentFile.value)?.object.text || '',
-    );
+  setup(_props, ctx) {
+    const loginData = ref({
+      email: 'qrzy88@gmail.com',
+      pass: 'chujcidotego',
+    });
+    const register = async () => {
+      const response = await ctx.root.$fireAuth.createUserWithEmailAndPassword(
+        loginData.value.email,
+        loginData.value.pass,
+      );
+      console.warn('Response: ', response);
+      // TODO:
+    };
 
     return {
-      latestMhData,
-      loading,
-      files,
-      show,
-      fileContent,
+      loginData,
+      register,
     };
   },
 });
 </script>
+
+<style lang="scss" scoped>
+.home {
+  color: #fff;
+  input {
+    color: #fff;
+  }
+}
+</style>
