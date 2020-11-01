@@ -13,17 +13,17 @@ import { defineComponent, ref } from '@nuxtjs/composition-api';
 
 export default defineComponent({
   name: 'Home',
-  setup(_props, ctx) {
+  setup(_props) {
     const loginData = ref({
       email: 'qrzy88@gmail.com',
       pass: 'chujcidotego',
     });
     const register = async () => {
-      const response = await ctx.root.$fireAuth.createUserWithEmailAndPassword(
-        loginData.value.email,
-        loginData.value.pass,
-      );
-      console.warn('Response: ', response);
+      // const response = await ctx.root.$fireAuth.createUserWithEmailAndPassword(
+      //   loginData.value.email,
+      //   loginData.value.pass,
+      // );
+      // console.warn('Response: ', response);
       // TODO:
     };
 
