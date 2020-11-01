@@ -17,24 +17,24 @@ export default {
   buildModules: ['@nuxt/typescript-build', '@nuxtjs/stylelint-module', '@nuxtjs/vuetify', '@nuxtjs/composition-api'],
   modules: [
     '@nuxtjs/pwa',
-    [
-      '@nuxtjs/firebase',
-      {
-        config: {
-          apiKey: 'AIzaSyC7pKufnndO6EZupwgs3PWDDazdTOUZwoA',
-          authDomain: 'mathandelpl.firebaseapp.com',
-          // databaseURL: 'https://mathandelpl.firebaseio.com',
-          projectId: 'mathandelpl',
-          // storageBucket: 'mathandelpl.appspot.com',
-          // messagingSenderId: '557421567243',
-          // appId: '1:557421567243:web:b70d220239dd3bf4ba960e',
-          // measurementId: 'G-T2T6EGPD9F',
-        },
-        services: {
-          auth: true,
-        },
-      },
-    ],
+    // [
+    //   '@nuxtjs/firebase',
+    //   {
+    //     config: {
+    //       apiKey: 'AIzaSyC7pKufnndO6EZupwgs3PWDDazdTOUZwoA',
+    //       authDomain: 'mathandelpl.firebaseapp.com',
+    //       // databaseURL: 'https://mathandelpl.firebaseio.com',
+    //       projectId: 'mathandelpl',
+    //       // storageBucket: 'mathandelpl.appspot.com',
+    //       // messagingSenderId: '557421567243',
+    //       // appId: '1:557421567243:web:b70d220239dd3bf4ba960e',
+    //       // measurementId: 'G-T2T6EGPD9F',
+    //     },
+    //     services: {
+    //       auth: true,
+    //     },
+    //   },
+    // ],
   ],
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
