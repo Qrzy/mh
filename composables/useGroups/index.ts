@@ -1,6 +1,6 @@
 import { normalizeDiacritics } from 'normalize-text';
 import { ref, Ref, computed } from '@nuxtjs/composition-api';
-import { ListItem } from '../useGeeklist/types';
+import { ListItem } from '../useMhGeeklist/types';
 import { WantLevel } from '../useWanted/types';
 import { UseGroups } from './types';
 

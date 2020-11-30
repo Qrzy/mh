@@ -1,35 +1,30 @@
 <template>
   <div class="home">
-    <form @submit.prevent="register()">
-      <input v-model="loginData.email" type="email" placeholder="email" />
-      <input v-model="loginData.pass" type="password" placeholder="password" />
-      <input type="submit" value="Zarejestruj się" />
-    </form>
+    <button type="button" @click="logout">Wyloguj się</button>
   </div>
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from '@nuxtjs/composition-api';
+import { defineComponent, ref, useContext } from '@nuxtjs/composition-api';
 
 export default defineComponent({
   name: 'Home',
-  setup(_props) {
+  setup(_props, { root: { $fire } }) {
+    const { redirect } = useContext();
+    // const { user, signUp, signOut } = useAuth();
+
     const loginData = ref({
       email: 'qrzy88@gmail.com',
-      pass: 'chujcidotego',
+      pass: '',
     });
-    const register = async () => {
-      // const response = await ctx.root.$fireAuth.createUserWithEmailAndPassword(
-      //   loginData.value.email,
-      //   loginData.value.pass,
-      // );
-      // console.warn('Response: ', response);
-      // TODO:
+    const logout = async () => {
+      await $fire.auth.signOut();
+      redirect('/signin');
     };
 
     return {
       loginData,
-      register,
+      logout,
     };
   },
 });

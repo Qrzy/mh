@@ -1,5 +1,5 @@
 import { ComputedRef } from '@nuxtjs/composition-api';
-import { ListItem } from '../useGeeklist/types';
+import { ListItem } from '../useMhGeeklist/types';
 import { WantLevel } from '../useWanted/types';
 
 export interface UseGroups {

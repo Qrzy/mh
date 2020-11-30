@@ -11,6 +11,7 @@ export const loadGeeklist = async (): Promise<void> => {
 
   loading.value.geeklistData = true;
   const fetchedGeeklist = await getRawData(geeklistId.value as number);
+  console.log(JSON.stringify(fetchedGeeklist, null, 2));
   geeklistRawData.value = mapGeeklist(fetchedGeeklist.item);
   loading.value.geeklistData = false;
 

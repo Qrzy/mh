@@ -1,5 +1,5 @@
-import { mapGeeklist } from '@/composables/useGeeklist/mapGeeklist';
-import { BggGeeklistItem } from '@/composables/useGeeklist/types';
+import { mapGeeklist } from '~/composables/useMhGeeklist/mapGeeklist';
+import { BggGeeklistItem } from '~/composables/useMhGeeklist/types';
 
 let itemFromBgg: BggGeeklistItem;
 

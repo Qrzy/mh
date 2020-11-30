@@ -6,7 +6,7 @@ import { loadDefaultMhId } from './loadDefaultMhId';
 import { setGeeklistId } from './setGeeklistId';
 import { loadGeeklist } from './loadGeeklist';
 
-export const useGeeklist = (mhId?: number): UseGeeklist => {
+export const useMhGeeklist = (mhId?: number): UseGeeklist => {
   if (!mhId) {
     loadDefaultMhId();
   }
