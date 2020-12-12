@@ -26,7 +26,7 @@
     "@nuxt/typescript-runtime": "^2.0.0",
     "@nuxtjs/composition-api": "^0.16.4",
     "@nuxtjs/firebase": "^7.1.1",
-    "@nuxtjs/pwa": "^3.0.2",
+    "@nuxtjs/pwa": "^3.3.2",
     "@nuxtjs/vuetify": "^1.11.2",
     "@octokit/graphql": "^4.5.7",
     "@types/jest": "^26.0.15",
