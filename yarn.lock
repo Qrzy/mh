@@ -1980,13 +1980,13 @@
     webpack-node-externals "^2.5.2"
     webpackbar "^4.0.0"
 
-"@nuxtjs/composition-api@^0.14.0":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/composition-api/-/composition-api-0.14.0.tgz#50c30bec9f5e1197d0a7a06bea18d6f9c9a6dd2c"
-  integrity sha512-EdiHy9xpoFs2UuZcooQszCK3ojiZTB9ys/0rDUdupRC4IvbS7Q3b0+LMVisgGvL+O1L0FAQSjyxQTss98KrjQw==
+"@nuxtjs/composition-api@^0.16.4":
+  version "0.16.4"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/composition-api/-/composition-api-0.16.4.tgz#8f0aa7c9378b262fed71ad9fc46f87f1ef0e2a6f"
+  integrity sha512-L+r6WBYNI9/LokmCXMJQqpvff0aeghpT9Qi1zlUWpUwkVyym/HUV8thfENL0SzrswJrjT0XXrqfiyTH0uPs3gA==
   dependencies:
-    "@vue/composition-api" "1.0.0-beta.19"
-    defu "^3.1.0"
+    "@vue/composition-api" "1.0.0-beta.20"
+    defu "^3.2.2"
     normalize-path "^3.0.0"
 
 "@nuxtjs/eslint-config-typescript@^4.0.0":
@@ -2796,10 +2796,10 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/composition-api@1.0.0-beta.19":
-  version "1.0.0-beta.19"
-  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-beta.19.tgz#54355c5b6143337aafb37b022b240c90c431571c"
-  integrity sha512-FYl3DofSJAKdLO2Ig18ITelcOAWc1CWwfgMrqh7op38aqR5RfcJ7RA3kiDu38iZB0r86dMxcaOHoszIGKpU98g==
+"@vue/composition-api@1.0.0-beta.20":
+  version "1.0.0-beta.20"
+  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-beta.20.tgz#9909ed5844b7bf565a220b26d85b9f0158856dd7"
+  integrity sha512-Lpaxt9+3cy97QJoCJ81qNe6TeGg092iHtqilKdbE5NapHqoSwiuYUSHX2ANIaO+C1Q1J7bITv1/saLUMNuwQOg==
   dependencies:
     tslib "^2.0.1"
 
@@ -5051,10 +5051,10 @@ defu@^2.0.4:
   resolved "https://registry.yarnpkg.com/defu/-/defu-2.0.4.tgz#09659a6e87a8fd7178be13bd43e9357ebf6d1c46"
   integrity sha512-G9pEH1UUMxShy6syWk01VQSRVs3CDWtlxtZu7A+NyqjxaCA4gSlWAKDBx6QiUEKezqS8+DUlXLI14Fp05Hmpwg==
 
-defu@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/defu/-/defu-3.1.0.tgz#a6b5104cacc06aa1efa01923becddbedd32505e8"
-  integrity sha512-pc7vS4wbYFtsRL+OaLHKD72VcpOz9eYgzZeoLz9pCs+R8htyPdZnD1CxKP9ttZuT90CLPYFTSaTyc3/7v4gG9A==
+defu@^3.1.0, defu@^3.2.2:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/defu/-/defu-3.2.2.tgz#be20f4cc49b9805d54ee6b610658d53894942e97"
+  integrity sha512-8UWj5lNv7HD+kB0e9w77Z7TdQlbUYDVWqITLHNqFIn6khrNHv5WQo38Dcm1f6HeNyZf0U7UbPf6WeZDSdCzGDQ==
 
 delayed-stream@~1.0.0:
   version "1.0.0"
