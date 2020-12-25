@@ -1,11 +1,9 @@
-import { Ref, ref } from '@nuxtjs/composition-api';
-import { RawItem, ListItem } from './types';
+import { ref, Ref } from '@nuxtjs/composition-api';
+import { BggGeeklist, Geeklist } from './types';
 
-export const geeklistId: Ref<number | null> = ref(null);
-export const geeklistRawData: Ref<RawItem[]> = ref([]);
-export const geeklist: Ref<ListItem[]> = ref([]);
+export const geeklistRawData: Ref<BggGeeklist | null> = ref(null);
+export const geeklist: Ref<Geeklist | null> = ref(null);
 export const loading = ref({
-  defaultGeeklistId: false,
   geeklistData: false,
   gamesData: false,
 });

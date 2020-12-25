@@ -1,3 +1,4 @@
+import webpack from 'webpack';
 import colors from 'vuetify/es5/util/colors';
 
 export default {
@@ -59,6 +60,11 @@ export default {
       config.devtool = 'source-map';
     },
     transpile: ['js-bbcode-parser'],
+    plugins: [
+      new webpack.DefinePlugin({
+        GH_TOKEN: JSON.stringify(process.env.GH_TOKEN),
+      }),
+    ],
   },
   generate: {
     // https://composition-api.nuxtjs.org/getting-started/setup

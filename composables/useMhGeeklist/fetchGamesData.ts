@@ -33,6 +33,5 @@ export const fetchGamesData = async (geeklist: RawItem[]): Promise<ThingData[]> 
     // flag && console.log(response.data.item[0]), (flag = false);
     games = [...games, ...response.data.item];
   }
-  console.log({ length: games.length, games });
   return games.map(reduceGameData);
 };

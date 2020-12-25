@@ -53,19 +53,30 @@ export interface ListItem extends ThingData, RawItem {
   itemsInComments: CommentItem[];
 }
 
+export type BggGeeklistItem = any;
+
+export interface BggGeeklist {
+  item: BggGeeklistItem[];
+  [prop: string]: any;
+}
+
+export interface Geeklist {
+  items: ListItem[];
+  [prop: string]: any;
+}
+
 export interface UseGeeklist {
-  geeklistId: ComputedRef<number | null>;
-  geeklistRawData: ComputedRef<RawItem[]>;
-  geeklist: ComputedRef<ListItem[]>;
-  setGeeklistId: (id: number | null) => void;
+  geeklistRawData: ComputedRef<BggGeeklist | null>;
+  geeklistRawItems: ComputedRef<BggGeeklistItem[]>;
+  geeklist: ComputedRef<Geeklist | null>;
+  geeklistItems: ComputedRef<ListItem[]>;
+  loadGeeklist: (geeklistId: number) => void;
   loading: ComputedRef<boolean>;
 }
 
 // temp types for api response
 
 export type BggThingData = any;
-
-export type BggGeeklistItem = any;
 
 export interface BggGeeklistItemComment {
   text: string;
