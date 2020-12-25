@@ -1,4 +1,4 @@
-import { RawItem, ThingData, ListItem, RawCommentItem } from './types';
+import { ListItem, RawCommentItem, RawItem, ThingData } from './types';
 
 const getThingFinder = (things: ThingData[]) => (item: RawItem | RawCommentItem): ThingData =>
   things.find(thing => thing.id === item.thingId)!;

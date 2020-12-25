@@ -1,5 +1,5 @@
 import { bbCodeParser } from '@/utils/bbCodeParser';
-import { BggGeeklistItemComment, RawItem, RawCommentItem, BggGeeklistItem } from './types';
+import { BggGeeklistItem, BggGeeklistItemComment, RawCommentItem, RawItem } from './types';
 
 const THING_REGEX = /(?:\[(?:thing|gameid|boardgame|boardgameexpansion|boardgameaccessory)=([\d]+)\])/g;
 const THING_ID_REGEX = /^\[(?:thing|gameid|boardgame|boardgameexpansion|boardgameaccessory)=(?<id>[\d]+)\]$/i;
