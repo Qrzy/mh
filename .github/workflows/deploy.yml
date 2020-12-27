@@ -36,6 +36,8 @@ jobs:
 
       - name: Build
         run: yarn build
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Deploy 🚀
         uses: easingthemes/ssh-deploy@v2.1.5
