@@ -23,11 +23,11 @@
       <v-btn icon @click.stop="fixed = !fixed">
         <v-icon>mdi-minus</v-icon>
       </v-btn>
-      <v-toolbar-title v-text="title" />
+      <v-toolbar-title v-text="''" />
       <v-spacer />
-      <v-btn icon nuxt to="/signin">
+      <!-- <v-btn icon nuxt to="/signin">
         <v-icon>mdi-login</v-icon>
-      </v-btn>
+      </v-btn> -->
       <v-spacer />
       <v-btn icon @click.stop="rightDrawer = !rightDrawer">
         <v-icon>mdi-menu</v-icon>
@@ -69,11 +69,11 @@ export default defineComponent({
           title: 'Welcome',
           to: '/',
         },
-        {
-          icon: 'mdi-chart-bubble',
-          title: 'Inspire',
-          to: '/inspire',
-        },
+        // {
+        //   icon: 'mdi-chart-bubble',
+        //   title: 'Inspire',
+        //   to: '/inspire',
+        // },
         {
           title: 'Wyniki',
           to: '/results',
@@ -82,7 +82,6 @@ export default defineComponent({
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'Vuetify.js',
     };
   },
 });
