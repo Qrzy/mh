@@ -32,7 +32,7 @@
     "@types/jest": "^26.0.15",
     "bgg-xml-api-client": "^0.1.4",
     "core-js": "^3.6.5",
-    "firebase": "^8.2.0",
+    "firebase": "^8.2.1",
     "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
     "nuxt": "^2.14.12"
