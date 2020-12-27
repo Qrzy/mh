@@ -28,7 +28,7 @@
     "@nuxtjs/firebase": "^7.1.1",
     "@nuxtjs/pwa": "^3.3.3",
     "@nuxtjs/vuetify": "^1.11.2",
-    "@octokit/graphql": "^4.5.7",
+    "@octokit/graphql": "^4.5.8",
     "@types/jest": "^26.0.15",
     "bgg-xml-api-client": "^0.1.4",
     "core-js": "^3.6.5",
