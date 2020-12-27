@@ -35,7 +35,7 @@
     "firebase": "^8.2.0",
     "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
-    "nuxt": "^2.14.6"
+    "nuxt": "^2.14.12"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
