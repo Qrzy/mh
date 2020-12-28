@@ -43,19 +43,21 @@
                   elevation="10"
                   class="mb-4 pa-3"
                 >
-                  <v-card-text style="display: flex; flex-direction: row; align-items: center">
+                  <v-card-text
+                    style="display: flex; flex-direction: row; align-items: center; justify-content: space-around"
+                  >
                     <a :href="trade.receivesGame.link">
                       <v-img :src="trade.receivesGame.image" max-width="20vw" max-height="20vw"></v-img>
                     </a>
-                    <v-icon x-large class="mx-5">mdi-arrow-right-bold-circle-outline</v-icon>
+                    <v-icon large class="mx-2">mdi-arrow-right-bold-circle-outline</v-icon>
                     <a :href="trade.ownerGame.link">
                       <v-img :src="trade.ownerGame.image" max-width="15vw" max-height="15vw"></v-img>
                     </a>
-                    <v-icon x-large class="mx-5">mdi-arrow-right-bold-circle-outline</v-icon>
+                    <v-icon large class="mx-2">mdi-arrow-right-bold-circle-outline</v-icon>
                     <a :href="trade.sendsFor.link">
                       <v-img :src="trade.sendsFor.image" max-width="10vw" max-height="10vw"></v-img>
                     </a>
-                    <v-icon x-large class="mx-5">mdi-arrow-right-bold-circle-outline</v-icon>
+                    <v-icon large class="mx-2">mdi-arrow-right-bold-circle-outline</v-icon>
                   </v-card-text>
                   <v-card-actions>
                     <span>
