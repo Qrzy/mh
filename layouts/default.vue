@@ -48,7 +48,7 @@ export default defineComponent({
       items: [
         {
           icon: 'mdi-apps',
-          title: 'Welcome',
+          title: 'Homescreen',
           to: '/',
         },
         // {
@@ -57,6 +57,7 @@ export default defineComponent({
         //   to: '/inspire',
         // },
         {
+          icon: 'mdi-format-list-checks',
           title: 'Wyniki',
           to: '/results',
         },

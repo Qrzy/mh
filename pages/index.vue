@@ -1,7 +1,18 @@
 <template>
-  <div class="wip">
-    <h1>WORK IN PROGRESS... 😎</h1>
-  </div>
+  <v-container class="wip">
+    <v-row>
+      <v-col>
+        <h1>WORK IN PROGRESS...<br />😎</h1>
+      </v-col>
+    </v-row>
+    <v-row class="mt-4">
+      <v-col>
+        <v-btn href="/results" link nuxt color="primary" class="pa-3" height="auto"
+          >Sprawdź wyniki<br />najnowszego MatHandlu</v-btn
+        >
+      </v-col>
+    </v-row>
+  </v-container>
 </template>
 
 <script lang="ts">
@@ -12,18 +23,25 @@ export default defineComponent({
 });
 </script>
 
-<style scoped>
+<style scoped lang="scss">
 .wip {
-  color: #fff;
+  height: 100vh;
+  box-sizing: border-box;
   display: flex;
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: black;
-  z-index: 9;
+
+  h1 {
+    text-align: center;
+  }
+
+  .row {
+    flex-grow: 0;
+  }
+
+  .v-btn {
+    text-align: center;
+  }
 }
 </style>

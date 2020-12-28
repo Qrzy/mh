@@ -98,6 +98,11 @@ import { useMhGithub } from '~/composables/useMhGithub';
 import { MhTrade } from '~/composables/useMhGithub/types';
 
 export default defineComponent({
+  head() {
+    return {
+      title: 'Wyniki',
+    };
+  },
   setup() {
     const { geeklist, loading, load } = useGeeklist();
     const { loading: mhGeeklistLoading, geeklist: mhGeeklist, loadGeeklist, geeklistItems } = useMhGeeklist();
