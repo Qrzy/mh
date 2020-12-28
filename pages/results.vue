@@ -1,22 +1,24 @@
 <template>
   <div class="results">
     <v-row>
-      <v-spacer></v-spacer>
       <v-col>
-        <v-text-field v-model="username" name="username" label="Twoja nazwa użytkownika z BGG"></v-text-field>
+        <h1 style="text-align: center">Wyniki mathandlu</h1>
       </v-col>
     </v-row>
     <v-row v-if="loading">
       <v-col>
-        <h2>Ładujemy dane :)</h2>
+        <h2 style="margin-bottom: 2rem; text-align: center">Ładujemy dane... 🧐</h2>
         <v-progress-linear indeterminate striped></v-progress-linear>
       </v-col>
     </v-row>
     <v-row v-else>
       <v-col cols="12">
-        <h2 style="text-align: center">{{ mhGeeklist.title }}</h2>
+        <h2 style="text-align: center; margin-bottom: 0">{{ mhGeeklist.title }}</h2>
       </v-col>
-      <v-col>
+      <v-col cols="4" class="ml-auto">
+        <v-text-field v-model="username" name="username" label="Twoja nazwa użytkownika z BGG"></v-text-field>
+      </v-col>
+      <v-col cols="12">
         <v-row>
           <v-col>
             <v-radio-group v-model="currentFileName" style="flex-direction: row">
@@ -34,7 +36,7 @@
           <v-col>
             <div v-if="currentFileName">
               <template v-if="mappedUserTrades && mappedUserTrades.length">
-                <v-subheader>Twoje wymiany:</v-subheader>
+                <v-subheader>Twoje wymiany ({{ mappedUserTrades.length }}/{{ userGamesInTrade.length }}):</v-subheader>
                 <v-card
                   v-for="trade in mappedUserTrades"
                   :key="`${trade.owner.name}${trade.ownerGame.number}`"
@@ -57,10 +59,13 @@
                   </v-card-text>
                   <v-card-actions>
                     <span>
-                      {{ trade.ownerGame.name }} >>
-                      <a :href="trade.receivesFrom.composeMessageLink">{{ trade.receivesFrom.username }}</a>
+                      <strong>{{ trade.ownerGame.name }}</strong> >>
+                      <strong
+                        ><a :href="trade.receivesFrom.composeMessageLink">{{ trade.receivesFrom.username }}</a></strong
+                      >
                       wysyła Ci
-                      <em>{{ trade.receivesGame.name }}</em
+                      <strong>
+                        <em>{{ trade.receivesGame.name }}</em> </strong
                       >, Ty wysyłasz do <a :href="trade.sendsTo.composeMessageLink">{{ trade.sendsTo.username }}</a> (za
                       <em>{{ trade.sendsFor.name }}</em
                       >)
@@ -172,6 +177,10 @@ export default defineComponent({
     };
     const mappedUserTrades = computed(() => userTrades.value?.map(tradesMapper));
 
+    const userGamesInTrade = computed(() =>
+      geeklistItems.value.filter(item => item.userName.toLowerCase() === username.value.toLowerCase()),
+    );
+
     watch(resultsFiles, () => {
       currentFileName.value = resultsFiles.value?.[0]?.name;
     });
@@ -186,6 +195,7 @@ export default defineComponent({
       trades,
       userTrades,
       mappedUserTrades,
+      userGamesInTrade,
     };
   },
 });
