@@ -15,7 +15,7 @@
       <v-col cols="12">
         <h2 style="text-align: center; margin-bottom: 0">{{ mhGeeklist.title }}</h2>
       </v-col>
-      <v-col cols="4" class="ml-auto">
+      <v-col cols="9" sm="4" class="ml-auto">
         <v-text-field v-model="username" name="username" label="Twoja nazwa użytkownika z BGG"></v-text-field>
       </v-col>
       <v-col cols="12">
