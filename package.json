@@ -1,6 +1,6 @@
 {
   "name": "math-trade-web",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": true,
   "scripts": {
     "dev": "nuxt-ts",
