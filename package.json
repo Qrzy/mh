@@ -30,7 +30,7 @@
     "@nuxtjs/vuetify": "^1.11.2",
     "@octokit/graphql": "^4.5.8",
     "@types/jest": "^26.0.19",
-    "bgg-xml-api-client": "^0.1.4",
+    "bgg-xml-api-client": "^0.1.5",
     "core-js": "^3.8.1",
     "firebase": "^8.2.1",
     "js-bbcode-parser": "^3.0.4",
