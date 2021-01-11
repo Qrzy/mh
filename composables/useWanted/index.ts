@@ -1,20 +1,19 @@
-import { Ref, computed } from '@nuxtjs/composition-api';
-import { storedRef } from '@/utils/storedRef';
+import { Ref, computed, ref, set, del } from '@nuxtjs/composition-api';
 import { WantLevel, UseWanted } from './types';
 
-const wanted: Ref<Record<number, WantLevel>> = storedRef('wanted', {});
+const wanted: Ref<Record<number, WantLevel>> = ref({});
 
-const getWanted = (itemId: number): WantLevel | undefined => wanted.value[itemId];
+const getWanted = (itemId: number): WantLevel => wanted.value[itemId] ?? WantLevel.NEUTRAL;
 
 const removeWanted = (itemId: number): void => {
-  delete wanted.value[itemId];
+  del(wanted.value, itemId);
 };
 
 const setWanted = (itemId: number, wantLevel: WantLevel): void => {
   if (wantLevel === WantLevel.NEUTRAL) {
     removeWanted(itemId);
   } else {
-    wanted.value[itemId] = wantLevel;
+    set(wanted.value, itemId, wantLevel);
   }
 };
 
