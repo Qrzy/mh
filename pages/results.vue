@@ -96,6 +96,7 @@ import { useMhGeeklist } from '~/composables/useMhGeeklist';
 import { ListItem } from '~/composables/useMhGeeklist/types';
 import { useMhGithub } from '~/composables/useMhGithub';
 import { MhTrade } from '~/composables/useMhGithub/types';
+import { GEEKLIST_OF_GEEKLISTS_ID } from '~/utils/consts';
 
 export default defineComponent({
   head() {
@@ -115,7 +116,7 @@ export default defineComponent({
       getTrades,
     } = useMhGithub();
 
-    load(184664);
+    load(GEEKLIST_OF_GEEKLISTS_ID);
     loadMhRepo();
 
     const latestMh = computed(() => geeklist.value?.item.pop());

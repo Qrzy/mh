@@ -30,18 +30,20 @@
       </v-container>
     </v-main>
     <v-navigation-drawer v-model="rightDrawer" :right="true" temporary fixed>
-      <v-list> </v-list>
+      <Filters></Filters>
     </v-navigation-drawer>
-    <v-footer app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
-    </v-footer>
+    <v-footer app> Wciąż w budowie... </v-footer>
   </v-app>
 </template>
 
 <script>
 import { defineComponent } from '@nuxtjs/composition-api';
+import Filters from '@/components/Filters';
 
 export default defineComponent({
+  components: {
+    Filters,
+  },
   data() {
     return {
       drawer: false,
@@ -55,6 +57,11 @@ export default defineComponent({
         //   icon: 'mdi-chart-bubble',
         //   title: 'Inspire',
         //   to: '/inspire',
+        // },
+        // {
+        //   icon: '',
+        //   title: 'Preferencje',
+        //   to: '/prefs',
         // },
         {
           icon: 'mdi-format-list-checks',

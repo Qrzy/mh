@@ -15,17 +15,9 @@
   </v-container>
 </template>
 
-<script lang="ts">
-import { defineComponent } from '@nuxtjs/composition-api';
-
-export default defineComponent({
-  layout: 'empty',
-});
-</script>
-
 <style scoped lang="scss">
 .wip {
-  height: 100vh;
+  height: 50vh;
   box-sizing: border-box;
   display: flex;
   flex-direction: column;

@@ -35,7 +35,8 @@
     "firebase": "^8.2.1",
     "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
-    "nuxt": "^2.14.12"
+    "nuxt": "^2.14.12",
+    "ramda": "^0.27.1"
   },
   "devDependencies": {
     "@commitlint/cli": "^11.0.0",
@@ -46,6 +47,7 @@
     "@nuxtjs/eslint-config-typescript": "^4.0.0",
     "@nuxtjs/eslint-module": "^3.0.1",
     "@nuxtjs/stylelint-module": "^4.0.0",
+    "@types/ramda": "types/npm-ramda#dist",
     "@vue/test-utils": "^1.1.2",
     "babel-core": "7.0.0-bridge.0",
     "babel-eslint": "^10.1.0",
