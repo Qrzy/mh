@@ -22,14 +22,14 @@ export default {
       '@nuxtjs/firebase',
       {
         config: {
-          apiKey: 'AIzaSyC7pKufnndO6EZupwgs3PWDDazdTOUZwoA',
-          authDomain: 'mathandelpl.firebaseapp.com',
+          apiKey: 'AIzaSyBKlkg9vPDRTilqMR7ZS4gMK5yyT-9CQOc',
+          authDomain: 'mathandel-pl.firebaseapp.com',
+          projectId: 'mathandel-pl',
           databaseURL: 'https://mathandelpl.firebaseio.com',
-          projectId: 'mathandelpl',
-          storageBucket: 'mathandelpl.appspot.com',
-          messagingSenderId: '557421567243',
-          appId: '1:557421567243:web:b70d220239dd3bf4ba960e',
-          measurementId: 'G-T2T6EGPD9F',
+          storageBucket: 'mathandel-pl.appspot.com',
+          messagingSenderId: '990858070006',
+          appId: '1:990858070006:web:6582d43d2115681a8e69d7',
+          measurementId: 'G-2J29Y54BVL',
         },
         services: {
           auth: true,
