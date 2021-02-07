@@ -1,4 +1,4 @@
-export const query = `
+module.exports = `
 query RepoFiles($owner: String!, $name: String!) {
   repository(owner: $owner, name: $name) {
     object(expression: "master:") {

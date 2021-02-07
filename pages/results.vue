@@ -2,7 +2,7 @@
   <div class="results">
     <v-row>
       <v-col>
-        <h1 style="text-align: center">Wyniki mathandlu</h1>
+        <h1 style="text-align: center">Wyniki MatHandlu</h1>
       </v-col>
     </v-row>
     <v-row v-if="loading">
@@ -12,13 +12,23 @@
       </v-col>
     </v-row>
     <v-row v-else>
-      <v-col cols="12">
-        <h2 style="text-align: center; margin-bottom: 0">{{ mhGeeklist.title }}</h2>
+      <v-col cols="12" sm="8">
+        <!-- <h2 style="text-align: center; margin-bottom: 0">{{ chosenMh.title }}</h2> -->
+        <v-select
+          v-model="chosenMhId"
+          :items="latestMhEditions"
+          item-value="objectid"
+          item-text="objectname"
+          placeholder="Wybierz edycję MatHandlu"
+        ></v-select>
       </v-col>
       <v-col cols="9" sm="4" class="ml-auto">
         <v-text-field v-model="username" name="username" label="Twoja nazwa użytkownika z BGG"></v-text-field>
       </v-col>
-      <v-col cols="12">
+      <v-col v-if="!resultsFiles || !resultsFiles.length" cols="12">
+        <h2 style="text-align: center">Brak wyników w tej edycji - ona wciąż trwa! :)</h2>
+      </v-col>
+      <v-col v-else cols="12">
         <v-row>
           <v-col>
             <v-radio-group v-model="currentFileName" style="flex-direction: row">
@@ -106,7 +116,7 @@ export default defineComponent({
   },
   setup() {
     const { geeklist, loading, load } = useGeeklist();
-    const { loading: mhGeeklistLoading, geeklist: mhGeeklist, loadGeeklist, geeklistItems } = useMhGeeklist();
+    const { loading: mhGeeklistLoading, loadGeeklist, geeklistItems } = useMhGeeklist();
     const {
       loadMhRepo,
       loading: mhRepoLoading,
@@ -116,20 +126,23 @@ export default defineComponent({
       getTrades,
     } = useMhGithub();
 
-    load(GEEKLIST_OF_GEEKLISTS_ID);
-    loadMhRepo();
+    load(GEEKLIST_OF_GEEKLISTS_ID).then(() => {
+      latestMhEditions.value = geeklist.value?.item.slice(Math.max(geeklist.value?.item.length - 10, 0)).reverse();
+    });
 
-    const latestMh = computed(() => geeklist.value?.item.pop());
-    const latestMhId = computed(() => parseInt(latestMh.value?.objectid, 10));
+    const latestMhEditions = ref([]);
+    const chosenMhId: Ref<number | null> = ref(null);
+    const chosenMh = computed(() => geeklist.value?.item.find((item: any) => item.objectid === chosenMhId.value));
 
-    watch(latestMh, () => {
-      if (!latestMh.value) {
+    watch(chosenMh, () => {
+      if (!chosenMh.value) {
         return;
       }
 
-      const mhNumber = latestMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number;
+      const mhNumber = chosenMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number;
       setMhNumber(mhNumber);
-      loadGeeklist(latestMhId.value);
+      loadMhRepo();
+      loadGeeklist(chosenMhId.value as number);
     });
 
     const username = ref('');
@@ -143,7 +156,7 @@ export default defineComponent({
       `https://boardgamegeek.com/geekmail/compose?touser=${username}`;
 
     const getListItemLink = (listItem: ListItem): string =>
-      `https://boardgamegeek.com/geeklist/${latestMhId.value}/item/${listItem.listItemId}#item${listItem.listItemId}`;
+      `https://boardgamegeek.com/geeklist/${chosenMhId.value}/item/${listItem.listItemId}#item${listItem.listItemId}`;
 
     const tradesMapper = (trade: MhTrade) => {
       const listItem = geeklistItems.value[parseInt(trade.ownerGame, 10) - 1];
@@ -196,7 +209,8 @@ export default defineComponent({
     return {
       loading: computed(() => loading.value || mhGeeklistLoading.value || mhRepoLoading.value),
       username,
-      mhGeeklist,
+      chosenMh,
+      chosenMhId,
       resultsFiles,
       getFileNameWithoutExt,
       currentFileName,
@@ -204,6 +218,7 @@ export default defineComponent({
       userTrades,
       mappedUserTrades,
       userGamesInTrade,
+      latestMhEditions,
     };
   },
 });

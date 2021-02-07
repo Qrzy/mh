@@ -2,6 +2,7 @@ import webpack from 'webpack';
 import colors from 'vuetify/es5/util/colors';
 
 export default {
+  ssr: false,
   head: {
     titleTemplate: '%s - Polski Mathandel',
     title: 'Polski Mathandel',
@@ -14,6 +15,7 @@ export default {
   },
   css: [],
   plugins: [],
+  serverMiddleware: [{ path: '/api', handler: '~/serverMiddleware/api.ts' }],
   components: true,
   buildModules: ['@nuxt/typescript-build', '@nuxtjs/stylelint-module', '@nuxtjs/vuetify', '@nuxtjs/composition-api'],
   modules: [

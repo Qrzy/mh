@@ -8,7 +8,8 @@
     <v-row class="mt-4">
       <v-col>
         <v-btn href="/results" link nuxt color="primary" class="pa-3" height="auto"
-          >Sprawdź wyniki<br />najnowszego MatHandlu</v-btn
+          >Sprawdź wyniki<br />
+          MatHandlu</v-btn
         >
       </v-col>
     </v-row>

@@ -53,19 +53,37 @@
 
 <script lang="ts">
 import { defineComponent, ref, useContext } from '@nuxtjs/composition-api';
+import { useAuth } from '~/composables/useAuth';
 
 export default defineComponent({
   layout: 'empty',
-  setup(_props, { root: { $fire } }) {
+  middleware: async ({ redirect }) => {
+    const { isLoggedIn, init } = useAuth();
+    await init();
+    if (isLoggedIn.value) {
+      redirect('/');
+    }
+  },
+  setup() {
     const { redirect } = useContext();
+    const { user, signIn, signUp } = useAuth();
 
     const formFields = ref({ email: '', pass: '' });
     const tab = ref(null);
 
     const login = async () => {
       try {
-        await $fire.auth.signInWithEmailAndPassword(formFields.value.email, formFields.value.pass);
-        redirect('/inspire');
+        await signIn(formFields.value.email, formFields.value.pass);
+        redirect('/');
+      } catch (err) {
+        // eslint-disable-next-line no-console
+        console.error(err);
+      }
+    };
+
+    const register = async () => {
+      try {
+        await signUp(formFields.value.email, formFields.value.pass);
       } catch (err) {
         // eslint-disable-next-line no-console
         console.error(err);
@@ -75,7 +93,9 @@ export default defineComponent({
     return {
       formFields,
       login,
+      register,
       tab,
+      user,
     };
   },
 });
