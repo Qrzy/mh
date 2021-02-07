@@ -23,7 +23,7 @@ export default {
   },
   css: [],
   plugins: [],
-  serverMiddleware: [{ path: '/api', handler: '~/serverMiddleware/api.ts' }],
+  serverMiddleware: [{ path: '/api', handler: '~/serverMiddleware/api.js' }],
   components: true,
   buildModules: ['@nuxt/typescript-build', '@nuxtjs/stylelint-module', '@nuxtjs/vuetify', '@nuxtjs/composition-api'],
   modules: ['@nuxtjs/pwa'],
