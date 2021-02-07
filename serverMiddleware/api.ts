@@ -5,6 +5,7 @@ const getMhGithubRepo = require('./getMhGithubRepo');
 const app = express();
 app.use(bodyParser.json());
 
+// @ts-ignore
 app.get('/mhGithubRepo', async (req, res) => {
   const mhNumber = req.query.mhNo;
   const repo = await getMhGithubRepo(mhNumber);
