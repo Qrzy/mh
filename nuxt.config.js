@@ -26,28 +26,7 @@ export default {
   serverMiddleware: [{ path: '/api', handler: '~/serverMiddleware/api.ts' }],
   components: true,
   buildModules: ['@nuxt/typescript-build', '@nuxtjs/stylelint-module', '@nuxtjs/vuetify', '@nuxtjs/composition-api'],
-  modules: [
-    '@nuxtjs/pwa',
-    [
-      '@nuxtjs/firebase',
-      {
-        config: {
-          apiKey: 'AIzaSyBKlkg9vPDRTilqMR7ZS4gMK5yyT-9CQOc',
-          authDomain: 'mathandel-pl.firebaseapp.com',
-          projectId: 'mathandel-pl',
-          databaseURL: 'https://mathandelpl.firebaseio.com',
-          storageBucket: 'mathandel-pl.appspot.com',
-          messagingSenderId: '990858070006',
-          appId: '1:990858070006:web:6582d43d2115681a8e69d7',
-          measurementId: 'G-2J29Y54BVL',
-        },
-        services: {
-          auth: true,
-          database: true,
-        },
-      },
-    ],
-  ],
+  modules: ['@nuxtjs/pwa'],
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
     theme: {
