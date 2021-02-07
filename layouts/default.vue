@@ -85,7 +85,7 @@ const menuItems = [
 ];
 
 export default defineComponent({
-  middleware: 'auth',
+  // middleware: 'auth',
   components: {
     Filters,
   },
