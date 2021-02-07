@@ -5,25 +5,21 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, useContext } from '@nuxtjs/composition-api';
+import { defineComponent, useContext } from '@nuxtjs/composition-api';
+import { useAuth } from '~/composables/useAuth';
 
 export default defineComponent({
   name: 'Home',
-  setup(_props, { root: { $fire } }) {
+  setup() {
     const { redirect } = useContext();
-    // const { user, signUp, signOut } = useAuth();
+    const { signOut } = useAuth();
 
-    const loginData = ref({
-      email: 'qrzy88@gmail.com',
-      pass: '',
-    });
     const logout = async () => {
-      await $fire.auth.signOut();
-      redirect('/signin');
+      await signOut();
+      redirect('/');
     };
 
     return {
-      loginData,
       logout,
     };
   },

@@ -1,21 +1,17 @@
 import { computed, Ref, ref } from '@nuxtjs/composition-api';
-import { gqlWithAuth } from './gqlWithAuth';
-import { query } from './query';
 import { UseMhGithub } from './types';
 
 const repoData = ref<any>(null);
 const loading = ref(false);
-const mhNumber: Ref<number | null> = ref(null);
+const mhNumber: Ref<string | null> = ref(null);
 
 const GLOBAL_TRADE_LINE_REGEX = /\((?:\w+)\)\s+(?:\d+)\s+receives\s+\((?:\w+)\)\s+(?:\d+)\s+and\s+sends\s+to\s+\((?:\w+)\)\s+(?:\d+)/g;
 const TRADE_LINE_DETAILS_REGEX = /\((?<owner>\w+)\)\s+(?<ownerGame>\d+)\s+receives\s+\((?<receivesFrom>\w+)\)\s+(?<receivesGame>\d+)\s+and\s+sends\s+to\s+\((?<sendsTo>\w+)\)\s+(?<sendsFor>\d+)/;
 
 const loadMhRepo = async (): Promise<void> => {
   loading.value = true;
-  const { repository } = await gqlWithAuth(query, {
-    owner: 'polskimathandel',
-    name: 'PolskiMathandel.github.io',
-  });
+  const response = await fetch(`/api/mhGithubRepo?mhNo=${mhNumber.value}`);
+  const repository = await response.json();
   repoData.value = repository;
   loading.value = false;
 };
@@ -26,16 +22,10 @@ const getFileNameWithoutExt = (file: any): string => getFileName(file).replace(/
 
 const getFileContent = (file: any) => file?.object?.text;
 
-const setMhNumber = (number: number | null) => (mhNumber.value = number);
-
-const chosenMhFiles = computed(() =>
-  repoData.value?.object.entries
-    .find((entry: any) => entry.name === `Polski MatHandel #${mhNumber.value}`)
-    ?.object.entries.filter((entry: any) => (entry.name as string).endsWith('.txt')),
-);
+const setMhNumber = (number: string | null) => (mhNumber.value = number);
 
 const resultsFiles = computed(() =>
-  chosenMhFiles.value?.filter(
+  repoData.value?.filter(
     (file: any) => file.name.startsWith('Wyniki wstepne') || file.name.startsWith('Wyniki koncowe'),
   ),
 );
@@ -54,7 +44,6 @@ export const useMhGithub = (): UseMhGithub => {
     loadMhRepo,
     loading: computed(() => loading.value),
     setMhNumber,
-    chosenMhFiles,
     resultsFiles,
     getFileNameWithoutExt,
     getResultsFileContent,

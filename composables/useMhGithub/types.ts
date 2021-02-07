@@ -20,8 +20,7 @@ export interface UseMhGithub {
   repoData: ComputedRef<any>;
   loadMhRepo: () => Promise<void>;
   loading: ComputedRef<boolean>;
-  setMhNumber: (number: number | null) => void;
-  chosenMhFiles: ComputedRef<GithubFile[]>;
+  setMhNumber: (number: string | null) => void;
   resultsFiles: ComputedRef<GithubFile[]>;
   getFileNameWithoutExt: (file: GithubFile | null) => string;
   getResultsFileContent: (filename: string | null) => string;
