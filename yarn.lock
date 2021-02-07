@@ -2336,10 +2336,10 @@
     remark "^13.0.0"
     unist-util-find-all-after "^3.0.2"
 
-"@supabase/gotrue-js@^1.10.1":
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/@supabase/gotrue-js/-/gotrue-js-1.10.1.tgz#92f3b6ca42ebd85a90676b7bd26975736d71d420"
-  integrity sha512-adEsgLcvNleJDpKfY1v31WUjnI84yhQTHiHZE5FjwN1OSaHeVZHvlNXH98ne+YKLJnZ2CAmcM9Ho/9goMFIdbA==
+"@supabase/gotrue-js@^1.10.4":
+  version "1.10.5"
+  resolved "https://registry.yarnpkg.com/@supabase/gotrue-js/-/gotrue-js-1.10.5.tgz#4b54d45f547eb521984e0f999f6d6e7945985d22"
+  integrity sha512-k1e4KgldneJmpIUJiUP+vSS4bByVpCQ9ZGpz2cn2U38C9N2RSP1z0O2i3D4RFVXEdc0oEvEFYm0PKV17RgUygQ==
   dependencies:
     cross-fetch "^3.0.6"
 
@@ -2359,12 +2359,12 @@
     query-string "^6.12.1"
     websocket "^1.0.31"
 
-"@supabase/supabase-js@^1.3.1":
-  version "1.3.1"
-  resolved "https://registry.yarnpkg.com/@supabase/supabase-js/-/supabase-js-1.3.1.tgz#6687f68fc8fa40a4b07387712897790bb0d74d91"
-  integrity sha512-VhybNl6PieYCC/WXkuy7XebpzAaKdZKVYZZaYcrLcvUw3C+mYS6n/OFUI6a4vWhOUMHHZADozpTYHyAjCO+dYQ==
+"@supabase/supabase-js@^1.3.3":
+  version "1.3.3"
+  resolved "https://registry.yarnpkg.com/@supabase/supabase-js/-/supabase-js-1.3.3.tgz#66bad9036fe6b6af63378611ba967a74c1e547c1"
+  integrity sha512-rp37myYXWTiliF/2Cf8DdTuULBRVbSUE2CyDnLesaxbvpvBdfRsMMbWpgsLZHdz3HyK1UbGr9m39kijrAt2P+Q==
   dependencies:
-    "@supabase/gotrue-js" "^1.10.1"
+    "@supabase/gotrue-js" "^1.10.4"
     "@supabase/postgrest-js" "^0.24.1"
     "@supabase/realtime-js" "^1.0.6"
 
