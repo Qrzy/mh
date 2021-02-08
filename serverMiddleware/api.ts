@@ -43,14 +43,14 @@ const gqlWithAuth = graphql.defaults({
   },
 });
 
-const getMhGithubRepo = async mhNumber => {
+const getMhGithubRepo = async (mhNumber: string) => {
   const { repository } = await gqlWithAuth(query, {
     owner: 'polskimathandel',
     name: 'PolskiMathandel.github.io',
   });
   return repository.object.entries
-    .find(entry => entry.name === `Polski MatHandel #${mhNumber}`)
-    ?.object.entries.filter(entry => entry.name.endsWith('.txt'));
+    .find((entry: { name: string }) => entry.name === `Polski MatHandel #${mhNumber}`)
+    ?.object.entries.filter((entry: { name: string }) => entry.name.endsWith('.txt'));
 };
 
 const app = express();
