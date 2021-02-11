@@ -23,7 +23,7 @@
         ></v-select>
       </v-col>
       <v-col cols="9" sm="4" class="ml-auto">
-        <v-text-field v-model="username" name="username" label="Twoja nazwa użytkownika z BGG"></v-text-field>
+        <v-text-field v-model="username" autofocus name="username" label="Twoja nazwa użytkownika z BGG"></v-text-field>
       </v-col>
       <v-col v-if="!resultsFiles || !resultsFiles.length" cols="12">
         <h2 style="text-align: center">Brak wyników w tej edycji - ona wciąż trwa! :)</h2>
@@ -49,40 +49,57 @@
                 <v-subheader>Twoje wymiany ({{ mappedUserTrades.length }}/{{ userGamesInTrade.length }}):</v-subheader>
                 <v-card
                   v-for="trade in mappedUserTrades"
-                  :key="`${trade.owner.name}${trade.ownerGame.number}`"
+                  :key="`${trade.owner.username}${trade.ownerGame.number}`"
                   elevation="10"
                   class="mb-4 pa-3"
                 >
-                  <v-card-text
-                    style="display: flex; flex-direction: row; align-items: center; justify-content: space-around"
-                  >
-                    <a :href="trade.receivesGame.link">
-                      <v-img :src="trade.receivesGame.image" max-width="20vw" max-height="20vw"></v-img>
-                    </a>
-                    <v-icon large class="mx-2">mdi-arrow-right-bold-circle-outline</v-icon>
-                    <a :href="trade.ownerGame.link">
-                      <v-img :src="trade.ownerGame.image" max-width="15vw" max-height="15vw"></v-img>
-                    </a>
-                    <v-icon large class="mx-2">mdi-arrow-right-bold-circle-outline</v-icon>
-                    <a :href="trade.sendsFor.link">
-                      <v-img :src="trade.sendsFor.image" max-width="10vw" max-height="10vw"></v-img>
-                    </a>
-                    <v-icon large class="mx-2">mdi-arrow-right-bold-circle-outline</v-icon>
+                  <v-card-text>
+                    <v-row>
+                      <v-col cols="12" md="6">
+                        <v-row>
+                          <v-col>
+                            <strong>Wysyłasz <v-icon>mdi-arrow-right-bold-circle-outline</v-icon></strong>
+                          </v-col>
+                        </v-row>
+                        <v-row>
+                          <v-col cols="4">
+                            <a :href="trade.ownerGame.link">
+                              <v-img :src="trade.ownerGame.image" max-width="4rem" max-height="4rem"></v-img>
+                            </a>
+                          </v-col>
+                          <v-col cols="8">
+                            <strong>{{ trade.ownerGame.name }}</strong> do
+                            <a :href="trade.sendsTo.composeMessageLink">{{ trade.sendsTo.username }}</a>
+                          </v-col>
+                        </v-row>
+                      </v-col>
+                      <v-col cols="12" md="6">
+                        <v-row>
+                          <v-col>
+                            <strong>Dostajesz <v-icon>mdi-arrow-left-bold-circle-outline</v-icon></strong>
+                          </v-col>
+                        </v-row>
+                        <v-row>
+                          <v-col cols="4">
+                            <a :href="trade.receivesGame.link">
+                              <v-img :src="trade.receivesGame.image" max-width="5rem" max-height="5rem"></v-img>
+                            </a>
+                          </v-col>
+                          <v-col cols="8">
+                            <strong>
+                              <em>{{ trade.receivesGame.name }}</em>
+                            </strong>
+                            od
+                            <strong
+                              ><a :href="trade.receivesFrom.composeMessageLink">{{
+                                trade.receivesFrom.username
+                              }}</a></strong
+                            >
+                          </v-col>
+                        </v-row>
+                      </v-col>
+                    </v-row>
                   </v-card-text>
-                  <v-card-actions>
-                    <span>
-                      <strong>{{ trade.ownerGame.name }}</strong> >>
-                      <strong
-                        ><a :href="trade.receivesFrom.composeMessageLink">{{ trade.receivesFrom.username }}</a></strong
-                      >
-                      wysyła Ci
-                      <strong>
-                        <em>{{ trade.receivesGame.name }}</em> </strong
-                      >, Ty wysyłasz do <a :href="trade.sendsTo.composeMessageLink">{{ trade.sendsTo.username }}</a> (za
-                      <em>{{ trade.sendsFor.name }}</em
-                      >)
-                    </span>
-                  </v-card-actions>
                 </v-card>
               </template>
               <template v-else-if="username">
@@ -100,7 +117,7 @@
 </template>
 
 <script lang="ts">
-import { computed, defineComponent, Ref, ref, watch } from '@nuxtjs/composition-api';
+import { computed, defineComponent, Ref, ref, useContext, watch } from '@nuxtjs/composition-api';
 import { useGeeklist } from '~/composables/useGeeklist';
 import { useMhGeeklist } from '~/composables/useMhGeeklist';
 import { ListItem } from '~/composables/useMhGeeklist/types';
@@ -109,12 +126,8 @@ import { MhTrade } from '~/composables/useMhGithub/types';
 import { GEEKLIST_OF_GEEKLISTS_ID } from '~/utils/consts';
 
 export default defineComponent({
-  head() {
-    return {
-      title: 'Wyniki',
-    };
-  },
   setup() {
+    const { query } = useContext();
     const { geeklist, loading, load } = useGeeklist();
     const { loading: mhGeeklistLoading, loadGeeklist, geeklistItems } = useMhGeeklist();
     const {
@@ -126,24 +139,29 @@ export default defineComponent({
       getTrades,
     } = useMhGithub();
 
+    const chosenMhId: Ref<string | null> = ref(null);
+    const chosenMh = computed(() => geeklist.value?.item.find((item: any) => item.objectid === chosenMhId.value));
+    const latestMhEditions: Ref<any[]> = ref([]);
+
     load(GEEKLIST_OF_GEEKLISTS_ID).then(() => {
       latestMhEditions.value = geeklist.value?.item.slice(Math.max(geeklist.value?.item.length - 10, 0)).reverse();
+      chosenMhId.value = (query.value?.geeklistId as string) ?? latestMhEditions.value[0]?.objectid;
     });
 
-    const latestMhEditions = ref([]);
-    const chosenMhId: Ref<number | null> = ref(null);
-    const chosenMh = computed(() => geeklist.value?.item.find((item: any) => item.objectid === chosenMhId.value));
+    watch(
+      chosenMh,
+      () => {
+        if (!chosenMh.value) {
+          return;
+        }
 
-    watch(chosenMh, () => {
-      if (!chosenMh.value) {
-        return;
-      }
-
-      const mhNumber = chosenMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number;
-      setMhNumber(mhNumber);
-      loadMhRepo();
-      loadGeeklist(chosenMhId.value as number);
-    });
+        const mhEditionNumber = chosenMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number;
+        setMhNumber(mhEditionNumber);
+        loadMhRepo();
+        loadGeeklist(chosenMhId.value as any);
+      },
+      { immediate: true },
+    );
 
     const username = ref('');
     const currentFileName: Ref<string | null> = ref(null);
@@ -219,6 +237,11 @@ export default defineComponent({
       mappedUserTrades,
       userGamesInTrade,
       latestMhEditions,
+    };
+  },
+  head() {
+    return {
+      title: 'Wyniki',
     };
   },
 });
