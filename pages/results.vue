@@ -150,20 +150,22 @@ export default defineComponent({
 
     watch(
       chosenMh,
-      () => {
+      async () => {
         if (!chosenMh.value) {
           return;
         }
 
         const mhEditionNumber = chosenMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number;
         setMhNumber(mhEditionNumber);
-        loadMhRepo();
-        loadGeeklist(chosenMhId.value as any);
+        await loadMhRepo();
+        if (resultsFiles.value.length) {
+          loadGeeklist(chosenMhId.value as any);
+        }
       },
       { immediate: true },
     );
 
-    const username = ref('');
+    const username = ref((query.value?.bggUser as string) ?? '');
     const currentFileName: Ref<string | null> = ref(null);
     const trades = computed(() => getTrades(currentFileName.value));
     const userTrades = computed(() =>

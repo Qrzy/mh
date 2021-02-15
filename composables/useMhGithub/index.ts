@@ -5,8 +5,8 @@ const repoData = ref<any>(null);
 const loading = ref(false);
 const mhNumber: Ref<string | null> = ref(null);
 
-const GLOBAL_TRADE_LINE_REGEX = /\((?:\w+)\)\s+(?:\d+)\s+receives\s+\((?:\w+)\)\s+(?:\d+)\s+and\s+sends\s+to\s+\((?:\w+)\)\s+(?:\d+)/g;
-const TRADE_LINE_DETAILS_REGEX = /\((?<owner>\w+)\)\s+(?<ownerGame>\d+)\s+receives\s+\((?<receivesFrom>\w+)\)\s+(?<receivesGame>\d+)\s+and\s+sends\s+to\s+\((?<sendsTo>\w+)\)\s+(?<sendsFor>\d+)/;
+const GLOBAL_TRADE_LINE_REGEX = /\((?:[\w\s]+)\)\s+(?:\d+)\s+receives\s+\((?:[\w\s]+)\)\s+(?:\d+)\s+and\s+sends\s+to\s+\((?:[\w\s]+)\)\s+(?:\d+)/g;
+const TRADE_LINE_DETAILS_REGEX = /\((?<owner>[\w\s]+)\)\s+(?<ownerGame>\d+)\s+receives\s+\((?<receivesFrom>[\w\s]+)\)\s+(?<receivesGame>\d+)\s+and\s+sends\s+to\s+\((?<sendsTo>[\w\s]+)\)\s+(?<sendsFor>\d+)/;
 
 const loadMhRepo = async (): Promise<void> => {
   loading.value = true;
