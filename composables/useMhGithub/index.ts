@@ -24,11 +24,13 @@ const getFileContent = (file: any) => file?.object?.text;
 
 const setMhNumber = (number: string | null) => (mhNumber.value = number);
 
-const resultsFiles = computed(() =>
-  repoData.value?.filter(
-    (file: any) => file.name.startsWith('Wyniki wstepne') || file.name.startsWith('Wyniki koncowe'),
-  ),
-);
+const resultsFiles = computed(() => [
+  ...(repoData.value?.filter((file: any) => file.name.startsWith('Wyniki koncowe')) ?? []),
+  ...(repoData.value
+    ?.filter((file: any) => file.name.startsWith('Wyniki wstepne'))
+    .sort()
+    .reverse() ?? []),
+]);
 
 const getResultsFileContent = (filename: string | null) =>
   getFileContent(resultsFiles.value?.find((file: any) => file?.name === filename));
