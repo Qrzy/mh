@@ -31,8 +31,10 @@ export type Nullable<T> = T | null;
 export interface ThingData {
   id: number;
   image: string;
+  artists: LinkItem[];
   authors: LinkItem[];
   categories: LinkItem[];
+  families: LinkItem[];
   mechanics: LinkItem[];
   publishers: LinkItem[];
   maxPlayers: Nullable<number>;
@@ -45,6 +47,7 @@ export interface ThingData {
   type: string;
   yearpublished: Nullable<number>;
   mainrank: Nullable<number>;
+  weight: number;
 }
 
 export interface CommentItem extends RawCommentItem, ThingData {}

@@ -1,8 +1,10 @@
 import { BggThingData, ThingData } from './types';
 
 enum LinkProps {
+  ARTISTS = 'boardgameartist',
   AUTHORS = 'boardgamedesigner',
   CATEGORIES = 'boardgamecategory',
+  FAMILIES = 'boardgamefamily',
   MECHANICS = 'boardgamemechanic',
   PUBLISHERS = 'boardgamepublisher',
 }
@@ -26,9 +28,7 @@ const extractMainRank = (gamedata: BggThingData): number | null => {
     return parseInt(gamedata.statistics.ratings.ranks.rank.value, 10);
   }
 
-  const rankObj = gamedata.statistics.ratings.ranks.rank.find(
-    (rank: { id: number | string; value: string }) => rank.id === 1 || rank.id === '1',
-  );
+  const rankObj = gamedata.statistics.ratings.ranks.rank.find((rank: { id: string; value: string }) => rank.id === '1');
   return rankObj ? parseInt(rankObj.value, 10) : null;
 };
 
@@ -42,20 +42,23 @@ const extractName = (gamedata: BggThingData): string => {
 };
 
 export const reduceGameData = (gamedata: BggThingData): ThingData => ({
-  id: parseInt(gamedata.id, 10),
-  image: gamedata.image,
+  artists: extractLink(gamedata, LinkProps.ARTISTS),
   authors: extractLink(gamedata, LinkProps.AUTHORS),
   categories: extractLink(gamedata, LinkProps.CATEGORIES),
-  mechanics: extractLink(gamedata, LinkProps.MECHANICS),
-  publishers: extractLink(gamedata, LinkProps.PUBLISHERS),
+  families: extractLink(gamedata, LinkProps.FAMILIES),
+  id: parseInt(gamedata.id, 10),
+  image: gamedata.image,
+  mainrank: extractMainRank(gamedata),
   maxPlayers: gamedata.maxplayers ? parseInt(gamedata.maxplayers.value, 10) : null,
   maxPlayTime: gamedata.maxplaytime ? parseInt(gamedata.maxplaytime.value, 10) : null,
+  mechanics: extractLink(gamedata, LinkProps.MECHANICS),
   minAge: gamedata.minage ? parseInt(gamedata.minage.value, 10) : null,
   minPlayers: gamedata.minplayers ? parseInt(gamedata.minplayers.value, 10) : null,
   minPlayTime: gamedata.minplaytime ? parseInt(gamedata.minplaytime.value, 10) : null,
   name: extractName(gamedata),
+  publishers: extractLink(gamedata, LinkProps.PUBLISHERS),
   thumbnail: gamedata.thumbnail,
   type: gamedata.type,
+  weight: parseFloat(gamedata.statistics.ratings.averageweight.value),
   yearpublished: gamedata.yearpublished ? parseInt(gamedata.yearpublished.value, 10) : null,
-  mainrank: extractMainRank(gamedata),
 });
