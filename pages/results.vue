@@ -64,11 +64,13 @@
                         <v-row>
                           <v-col cols="4">
                             <a :href="trade.ownerGame.link">
-                              <v-img :src="trade.ownerGame.image" max-width="4rem" max-height="4rem"></v-img>
+                              <v-img :src="trade.ownerGame.image" max-width="5rem" max-height="5rem"></v-img>
                             </a>
                           </v-col>
                           <v-col cols="8">
-                            <strong>{{ trade.ownerGame.name }}</strong> do
+                            <strong>{{ trade.ownerGame.name }}</strong> (<a :href="trade.ownerGame.link"
+                              >#{{ trade.ownerGame.number }}</a
+                            >) do
                             <a :href="trade.sendsTo.composeMessageLink">{{ trade.sendsTo.username }}</a>
                           </v-col>
                         </v-row>
@@ -82,12 +84,16 @@
                         <v-row>
                           <v-col cols="4">
                             <a :href="trade.receivesGame.link">
-                              <v-img :src="trade.receivesGame.image" max-width="5rem" max-height="5rem"></v-img>
+                              <v-img :src="trade.receivesGame.image" max-width="6rem" max-height="6rem"></v-img>
                             </a>
                           </v-col>
                           <v-col cols="8">
                             <strong>
-                              <em>{{ trade.receivesGame.name }}</em>
+                              <em
+                                >{{ trade.receivesGame.name }} (<a :href="trade.receivesGame.link"
+                                  >#{{ trade.receivesGame.number }}</a
+                                >)</em
+                              >
                             </strong>
                             od
                             <strong
@@ -182,6 +188,10 @@ export default defineComponent({
       const listItem = geeklistItems.value[parseInt(trade.ownerGame, 10) - 1];
       const receivesItem = geeklistItems.value[parseInt(trade.receivesGame, 10) - 1];
       const sendsForItem = geeklistItems.value[parseInt(trade.sendsFor, 10) - 1];
+
+      const getGamesNames = (item: ListItem): string =>
+        [item.name, ...item.itemsInComments.map(subitem => subitem.name)].join(' + ');
+
       return {
         ...trade,
         owner: {
@@ -190,7 +200,7 @@ export default defineComponent({
         },
         ownerGame: {
           number: listItem.number,
-          name: listItem.name,
+          name: getGamesNames(listItem),
           link: getListItemLink(listItem),
           image: listItem.image,
         },
@@ -200,7 +210,7 @@ export default defineComponent({
         },
         receivesGame: {
           number: receivesItem.number,
-          name: receivesItem.name,
+          name: getGamesNames(receivesItem),
           link: getListItemLink(receivesItem),
           image: receivesItem.image,
         },
@@ -210,7 +220,7 @@ export default defineComponent({
         },
         sendsFor: {
           number: sendsForItem.number,
-          name: sendsForItem.name,
+          name: getGamesNames(sendsForItem),
           link: getListItemLink(sendsForItem),
           image: sendsForItem.image,
         },
