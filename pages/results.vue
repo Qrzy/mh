@@ -72,6 +72,11 @@
                               >#{{ trade.ownerGame.number }}</a
                             >) do
                             <a :href="trade.sendsTo.composeMessageLink">{{ trade.sendsTo.username }}</a>
+                            <br />
+                            <em style="font-size: 0.8em"
+                              >(za <a :href="trade.sendsFor.link">#{{ trade.sendsFor.number }}</a
+                              >)</em
+                            >
                           </v-col>
                         </v-row>
                       </v-col>
