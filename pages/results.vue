@@ -152,6 +152,7 @@ export default defineComponent({
 
     const chosenMhId: Ref<string | null> = ref(null);
     const chosenMh = computed(() => geeklist.value?.item.find((item: any) => item.objectid === chosenMhId.value));
+    const mhEditionNumber = computed(() => chosenMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number);
     const latestMhEditions: Ref<any[]> = ref([]);
 
     load(GEEKLIST_OF_GEEKLISTS_ID).then(() => {
@@ -166,8 +167,7 @@ export default defineComponent({
           return;
         }
 
-        const mhEditionNumber = chosenMh.value?.objectname.match(/#(?<number>[0-9,]+)/)?.groups?.number;
-        setMhNumber(mhEditionNumber);
+        setMhNumber(mhEditionNumber.value);
         await loadMhRepo();
         if (resultsFiles.value.length) {
           loadGeeklist(chosenMhId.value as any);
@@ -183,8 +183,12 @@ export default defineComponent({
       trades.value?.filter((trade: any) => trade.owner === username.value.toUpperCase()),
     );
 
-    const getComposeMessageLink = (username: string): string =>
-      `https://boardgamegeek.com/geekmail/compose?touser=${username}`;
+    const getComposeMessageLink = (username: string, games?: string, listItemNumber?: number): string => {
+      const URL = `https://boardgamegeek.com/geekmail/compose?touser=${username}&subject=${encodeURIComponent(
+        `MH#${mhEditionNumber.value}`,
+      )}`;
+      return games && listItemNumber ? `${URL}${encodeURIComponent(` - ${games} (#${listItemNumber})`)}` : URL;
+    };
 
     const getListItemLink = (listItem: ListItem): string =>
       `https://boardgamegeek.com/geeklist/${chosenMhId.value}/item/${listItem.listItemId}#item${listItem.listItemId}`;
@@ -201,7 +205,6 @@ export default defineComponent({
         ...trade,
         owner: {
           username: listItem.userName,
-          composeMessageLink: getComposeMessageLink(listItem.userName),
         },
         ownerGame: {
           number: listItem.number,
@@ -211,7 +214,11 @@ export default defineComponent({
         },
         receivesFrom: {
           username: receivesItem.userName,
-          composeMessageLink: getComposeMessageLink(receivesItem.userName),
+          composeMessageLink: getComposeMessageLink(
+            receivesItem.userName,
+            getGamesNames(receivesItem),
+            receivesItem.number,
+          ),
         },
         receivesGame: {
           number: receivesItem.number,
