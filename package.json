@@ -34,7 +34,7 @@
     "core-js": "^3.8.3",
     "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
-    "nuxt": "^2.14.12",
+    "nuxt": "^2.15.2",
     "ramda": "^0.27.1"
   },
   "devDependencies": {
