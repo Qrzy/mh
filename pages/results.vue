@@ -238,7 +238,7 @@ export default defineComponent({
         },
       };
     };
-    const mappedUserTrades = computed(() => userTrades.value?.map(tradesMapper));
+    const mappedUserTrades = computed(() => (geeklistItems.value.length ? userTrades.value?.map(tradesMapper) : []));
 
     const userGamesInTrade = computed(() =>
       geeklistItems.value.filter(item => item.userName.toLowerCase() === username.value.toLowerCase()),
