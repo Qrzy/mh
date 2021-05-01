@@ -28,7 +28,7 @@
     "@nuxtjs/pwa": "^3.3.3",
     "@nuxtjs/vuetify": "^1.11.2",
     "@octokit/graphql": "^4.6.0",
-    "@supabase/supabase-js": "^1.7.6",
+    "@supabase/supabase-js": "^1.11.9",
     "@types/jest": "^26.0.20",
     "bgg-xml-api-client": "^0.1.5",
     "core-js": "^3.11.1",
