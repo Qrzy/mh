@@ -1,6 +1,6 @@
 [
   {
-    "itemId": 7570404,
+    "listItemId": 7570404,
     "number": 1,
     "gameId": 142379,
     "name": "Escape Plan",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "itemId": 7570408,
+    "listItemId": 7570408,
     "number": 2,
     "gameId": 26997,
     "name": "1989: Dawn of Freedom",
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "itemId": 7570412,
+    "listItemId": 7570412,
     "number": 3,
     "gameId": 192951,
     "name": "Dominion: Empires",
@@ -256,7 +256,7 @@
     ]
   },
   {
-    "itemId": 7570421,
+    "listItemId": 7570421,
     "number": 4,
     "gameId": 181796,
     "name": "The Prodigals Club",
@@ -340,7 +340,7 @@
     ]
   },
   {
-    "itemId": 7570435,
+    "listItemId": 7570435,
     "number": 5,
     "gameId": 40834,
     "name": "Dominion: Intrigue",
@@ -464,7 +464,7 @@
     ]
   },
   {
-    "itemId": 7570470,
+    "listItemId": 7570470,
     "number": 6,
     "gameId": 130729,
     "name": "Rancho",
@@ -679,7 +679,7 @@
     ]
   },
   {
-    "itemId": 7570575,
+    "listItemId": 7570575,
     "number": 7,
     "gameId": 260710,
     "name": "Amul",
@@ -787,7 +787,7 @@
     ]
   },
   {
-    "itemId": 7570579,
+    "listItemId": 7570579,
     "number": 8,
     "gameId": 40425,
     "name": "Maori",
@@ -843,7 +843,7 @@
     ]
   },
   {
-    "itemId": 7570584,
+    "listItemId": 7570584,
     "number": 9,
     "gameId": 226322,
     "name": "That's a Question!",
@@ -918,7 +918,7 @@
     ]
   },
   {
-    "itemId": 7570590,
+    "listItemId": 7570590,
     "number": 10,
     "gameId": 180592,
     "name": "Steam Time",
@@ -978,7 +978,7 @@
     ]
   },
   {
-    "itemId": 7570598,
+    "listItemId": 7570598,
     "number": 11,
     "gameId": 137238,
     "name": "Time 'n' Space",
@@ -1066,7 +1066,7 @@
     ]
   },
   {
-    "itemId": 7570612,
+    "listItemId": 7570612,
     "number": 12,
     "gameId": 245643,
     "name": "Luxor",
@@ -1142,7 +1142,7 @@
     ]
   },
   {
-    "itemId": 7570615,
+    "listItemId": 7570615,
     "number": 13,
     "gameId": 90419,
     "name": "Airlines Europe",
@@ -1234,7 +1234,7 @@
     ]
   },
   {
-    "itemId": 7570621,
+    "listItemId": 7570621,
     "number": 14,
     "gameId": 252985,
     "name": "Legendary: A Marvel Deck Building Game – Marvel Studios, Phase 1",
@@ -1294,7 +1294,7 @@
     ]
   },
   {
-    "itemId": 7570627,
+    "listItemId": 7570627,
     "number": 15,
     "gameId": 262275,
     "name": "Dust in the Wings",
@@ -1366,7 +1366,7 @@
     ]
   },
   {
-    "itemId": 7570629,
+    "listItemId": 7570629,
     "number": 16,
     "gameId": 104627,
     "name": "Feudalia",
@@ -1502,7 +1502,7 @@
     ]
   },
   {
-    "itemId": 7570636,
+    "listItemId": 7570636,
     "number": 17,
     "gameId": 210663,
     "name": "Tribes: Early Civilization",
@@ -1570,7 +1570,7 @@
     ]
   },
   {
-    "itemId": 7570639,
+    "listItemId": 7570639,
     "number": 18,
     "gameId": 134157,
     "name": "Guilds of London",
@@ -1642,7 +1642,7 @@
     ]
   },
   {
-    "itemId": 7570643,
+    "listItemId": 7570643,
     "number": 19,
     "gameId": 262215,
     "name": "Blackout: Hong Kong",
@@ -1746,7 +1746,7 @@
     ]
   },
   {
-    "itemId": 7570647,
+    "listItemId": 7570647,
     "number": 20,
     "gameId": 175293,
     "name": "Trambahn",
@@ -1826,7 +1826,7 @@
     ]
   },
   {
-    "itemId": 7570652,
+    "listItemId": 7570652,
     "number": 21,
     "gameId": 234691,
     "name": "Mystery of the Temples",
@@ -1910,7 +1910,7 @@
     ]
   },
   {
-    "itemId": 7570659,
+    "listItemId": 7570659,
     "number": 22,
     "gameId": 204027,
     "name": "Cottage Garden",
@@ -2022,7 +2022,7 @@
     ]
   },
   {
-    "itemId": 7570664,
+    "listItemId": 7570664,
     "number": 23,
     "gameId": 154203,
     "name": "Imperial Settlers",
@@ -2230,7 +2230,7 @@
     ]
   },
   {
-    "itemId": 7570699,
+    "listItemId": 7570699,
     "number": 24,
     "gameId": 149119,
     "name": "Spirits of the Rice Paddy",
@@ -2298,7 +2298,7 @@
     ]
   },
   {
-    "itemId": 7570708,
+    "listItemId": 7570708,
     "number": 25,
     "gameId": 126168,
     "name": "Oh no... INVASION!!!",
@@ -2354,7 +2354,7 @@
     ]
   },
   {
-    "itemId": 7570709,
+    "listItemId": 7570709,
     "number": 26,
     "gameId": 176606,
     "name": "Rattle, Battle, Grab the Loot",
@@ -2461,7 +2461,7 @@
     ]
   },
   {
-    "itemId": 7570720,
+    "listItemId": 7570720,
     "number": 27,
     "gameId": 100901,
     "name": "Flash Point: Fire Rescue",
@@ -2577,7 +2577,7 @@
     ]
   },
   {
-    "itemId": 7570721,
+    "listItemId": 7570721,
     "number": 28,
     "gameId": 255924,
     "name": "Snowdonia: Deluxe Master Set",
@@ -2665,7 +2665,7 @@
     ]
   },
   {
-    "itemId": 7570722,
+    "listItemId": 7570722,
     "number": 29,
     "gameId": 159059,
     "name": "The King's Abbey",
@@ -2717,7 +2717,7 @@
     ]
   },
   {
-    "itemId": 7570726,
+    "listItemId": 7570726,
     "number": 30,
     "gameId": 222509,
     "name": "Lords of Hellas",
@@ -2825,7 +2825,7 @@
     ]
   },
   {
-    "itemId": 7570728,
+    "listItemId": 7570728,
     "number": 31,
     "gameId": 31481,
     "name": "Galaxy Trucker",
@@ -2969,7 +2969,7 @@
     ]
   },
   {
-    "itemId": 7570731,
+    "listItemId": 7570731,
     "number": 32,
     "gameId": 250458,
     "name": "Gùgōng",
@@ -3069,7 +3069,7 @@
     ]
   },
   {
-    "itemId": 7570733,
+    "listItemId": 7570733,
     "number": 33,
     "gameId": 163640,
     "name": "Eminent Domain: Microcosm",
@@ -3149,7 +3149,7 @@
     ]
   },
   {
-    "itemId": 7570737,
+    "listItemId": 7570737,
     "number": 34,
     "gameId": 157526,
     "name": "Viceroy",
@@ -3265,7 +3265,7 @@
     ]
   },
   {
-    "itemId": 7570741,
+    "listItemId": 7570741,
     "number": 35,
     "gameId": 237153,
     "name": "Fruit Ninja: Combo Party",
@@ -3337,7 +3337,7 @@
     ]
   },
   {
-    "itemId": 7570745,
+    "listItemId": 7570745,
     "number": 36,
     "gameId": 71021,
     "name": "Evolution: The Origin of Species",
@@ -3425,7 +3425,7 @@
     ]
   },
   {
-    "itemId": 7570750,
+    "listItemId": 7570750,
     "number": 37,
     "gameId": 182027,
     "name": "Galaxy Trucker: Missions",
@@ -3509,7 +3509,7 @@
     ]
   },
   {
-    "itemId": 7570755,
+    "listItemId": 7570755,
     "number": 38,
     "gameId": 150659,
     "name": "Warage Card Game",
@@ -3581,7 +3581,7 @@
     ]
   },
   {
-    "itemId": 7570759,
+    "listItemId": 7570759,
     "number": 39,
     "gameId": 157917,
     "name": "The Lord of the Ice Garden",
@@ -3669,7 +3669,7 @@
     ]
   },
   {
-    "itemId": 7570761,
+    "listItemId": 7570761,
     "number": 40,
     "gameId": 163572,
     "name": "Keyflower: The Merchants",
@@ -3773,7 +3773,7 @@
     ]
   },
   {
-    "itemId": 7570765,
+    "listItemId": 7570765,
     "number": 41,
     "gameId": 229853,
     "name": "Teotihuacan: City of Gods",
@@ -3905,7 +3905,7 @@
     ]
   },
   {
-    "itemId": 7570767,
+    "listItemId": 7570767,
     "number": 42,
     "gameId": 144058,
     "name": "Keyflower: The Farmers",
@@ -4009,7 +4009,7 @@
     ]
   },
   {
-    "itemId": 7570771,
+    "listItemId": 7570771,
     "number": 43,
     "gameId": 244711,
     "name": "Newton",
@@ -4185,7 +4185,7 @@
     ]
   },
   {
-    "itemId": 7570778,
+    "listItemId": 7570778,
     "number": 44,
     "gameId": 1270,
     "name": "Star Wars Customizable Card Game",
@@ -4273,7 +4273,7 @@
     ]
   },
   {
-    "itemId": 7570783,
+    "listItemId": 7570783,
     "number": 45,
     "gameId": 253766,
     "name": "Atlantis: Island of Gods",
@@ -4349,7 +4349,7 @@
     ]
   },
   {
-    "itemId": 7570787,
+    "listItemId": 7570787,
     "number": 46,
     "gameId": 120677,
     "name": "Terra Mystica",
@@ -4601,7 +4601,7 @@
     ]
   },
   {
-    "itemId": 7570806,
+    "listItemId": 7570806,
     "number": 47,
     "gameId": 209418,
     "name": "Dominion (Second Edition)",
@@ -4681,7 +4681,7 @@
     ]
   },
   {
-    "itemId": 7570902,
+    "listItemId": 7570902,
     "number": 48,
     "gameId": 204879,
     "name": "Planet Defenders",
@@ -4753,7 +4753,7 @@
     ]
   },
   {
-    "itemId": 7570906,
+    "listItemId": 7570906,
     "number": 49,
     "gameId": 255455,
     "name": "Captains of the Gulf",
@@ -4813,7 +4813,7 @@
     ]
   },
   {
-    "itemId": 7570911,
+    "listItemId": 7570911,
     "number": 50,
     "gameId": 146886,
     "name": "La Granja",
@@ -4941,7 +4941,7 @@
     ]
   },
   {
-    "itemId": 7570913,
+    "listItemId": 7570913,
     "number": 51,
     "gameId": 181260,
     "name": "Burano",
@@ -5021,7 +5021,7 @@
     ]
   },
   {
-    "itemId": 7570914,
+    "listItemId": 7570914,
     "number": 52,
     "gameId": 32002,
     "name": "Forged in Steel",
@@ -5113,7 +5113,7 @@
     ]
   },
   {
-    "itemId": 7570915,
+    "listItemId": 7570915,
     "number": 53,
     "gameId": 244049,
     "name": "Forum Trajanum",
@@ -5189,7 +5189,7 @@
     ]
   },
   {
-    "itemId": 7570924,
+    "listItemId": 7570924,
     "number": 54,
     "gameId": 160495,
     "name": "ZhanGuo",
@@ -5261,7 +5261,7 @@
     ]
   },
   {
-    "itemId": 7570928,
+    "listItemId": 7570928,
     "number": 55,
     "gameId": 139898,
     "name": "Brew Crafters",
@@ -5313,7 +5313,7 @@
     ]
   },
   {
-    "itemId": 7571775,
+    "listItemId": 7571775,
     "number": 56,
     "gameId": 233371,
     "name": "Clank! In! Space!",
@@ -5393,7 +5393,7 @@
     ]
   },
   {
-    "itemId": 7571983,
+    "listItemId": 7571983,
     "number": 57,
     "gameId": 66188,
     "name": "Fresco",
@@ -5477,7 +5477,7 @@
     ]
   },
   {
-    "itemId": 7572006,
+    "listItemId": 7572006,
     "number": 58,
     "gameId": 191004,
     "name": "My First Stone Age",
@@ -5573,7 +5573,7 @@
     ]
   },
   {
-    "itemId": 7572008,
+    "listItemId": 7572008,
     "number": 59,
     "gameId": 120677,
     "name": "Terra Mystica",
@@ -5725,7 +5725,7 @@
     ]
   },
   {
-    "itemId": 7572011,
+    "listItemId": 7572011,
     "number": 60,
     "gameId": 146508,
     "name": "T.I.M.E Stories",
@@ -5937,7 +5937,7 @@
     ]
   },
   {
-    "itemId": 7572015,
+    "listItemId": 7572015,
     "number": 61,
     "gameId": 194655,
     "name": "Santorini",
@@ -6017,7 +6017,7 @@
     ]
   },
   {
-    "itemId": 7572029,
+    "listItemId": 7572029,
     "number": 62,
     "gameId": 181521,
     "name": "Warhammer Quest: The Adventure Card Game",
@@ -6125,7 +6125,7 @@
     ]
   },
   {
-    "itemId": 7572039,
+    "listItemId": 7572039,
     "number": 63,
     "gameId": 172155,
     "name": "Ascension: Dawn of Champions",
@@ -6185,7 +6185,7 @@
     ]
   },
   {
-    "itemId": 7572044,
+    "listItemId": 7572044,
     "number": 64,
     "gameId": 234,
     "name": "Hannibal: Rome vs. Carthage",
@@ -6269,7 +6269,7 @@
     ]
   },
   {
-    "itemId": 7572046,
+    "listItemId": 7572046,
     "number": 65,
     "gameId": 38918,
     "name": "Hooop!",
@@ -6345,7 +6345,7 @@
     ]
   },
   {
-    "itemId": 7572047,
+    "listItemId": 7572047,
     "number": 66,
     "gameId": 167698,
     "name": "Magic: The Gathering – Arena of the Planeswalkers",
@@ -6433,7 +6433,7 @@
     ]
   },
   {
-    "itemId": 7572048,
+    "listItemId": 7572048,
     "number": 67,
     "gameId": 1927,
     "name": "Munchkin",
@@ -6601,7 +6601,7 @@
     ]
   },
   {
-    "itemId": 7572049,
+    "listItemId": 7572049,
     "number": 68,
     "gameId": 1927,
     "name": "Munchkin",
@@ -6769,7 +6769,7 @@
     ]
   },
   {
-    "itemId": 7572050,
+    "listItemId": 7572050,
     "number": 69,
     "gameId": 98229,
     "name": "Pictomania",
@@ -6865,7 +6865,7 @@
     ]
   },
   {
-    "itemId": 7572051,
+    "listItemId": 7572051,
     "number": 70,
     "gameId": 111083,
     "name": "Polski Film: gra planszowa",
@@ -6911,7 +6911,7 @@
     ]
   },
   {
-    "itemId": 7572052,
+    "listItemId": 7572052,
     "number": 71,
     "gameId": 21523,
     "name": "Runebound (Second Edition)",
@@ -7031,7 +7031,7 @@
     ]
   },
   {
-    "itemId": 7572053,
+    "listItemId": 7572053,
     "number": 72,
     "gameId": 320,
     "name": "Scrabble",
@@ -7283,7 +7283,7 @@
     ]
   },
   {
-    "itemId": 7572054,
+    "listItemId": 7572054,
     "number": 73,
     "gameId": 128882,
     "name": "The Resistance: Avalon",
@@ -7431,7 +7431,7 @@
     ]
   },
   {
-    "itemId": 7572055,
+    "listItemId": 7572055,
     "number": 74,
     "gameId": 37728,
     "name": "Rock the Beat",
@@ -7559,7 +7559,7 @@
     ]
   },
   {
-    "itemId": 7572056,
+    "listItemId": 7572056,
     "number": 75,
     "gameId": 205637,
     "name": "Arkham Horror: The Card Game",
@@ -7691,7 +7691,7 @@
     ]
   },
   {
-    "itemId": 7572057,
+    "listItemId": 7572057,
     "number": 76,
     "gameId": 107529,
     "name": "Kingdom Builder",
@@ -7775,7 +7775,7 @@
     ]
   },
   {
-    "itemId": 7572058,
+    "listItemId": 7572058,
     "number": 77,
     "gameId": 117793,
     "name": "Kingdom Builder: Nomads",
@@ -7851,7 +7851,7 @@
     ]
   },
   {
-    "itemId": 7572059,
+    "listItemId": 7572059,
     "number": 78,
     "gameId": 822,
     "name": "Carcassonne",
@@ -8035,7 +8035,7 @@
     ]
   },
   {
-    "itemId": 7572061,
+    "listItemId": 7572061,
     "number": 79,
     "gameId": 192457,
     "name": "Cry Havoc",
@@ -8131,7 +8131,7 @@
     ]
   },
   {
-    "itemId": 7572062,
+    "listItemId": 7572062,
     "number": 80,
     "gameId": 103343,
     "name": "A Game of Thrones: The Board Game (Second Edition)",
@@ -8291,7 +8291,7 @@
     ]
   },
   {
-    "itemId": 7572073,
+    "listItemId": 7572073,
     "number": 81,
     "gameId": 166384,
     "name": "Spyfall",
@@ -8463,7 +8463,7 @@
     ]
   },
   {
-    "itemId": 7572074,
+    "listItemId": 7572074,
     "number": 82,
     "gameId": 191438,
     "name": "North American Railways",
@@ -8543,7 +8543,7 @@
     ]
   },
   {
-    "itemId": 7572075,
+    "listItemId": 7572075,
     "number": 83,
     "gameId": 213099,
     "name": "T.I.M.E Stories: Lumen Fidei",
@@ -8639,7 +8639,7 @@
     ]
   },
   {
-    "itemId": 7572076,
+    "listItemId": 7572076,
     "number": 84,
     "gameId": 147938,
     "name": "Ticket to Ride Map Collection: Volume 4 – Nederland",
@@ -8707,7 +8707,7 @@
     ]
   },
   {
-    "itemId": 7572077,
+    "listItemId": 7572077,
     "number": 85,
     "gameId": 227871,
     "name": "Harem Wars",
@@ -8754,7 +8754,7 @@
     ]
   },
   {
-    "itemId": 7572078,
+    "listItemId": 7572078,
     "number": 86,
     "gameId": 154809,
     "name": "Nippon",
@@ -8826,7 +8826,7 @@
     ]
   },
   {
-    "itemId": 7572079,
+    "listItemId": 7572079,
     "number": 87,
     "gameId": 267652,
     "name": "Dungeonology: The Expedition",
@@ -8946,7 +8946,7 @@
     ]
   },
   {
-    "itemId": 7572081,
+    "listItemId": 7572081,
     "number": 88,
     "gameId": 257063,
     "name": "SiegeStorm: SiegeMode",
@@ -9014,7 +9014,7 @@
     ]
   },
   {
-    "itemId": 7572092,
+    "listItemId": 7572092,
     "number": 89,
     "gameId": 223726,
     "name": "Destination X",
@@ -9120,7 +9120,7 @@
     ]
   },
   {
-    "itemId": 7572097,
+    "listItemId": 7572097,
     "number": 90,
     "gameId": 216282,
     "name": "Critters Below",
@@ -9196,7 +9196,7 @@
     ]
   },
   {
-    "itemId": 7572100,
+    "listItemId": 7572100,
     "number": 91,
     "gameId": 256390,
     "name": "Architectura",
@@ -9332,7 +9332,7 @@
     ]
   },
   {
-    "itemId": 7572118,
+    "listItemId": 7572118,
     "number": 92,
     "gameId": 70324,
     "name": "Duel of the Giants: Eastern Front",
@@ -9404,7 +9404,7 @@
     ]
   },
   {
-    "itemId": 7572124,
+    "listItemId": 7572124,
     "number": 93,
     "gameId": 19600,
     "name": "Antike",
@@ -9488,7 +9488,7 @@
     ]
   },
   {
-    "itemId": 7572126,
+    "listItemId": 7572126,
     "number": 94,
     "gameId": 268864,
     "name": "Undaunted: Normandy",
@@ -9560,7 +9560,7 @@
     ]
   },
   {
-    "itemId": 7572128,
+    "listItemId": 7572128,
     "number": 95,
     "gameId": 199792,
     "name": "Everdell",
@@ -9664,7 +9664,7 @@
     ]
   },
   {
-    "itemId": 7572131,
+    "listItemId": 7572131,
     "number": 96,
     "gameId": 113293,
     "name": "Article 27: The UN Security Council Game",
@@ -9724,7 +9724,7 @@
     ]
   },
   {
-    "itemId": 7572132,
+    "listItemId": 7572132,
     "number": 97,
     "gameId": 44163,
     "name": "Power Grid: Factory Manager",
@@ -9812,7 +9812,7 @@
     ]
   },
   {
-    "itemId": 7572133,
+    "listItemId": 7572133,
     "number": 98,
     "gameId": 228714,
     "name": "SHAEF",
@@ -9863,7 +9863,7 @@
     ]
   },
   {
-    "itemId": 7572134,
+    "listItemId": 7572134,
     "number": 99,
     "gameId": 253106,
     "name": "Narcos: The Board Game",
@@ -9959,7 +9959,7 @@
     ]
   },
   {
-    "itemId": 7572135,
+    "listItemId": 7572135,
     "number": 100,
     "gameId": 141087,
     "name": "Agora",
@@ -10007,7 +10007,7 @@
     ]
   },
   {
-    "itemId": 7572136,
+    "listItemId": 7572136,
     "number": 101,
     "gameId": 158109,
     "name": "Onward to Venus",
@@ -10083,7 +10083,7 @@
     ]
   },
   {
-    "itemId": 7572137,
+    "listItemId": 7572137,
     "number": 102,
     "gameId": 164205,
     "name": "King's Pouch",
@@ -10151,7 +10151,7 @@
     ]
   },
   {
-    "itemId": 7572138,
+    "listItemId": 7572138,
     "number": 103,
     "gameId": 191004,
     "name": "My First Stone Age",
@@ -10247,7 +10247,7 @@
     ]
   },
   {
-    "itemId": 7572139,
+    "listItemId": 7572139,
     "number": 104,
     "gameId": 88,
     "name": "Torres",
@@ -10363,7 +10363,7 @@
     ]
   },
   {
-    "itemId": 7572142,
+    "listItemId": 7572142,
     "number": 105,
     "gameId": 124,
     "name": "Primordial Soup",
@@ -10431,7 +10431,7 @@
     ]
   },
   {
-    "itemId": 7572143,
+    "listItemId": 7572143,
     "number": 106,
     "gameId": 106645,
     "name": "Ticket to Ride Map Collection: Volume 2 – India & Switzerland",
@@ -10503,7 +10503,7 @@
     ]
   },
   {
-    "itemId": 7572144,
+    "listItemId": 7572144,
     "number": 107,
     "gameId": 21954,
     "name": "Perikles",
@@ -10575,7 +10575,7 @@
     ]
   },
   {
-    "itemId": 7572145,
+    "listItemId": 7572145,
     "number": 108,
     "gameId": 281442,
     "name": "Trismegistus: The Ultimate Formula",
@@ -10667,7 +10667,7 @@
     ]
   },
   {
-    "itemId": 7572147,
+    "listItemId": 7572147,
     "number": 109,
     "gameId": 12333,
     "name": "Twilight Struggle",
@@ -10803,7 +10803,7 @@
     ]
   },
   {
-    "itemId": 7572148,
+    "listItemId": 7572148,
     "number": 110,
     "gameId": 233867,
     "name": "Welcome To...",
@@ -10907,7 +10907,7 @@
     ]
   },
   {
-    "itemId": 7572149,
+    "listItemId": 7572149,
     "number": 111,
     "gameId": 168792,
     "name": "Secret Weapons of the Third Reich",
@@ -10971,7 +10971,7 @@
     ]
   },
   {
-    "itemId": 7572151,
+    "listItemId": 7572151,
     "number": 112,
     "gameId": 258244,
     "name": "Discover: Lands Unknown",
@@ -11043,7 +11043,7 @@
     ]
   },
   {
-    "itemId": 7572152,
+    "listItemId": 7572152,
     "number": 113,
     "gameId": 36235,
     "name": "The Duke",
@@ -11103,7 +11103,7 @@
     ]
   },
   {
-    "itemId": 7572155,
+    "listItemId": 7572155,
     "number": 114,
     "gameId": 77130,
     "name": "Sid Meier's Civilization: The Board Game",
@@ -11247,7 +11247,7 @@
     ]
   },
   {
-    "itemId": 7572159,
+    "listItemId": 7572159,
     "number": 115,
     "gameId": 200954,
     "name": "Fields of Green",
@@ -11347,7 +11347,7 @@
     ]
   },
   {
-    "itemId": 7572160,
+    "listItemId": 7572160,
     "number": 116,
     "gameId": 183880,
     "name": "Risk: Star Wars Edition",
@@ -11431,7 +11431,7 @@
     ]
   },
   {
-    "itemId": 7572161,
+    "listItemId": 7572161,
     "number": 117,
     "gameId": 41933,
     "name": "Arctic Scavengers",
@@ -11503,7 +11503,7 @@
     ]
   },
   {
-    "itemId": 7572163,
+    "listItemId": 7572163,
     "number": 118,
     "gameId": 182050,
     "name": "Germania Magna: Border in Flames",
@@ -11579,7 +11579,7 @@
     ]
   },
   {
-    "itemId": 7572164,
+    "listItemId": 7572164,
     "number": 119,
     "gameId": 161681,
     "name": "Lift Off! Get me off this Planet!",
@@ -11639,7 +11639,7 @@
     ]
   },
   {
-    "itemId": 7572165,
+    "listItemId": 7572165,
     "number": 120,
     "gameId": 197285,
     "name": "Merchants & Marauders: Broadsides",
@@ -11699,7 +11699,7 @@
     ]
   },
   {
-    "itemId": 7572166,
+    "listItemId": 7572166,
     "number": 121,
     "gameId": 170199,
     "name": "Solarius Mission",
@@ -11795,7 +11795,7 @@
     ]
   },
   {
-    "itemId": 7572167,
+    "listItemId": 7572167,
     "number": 122,
     "gameId": 232405,
     "name": "Western Legends",
@@ -11979,7 +11979,7 @@
     ]
   },
   {
-    "itemId": 7572168,
+    "listItemId": 7572168,
     "number": 123,
     "gameId": 178591,
     "name": "Lunarchitects",
@@ -12051,7 +12051,7 @@
     ]
   },
   {
-    "itemId": 7572169,
+    "listItemId": 7572169,
     "number": 124,
     "gameId": 233371,
     "name": "Clank! In! Space!",
@@ -12131,7 +12131,7 @@
     ]
   },
   {
-    "itemId": 7572170,
+    "listItemId": 7572170,
     "number": 125,
     "gameId": 103649,
     "name": "The City",
@@ -12203,7 +12203,7 @@
     ]
   },
   {
-    "itemId": 7572172,
+    "listItemId": 7572172,
     "number": 126,
     "gameId": 176544,
     "name": "Automania",
@@ -12271,7 +12271,7 @@
     ]
   },
   {
-    "itemId": 7572173,
+    "listItemId": 7572173,
     "number": 127,
     "gameId": 91873,
     "name": "Strasbourg",
@@ -12343,7 +12343,7 @@
     ]
   },
   {
-    "itemId": 7572174,
+    "listItemId": 7572174,
     "number": 128,
     "gameId": 177619,
     "name": "Terminator Genisys: The Miniatures Game – The War Against The Machine",
@@ -12411,7 +12411,7 @@
     ]
   },
   {
-    "itemId": 7572176,
+    "listItemId": 7572176,
     "number": 129,
     "gameId": 220780,
     "name": "Fairy Tile",
@@ -12507,7 +12507,7 @@
     ]
   },
   {
-    "itemId": 7572183,
+    "listItemId": 7572183,
     "number": 130,
     "gameId": 97786,
     "name": "Small World Underground",
@@ -12595,7 +12595,7 @@
     ]
   },
   {
-    "itemId": 7572323,
+    "listItemId": 7572323,
     "number": 131,
     "gameId": 54138,
     "name": "Imperial 2030",
@@ -12699,7 +12699,7 @@
     ]
   },
   {
-    "itemId": 7572328,
+    "listItemId": 7572328,
     "number": 132,
     "gameId": 179245,
     "name": "World Championship Russian Roulette",
@@ -12767,7 +12767,7 @@
     ]
   },
   {
-    "itemId": 7572356,
+    "listItemId": 7572356,
     "number": 133,
     "gameId": 274426,
     "name": "Pangea",
@@ -12839,7 +12839,7 @@
     ]
   },
   {
-    "itemId": 7572358,
+    "listItemId": 7572358,
     "number": 134,
     "gameId": 259809,
     "name": "Sonar Family",
@@ -12943,7 +12943,7 @@
     ]
   },
   {
-    "itemId": 7572359,
+    "listItemId": 7572359,
     "number": 135,
     "gameId": 182074,
     "name": "Antarctica",
@@ -13176,7 +13176,7 @@
     ]
   },
   {
-    "itemId": 7572372,
+    "listItemId": 7572372,
     "number": 136,
     "gameId": 187377,
     "name": "Vikings Gone Wild",
@@ -13403,7 +13403,7 @@
     ]
   },
   {
-    "itemId": 7572471,
+    "listItemId": 7572471,
     "number": 137,
     "gameId": 160902,
     "name": "Dungeons & Dragons Dice Masters: Battle for Faerûn",
@@ -13475,7 +13475,7 @@
     ]
   },
   {
-    "itemId": 7572580,
+    "listItemId": 7572580,
     "number": 138,
     "gameId": 63628,
     "name": "The Manhattan Project",
@@ -13587,7 +13587,7 @@
     ]
   },
   {
-    "itemId": 7572644,
+    "listItemId": 7572644,
     "number": 139,
     "gameId": 180920,
     "name": "Flock",
@@ -13643,7 +13643,7 @@
     ]
   },
   {
-    "itemId": 7572647,
+    "listItemId": 7572647,
     "number": 140,
     "gameId": 209685,
     "name": "Century: Spice Road",
@@ -13771,7 +13771,7 @@
     ]
   },
   {
-    "itemId": 7572657,
+    "listItemId": 7572657,
     "number": 141,
     "gameId": 207336,
     "name": "Honshū",
@@ -13867,7 +13867,7 @@
     ]
   },
   {
-    "itemId": 7572685,
+    "listItemId": 7572685,
     "number": 142,
     "gameId": 162286,
     "name": "Super Motherload",
@@ -13947,7 +13947,7 @@
     ]
   },
   {
-    "itemId": 7572690,
+    "listItemId": 7572690,
     "number": 143,
     "gameId": 234487,
     "name": "Altiplano",
@@ -14055,7 +14055,7 @@
     ]
   },
   {
-    "itemId": 7572939,
+    "listItemId": 7572939,
     "number": 144,
     "gameId": 5339,
     "name": "Monopoly Junior",
@@ -14143,7 +14143,7 @@
     ]
   },
   {
-    "itemId": 7572951,
+    "listItemId": 7572951,
     "number": 145,
     "gameId": 199478,
     "name": "Flamme Rouge",
@@ -14255,7 +14255,7 @@
     ]
   },
   {
-    "itemId": 7572983,
+    "listItemId": 7572983,
     "number": 146,
     "gameId": 54043,
     "name": "Jaipur",
@@ -14637,7 +14637,7 @@
     ]
   },
   {
-    "itemId": 7573081,
+    "listItemId": 7573081,
     "number": 147,
     "gameId": 111799,
     "name": "Cuba Libre",
@@ -14721,7 +14721,7 @@
     ]
   },
   {
-    "itemId": 7573105,
+    "listItemId": 7573105,
     "number": 148,
     "gameId": 137909,
     "name": "Bugs in the Kitchen",
@@ -14781,7 +14781,7 @@
     ]
   },
   {
-    "itemId": 7573130,
+    "listItemId": 7573130,
     "number": 149,
     "gameId": 165332,
     "name": "Puerto Rico + Expansion I",
@@ -14837,7 +14837,7 @@
     ]
   },
   {
-    "itemId": 7573179,
+    "listItemId": 7573179,
     "number": 150,
     "gameId": 192455,
     "name": "First Martians: Adventures on the Red Planet",
@@ -14933,7 +14933,7 @@
     ]
   },
   {
-    "itemId": 7573330,
+    "listItemId": 7573330,
     "number": 151,
     "gameId": 191189,
     "name": "Aeon's End",
@@ -15049,7 +15049,7 @@
     ]
   },
   {
-    "itemId": 7573377,
+    "listItemId": 7573377,
     "number": 152,
     "gameId": 147568,
     "name": "Risk: The Walking Dead – Survival Edition",
@@ -15124,7 +15124,7 @@
     ]
   },
   {
-    "itemId": 7573392,
+    "listItemId": 7573392,
     "number": 153,
     "gameId": 112210,
     "name": "Metro 2033",
@@ -15192,7 +15192,7 @@
     ]
   },
   {
-    "itemId": 7573555,
+    "listItemId": 7573555,
     "number": 154,
     "gameId": 252328,
     "name": "Star Wars: X-Wing (Second Edition)",
@@ -15296,7 +15296,7 @@
     ]
   },
   {
-    "itemId": 7573558,
+    "listItemId": 7573558,
     "number": 155,
     "gameId": 152567,
     "name": "Basari: Das Kartenspiel",
@@ -15368,7 +15368,7 @@
     ]
   },
   {
-    "itemId": 7573563,
+    "listItemId": 7573563,
     "number": 156,
     "gameId": 8124,
     "name": "Industria",
@@ -15424,7 +15424,7 @@
     ]
   },
   {
-    "itemId": 7573565,
+    "listItemId": 7573565,
     "number": 157,
     "gameId": 172584,
     "name": "Among Nobles",
@@ -15512,7 +15512,7 @@
     ]
   },
   {
-    "itemId": 7573567,
+    "listItemId": 7573567,
     "number": 158,
     "gameId": 253861,
     "name": "Black Skull Island",
@@ -15588,7 +15588,7 @@
     ]
   },
   {
-    "itemId": 7573571,
+    "listItemId": 7573571,
     "number": 159,
     "gameId": 235938,
     "name": "Intrigues of Asgard",
@@ -15636,7 +15636,7 @@
     ]
   },
   {
-    "itemId": 7573574,
+    "listItemId": 7573574,
     "number": 160,
     "gameId": 209538,
     "name": "Alexandria",
@@ -15708,7 +15708,7 @@
     ]
   },
   {
-    "itemId": 7573576,
+    "listItemId": 7573576,
     "number": 161,
     "gameId": 204599,
     "name": "Around the World in 80 Days",
@@ -15788,7 +15788,7 @@
     ]
   },
   {
-    "itemId": 7573580,
+    "listItemId": 7573580,
     "number": 162,
     "gameId": 206940,
     "name": "Carcassonne: Amazonas",
@@ -15872,7 +15872,7 @@
     ]
   },
   {
-    "itemId": 7573584,
+    "listItemId": 7573584,
     "number": 163,
     "gameId": 234711,
     "name": "Christmas Tree",
@@ -15936,7 +15936,7 @@
     ]
   },
   {
-    "itemId": 7573591,
+    "listItemId": 7573591,
     "number": 164,
     "gameId": 152162,
     "name": "Diamonds",
@@ -15992,7 +15992,7 @@
     ]
   },
   {
-    "itemId": 7573595,
+    "listItemId": 7573595,
     "number": 165,
     "gameId": 13780,
     "name": "In the Shadow of the Emperor",
@@ -16064,7 +16064,7 @@
     ]
   },
   {
-    "itemId": 7573597,
+    "listItemId": 7573597,
     "number": 166,
     "gameId": 28396,
     "name": "It's Alive!",
@@ -16120,7 +16120,7 @@
     ]
   },
   {
-    "itemId": 7573598,
+    "listItemId": 7573598,
     "number": 167,
     "gameId": 147151,
     "name": "Concept",
@@ -16224,7 +16224,7 @@
     ]
   },
   {
-    "itemId": 7573602,
+    "listItemId": 7573602,
     "number": 168,
     "gameId": 37380,
     "name": "Roll Through the Ages: The Bronze Age",
@@ -16324,7 +16324,7 @@
     ]
   },
   {
-    "itemId": 7573604,
+    "listItemId": 7573604,
     "number": 169,
     "gameId": 232524,
     "name": "Welcome to Dino World",
@@ -16404,7 +16404,7 @@
     ]
   },
   {
-    "itemId": 7573608,
+    "listItemId": 7573608,
     "number": 170,
     "gameId": 243358,
     "name": "Space Park",
@@ -16464,7 +16464,7 @@
     ]
   },
   {
-    "itemId": 7573609,
+    "listItemId": 7573609,
     "number": 171,
     "gameId": 181867,
     "name": "3 sind eine zu viel!",
@@ -16588,7 +16588,7 @@
     ]
   },
   {
-    "itemId": 7573614,
+    "listItemId": 7573614,
     "number": 172,
     "gameId": 35964,
     "name": "duck! duck! Go!",
@@ -16656,7 +16656,7 @@
     ]
   },
   {
-    "itemId": 7573616,
+    "listItemId": 7573616,
     "number": 173,
     "gameId": 213149,
     "name": "The King's Will",
@@ -16766,7 +16766,7 @@
     ]
   },
   {
-    "itemId": 7573619,
+    "listItemId": 7573619,
     "number": 174,
     "gameId": 191038,
     "name": "West of Africa",
@@ -16961,7 +16961,7 @@
     ]
   },
   {
-    "itemId": 7573623,
+    "listItemId": 7573623,
     "number": 175,
     "gameId": 38918,
     "name": "Hooop!",
@@ -17037,7 +17037,7 @@
     ]
   },
   {
-    "itemId": 7573627,
+    "listItemId": 7573627,
     "number": 176,
     "gameId": 49261,
     "name": "Kraby",
@@ -17117,7 +17117,7 @@
     ]
   },
   {
-    "itemId": 7573630,
+    "listItemId": 7573630,
     "number": 177,
     "gameId": 137651,
     "name": "What's He Building in There?",
@@ -17177,7 +17177,7 @@
     ]
   },
   {
-    "itemId": 7573633,
+    "listItemId": 7573633,
     "number": 178,
     "gameId": 139245,
     "name": "Dilluvia Project",
@@ -17241,7 +17241,7 @@
     ]
   },
   {
-    "itemId": 7573637,
+    "listItemId": 7573637,
     "number": 179,
     "gameId": 199793,
     "name": "Dokmus",
@@ -17313,7 +17313,7 @@
     ]
   },
   {
-    "itemId": 7573638,
+    "listItemId": 7573638,
     "number": 180,
     "gameId": 52568,
     "name": "Mali Powstańcy: Warszawa 1944",
@@ -17429,7 +17429,7 @@
     ]
   },
   {
-    "itemId": 7573642,
+    "listItemId": 7573642,
     "number": 181,
     "gameId": 249814,
     "name": "Crimson Company",
@@ -17501,7 +17501,7 @@
     ]
   },
   {
-    "itemId": 7573643,
+    "listItemId": 7573643,
     "number": 182,
     "gameId": 255675,
     "name": "Exit: The Game – The Catacombs of Horror",
@@ -17621,7 +17621,7 @@
     ]
   },
   {
-    "itemId": 7573646,
+    "listItemId": 7573646,
     "number": 183,
     "gameId": 234691,
     "name": "Mystery of the Temples",
@@ -17705,7 +17705,7 @@
     ]
   },
   {
-    "itemId": 7573652,
+    "listItemId": 7573652,
     "number": 184,
     "gameId": 73655,
     "name": "Expedition Sumatra",
@@ -17773,7 +17773,7 @@
     ]
   },
   {
-    "itemId": 7573654,
+    "listItemId": 7573654,
     "number": 185,
     "gameId": 103077,
     "name": "Copié Collé",
@@ -17829,7 +17829,7 @@
     ]
   },
   {
-    "itemId": 7573656,
+    "listItemId": 7573656,
     "number": 186,
     "gameId": 236272,
     "name": "Echidna Shuffle",
@@ -17893,7 +17893,7 @@
     ]
   },
   {
-    "itemId": 7573689,
+    "listItemId": 7573689,
     "number": 187,
     "gameId": 136955,
     "name": "Hands in the Sea",
@@ -17953,7 +17953,7 @@
     ]
   },
   {
-    "itemId": 7573697,
+    "listItemId": 7573697,
     "number": 188,
     "gameId": 269207,
     "name": "The Taverns of Tiefenthal",
@@ -18025,7 +18025,7 @@
     ]
   },
   {
-    "itemId": 7573702,
+    "listItemId": 7573702,
     "number": 189,
     "gameId": 269511,
     "name": "Cooper Island",
@@ -18089,7 +18089,7 @@
     ]
   },
   {
-    "itemId": 7573715,
+    "listItemId": 7573715,
     "number": 190,
     "gameId": 182028,
     "name": "Through the Ages: A New Story of Civilization",
@@ -18209,7 +18209,7 @@
     ]
   },
   {
-    "itemId": 7573885,
+    "listItemId": 7573885,
     "number": 191,
     "gameId": 154203,
     "name": "Imperial Settlers",
@@ -18333,7 +18333,7 @@
     ]
   },
   {
-    "itemId": 7573889,
+    "listItemId": 7573889,
     "number": 192,
     "gameId": 181521,
     "name": "Warhammer Quest: The Adventure Card Game",
@@ -18441,7 +18441,7 @@
     ]
   },
   {
-    "itemId": 7573892,
+    "listItemId": 7573892,
     "number": 193,
     "gameId": 108687,
     "name": "Puerto Rico (with two expansions)",
@@ -18565,7 +18565,7 @@
     ]
   },
   {
-    "itemId": 7573899,
+    "listItemId": 7573899,
     "number": 194,
     "gameId": 121921,
     "name": "Robinson Crusoe: Adventures on the Cursed Island",
@@ -18701,7 +18701,7 @@
     ]
   },
   {
-    "itemId": 7573936,
+    "listItemId": 7573936,
     "number": 195,
     "gameId": 193651,
     "name": "Bohemian Villages",
@@ -18753,7 +18753,7 @@
     ]
   },
   {
-    "itemId": 7573943,
+    "listItemId": 7573943,
     "number": 196,
     "gameId": 246366,
     "name": "Prowler's Passage",
@@ -18813,7 +18813,7 @@
     ]
   },
   {
-    "itemId": 7573953,
+    "listItemId": 7573953,
     "number": 197,
     "gameId": 232481,
     "name": "Zooloretto Duell",
@@ -18877,7 +18877,7 @@
     ]
   },
   {
-    "itemId": 7573967,
+    "listItemId": 7573967,
     "number": 198,
     "gameId": 257590,
     "name": "Deutscher Spielepreis 2018 Goodie Box",
@@ -18920,7 +18920,7 @@
     ]
   },
   {
-    "itemId": 7574034,
+    "listItemId": 7574034,
     "number": 199,
     "gameId": 20551,
     "name": "Shogun",
@@ -19076,7 +19076,7 @@
     ]
   },
   {
-    "itemId": 7574043,
+    "listItemId": 7574043,
     "number": 200,
     "gameId": 170043,
     "name": "7: The Defense of Lwów",
@@ -19144,7 +19144,7 @@
     ]
   },
   {
-    "itemId": 7574048,
+    "listItemId": 7574048,
     "number": 201,
     "gameId": 216837,
     "name": "Quiz: Historia Polski",
@@ -19200,7 +19200,7 @@
     ]
   },
   {
-    "itemId": 7574056,
+    "listItemId": 7574056,
     "number": 202,
     "gameId": 109276,
     "name": "Kanban: Driver's Edition",
@@ -19280,7 +19280,7 @@
     ]
   },
   {
-    "itemId": 7574101,
+    "listItemId": 7574101,
     "number": 203,
     "gameId": 165948,
     "name": "Mangrovia",
@@ -19335,7 +19335,7 @@
     ]
   },
   {
-    "itemId": 7574277,
+    "listItemId": 7574277,
     "number": 204,
     "gameId": 92319,
     "name": "Olympos",
@@ -19423,7 +19423,7 @@
     ]
   },
   {
-    "itemId": 7574282,
+    "listItemId": 7574282,
     "number": 205,
     "gameId": 181293,
     "name": "Alien Artifacts",
@@ -19503,7 +19503,7 @@
     ]
   },
   {
-    "itemId": 7574313,
+    "listItemId": 7574313,
     "number": 206,
     "gameId": 274426,
     "name": "Pangea",
@@ -19575,7 +19575,7 @@
     ]
   },
   {
-    "itemId": 7574387,
+    "listItemId": 7574387,
     "number": 207,
     "gameId": 172381,
     "name": "My Village",
@@ -19663,7 +19663,7 @@
     ]
   },
   {
-    "itemId": 7574414,
+    "listItemId": 7574414,
     "number": 208,
     "gameId": 175621,
     "name": "Epic Card Game",
@@ -19890,7 +19890,7 @@
     ]
   },
   {
-    "itemId": 7574438,
+    "listItemId": 7574438,
     "number": 209,
     "gameId": 203655,
     "name": "Timeline: Polska",
@@ -19946,7 +19946,7 @@
     ]
   },
   {
-    "itemId": 7574440,
+    "listItemId": 7574440,
     "number": 210,
     "gameId": 164669,
     "name": "CV: Gossip",
@@ -20026,7 +20026,7 @@
     ]
   },
   {
-    "itemId": 7574442,
+    "listItemId": 7574442,
     "number": 211,
     "gameId": 5894,
     "name": "Twister",
@@ -20174,7 +20174,7 @@
     ]
   },
   {
-    "itemId": 7574445,
+    "listItemId": 7574445,
     "number": 212,
     "gameId": 122820,
     "name": "Mistrz Słowa",
@@ -20226,7 +20226,7 @@
     ]
   },
   {
-    "itemId": 7574457,
+    "listItemId": 7574457,
     "number": 213,
     "gameId": 131357,
     "name": "Coup",
@@ -20370,7 +20370,7 @@
     ]
   },
   {
-    "itemId": 7574458,
+    "listItemId": 7574458,
     "number": 214,
     "gameId": 161417,
     "name": "Red7",
@@ -20474,7 +20474,7 @@
     ]
   },
   {
-    "itemId": 7574460,
+    "listItemId": 7574460,
     "number": 215,
     "gameId": 98778,
     "name": "Hanabi",
@@ -20630,7 +20630,7 @@
     ]
   },
   {
-    "itemId": 7574462,
+    "listItemId": 7574462,
     "number": 216,
     "gameId": 183840,
     "name": "Oh My Goods!",
@@ -20762,7 +20762,7 @@
     ]
   },
   {
-    "itemId": 7574464,
+    "listItemId": 7574464,
     "number": 217,
     "gameId": 2223,
     "name": "UNO",
@@ -20914,7 +20914,7 @@
     ]
   },
   {
-    "itemId": 7574467,
+    "listItemId": 7574467,
     "number": 218,
     "gameId": 246701,
     "name": "DOS",
@@ -20966,7 +20966,7 @@
     ]
   },
   {
-    "itemId": 7574468,
+    "listItemId": 7574468,
     "number": 219,
     "gameId": 9220,
     "name": "Saboteur",
@@ -21166,7 +21166,7 @@
     ]
   },
   {
-    "itemId": 7574469,
+    "listItemId": 7574469,
     "number": 220,
     "gameId": 432,
     "name": "6 nimmt!",
@@ -21342,7 +21342,7 @@
     ]
   },
   {
-    "itemId": 7574471,
+    "listItemId": 7574471,
     "number": 221,
     "gameId": 32471,
     "name": "Mafia",
@@ -21426,7 +21426,7 @@
     ]
   },
   {
-    "itemId": 7574473,
+    "listItemId": 7574473,
     "number": 222,
     "gameId": 54043,
     "name": "Jaipur",
@@ -21530,7 +21530,7 @@
     ]
   },
   {
-    "itemId": 7574474,
+    "listItemId": 7574474,
     "number": 223,
     "gameId": 144553,
     "name": "The Builders: Middle Ages",
@@ -21610,7 +21610,7 @@
     ]
   },
   {
-    "itemId": 7574476,
+    "listItemId": 7574476,
     "number": 224,
     "gameId": 161226,
     "name": "The Builders: Antiquity",
@@ -21682,7 +21682,7 @@
     ]
   },
   {
-    "itemId": 7574478,
+    "listItemId": 7574478,
     "number": 225,
     "gameId": 131357,
     "name": "Coup",
@@ -21826,7 +21826,7 @@
     ]
   },
   {
-    "itemId": 7574480,
+    "listItemId": 7574480,
     "number": 226,
     "gameId": 163412,
     "name": "Patchwork",
@@ -21978,7 +21978,7 @@
     ]
   },
   {
-    "itemId": 7574482,
+    "listItemId": 7574482,
     "number": 227,
     "gameId": 246639,
     "name": "Patchwork Express",
@@ -22062,7 +22062,7 @@
     ]
   },
   {
-    "itemId": 7574483,
+    "listItemId": 7574483,
     "number": 228,
     "gameId": 26621,
     "name": "Kircholm 1605",
@@ -22114,7 +22114,7 @@
     ]
   },
   {
-    "itemId": 7574484,
+    "listItemId": 7574484,
     "number": 229,
     "gameId": 30592,
     "name": "Piotrków 1939",
@@ -22166,7 +22166,7 @@
     ]
   },
   {
-    "itemId": 7574486,
+    "listItemId": 7574486,
     "number": 230,
     "gameId": 42050,
     "name": "Eurobusiness",
@@ -22234,7 +22234,7 @@
     ]
   },
   {
-    "itemId": 7574490,
+    "listItemId": 7574490,
     "number": 231,
     "gameId": 176083,
     "name": "Hit Z Road",
@@ -22310,7 +22310,7 @@
     ]
   },
   {
-    "itemId": 7574492,
+    "listItemId": 7574492,
     "number": 232,
     "gameId": 73369,
     "name": "51st State",
@@ -22433,7 +22433,7 @@
     ]
   },
   {
-    "itemId": 7575254,
+    "listItemId": 7575254,
     "number": 233,
     "gameId": 245638,
     "name": "Coimbra",
@@ -22525,7 +22525,7 @@
     ]
   },
   {
-    "itemId": 7575255,
+    "listItemId": 7575255,
     "number": 234,
     "gameId": 40692,
     "name": "Small World",
@@ -22649,7 +22649,7 @@
     ]
   },
   {
-    "itemId": 7575256,
+    "listItemId": 7575256,
     "number": 235,
     "gameId": 278260,
     "name": "Śladami Phileasa Fogga",
@@ -22709,7 +22709,7 @@
     ]
   },
   {
-    "itemId": 7575257,
+    "listItemId": 7575257,
     "number": 236,
     "gameId": 235767,
     "name": "Sorcerer & Stones",
@@ -22797,7 +22797,7 @@
     ]
   },
   {
-    "itemId": 7575263,
+    "listItemId": 7575263,
     "number": 237,
     "gameId": 191894,
     "name": "Imagine",
@@ -22917,7 +22917,7 @@
     ]
   },
   {
-    "itemId": 7575269,
+    "listItemId": 7575269,
     "number": 238,
     "gameId": 15987,
     "name": "Arkham Horror",
@@ -23065,7 +23065,7 @@
     ]
   },
   {
-    "itemId": 7575275,
+    "listItemId": 7575275,
     "number": 239,
     "gameId": 144553,
     "name": "The Builders: Middle Ages",
@@ -23324,7 +23324,7 @@
     ]
   },
   {
-    "itemId": 7575281,
+    "listItemId": 7575281,
     "number": 240,
     "gameId": 50,
     "name": "Lost Cities",
@@ -23460,7 +23460,7 @@
     ]
   },
   {
-    "itemId": 7575284,
+    "listItemId": 7575284,
     "number": 241,
     "gameId": 7720,
     "name": "The Prince: The Struggle of House Borgia",
@@ -23520,7 +23520,7 @@
     ]
   },
   {
-    "itemId": 7575285,
+    "listItemId": 7575285,
     "number": 242,
     "gameId": 182799,
     "name": "Take a Train",
@@ -23588,7 +23588,7 @@
     ]
   },
   {
-    "itemId": 7575286,
+    "listItemId": 7575286,
     "number": 243,
     "gameId": 156129,
     "name": "Deception: Murder in Hong Kong",
@@ -23688,7 +23688,7 @@
     ]
   },
   {
-    "itemId": 7575287,
+    "listItemId": 7575287,
     "number": 244,
     "gameId": 237395,
     "name": "Big Fat Burger",
@@ -23748,7 +23748,7 @@
     ]
   },
   {
-    "itemId": 7575317,
+    "listItemId": 7575317,
     "number": 245,
     "gameId": 237181,
     "name": "Batman Miniature Game (Second edition)",
@@ -23811,7 +23811,7 @@
     ]
   },
   {
-    "itemId": 7575319,
+    "listItemId": 7575319,
     "number": 246,
     "gameId": 29294,
     "name": "World of Warcraft: The Adventure Game",
@@ -23919,7 +23919,7 @@
     ]
   },
   {
-    "itemId": 7575323,
+    "listItemId": 7575323,
     "number": 247,
     "gameId": 59294,
     "name": "Runewars",
@@ -24023,7 +24023,7 @@
     ]
   },
   {
-    "itemId": 7575328,
+    "listItemId": 7575328,
     "number": 248,
     "gameId": 104162,
     "name": "Descent: Journeys in the Dark (Second Edition)",
@@ -24171,7 +24171,7 @@
     ]
   },
   {
-    "itemId": 7575332,
+    "listItemId": 7575332,
     "number": 249,
     "gameId": 189660,
     "name": "XenoShyft: Dreadmire",
@@ -24247,7 +24247,7 @@
     ]
   },
   {
-    "itemId": 7575333,
+    "listItemId": 7575333,
     "number": 250,
     "gameId": 230889,
     "name": "Aristeia!",
@@ -24339,7 +24339,7 @@
     ]
   },
   {
-    "itemId": 7575334,
+    "listItemId": 7575334,
     "number": 251,
     "gameId": 253106,
     "name": "Narcos: The Board Game",
@@ -24435,7 +24435,7 @@
     ]
   },
   {
-    "itemId": 7575338,
+    "listItemId": 7575338,
     "number": 252,
     "gameId": 146508,
     "name": "T.I.M.E Stories",
@@ -24543,7 +24543,7 @@
     ]
   },
   {
-    "itemId": 7575343,
+    "listItemId": 7575343,
     "number": 253,
     "gameId": 53953,
     "name": "Thunderstone",
@@ -24635,7 +24635,7 @@
     ]
   },
   {
-    "itemId": 7575412,
+    "listItemId": 7575412,
     "number": 254,
     "gameId": 182189,
     "name": "Treasure Hunter",
@@ -24771,7 +24771,7 @@
     ]
   },
   {
-    "itemId": 7575415,
+    "listItemId": 7575415,
     "number": 255,
     "gameId": 66969,
     "name": "Zagłada Atlantydy",
@@ -24859,7 +24859,7 @@
     ]
   },
   {
-    "itemId": 7575416,
+    "listItemId": 7575416,
     "number": 256,
     "gameId": 191986,
     "name": "Rhodes",
@@ -24931,7 +24931,7 @@
     ]
   },
   {
-    "itemId": 7575417,
+    "listItemId": 7575417,
     "number": 257,
     "gameId": 230852,
     "name": "BONK",
@@ -24991,7 +24991,7 @@
     ]
   },
   {
-    "itemId": 7575421,
+    "listItemId": 7575421,
     "number": 258,
     "gameId": 194655,
     "name": "Santorini",
@@ -25071,7 +25071,7 @@
     ]
   },
   {
-    "itemId": 7575426,
+    "listItemId": 7575426,
     "number": 259,
     "gameId": 182101,
     "name": "Dark Matter",
@@ -25131,7 +25131,7 @@
     ]
   },
   {
-    "itemId": 7575435,
+    "listItemId": 7575435,
     "number": 260,
     "gameId": 160517,
     "name": "The Possession",
@@ -25187,7 +25187,7 @@
     ]
   },
   {
-    "itemId": 7575522,
+    "listItemId": 7575522,
     "number": 261,
     "gameId": 281442,
     "name": "Trismegistus: The Ultimate Formula",
@@ -25279,7 +25279,7 @@
     ]
   },
   {
-    "itemId": 7575523,
+    "listItemId": 7575523,
     "number": 262,
     "gameId": 199042,
     "name": "Harry Potter: Hogwarts Battle",
@@ -25375,7 +25375,7 @@
     ]
   },
   {
-    "itemId": 7575524,
+    "listItemId": 7575524,
     "number": 263,
     "gameId": 266810,
     "name": "Paladins of the West Kingdom",
@@ -25479,7 +25479,7 @@
     ]
   },
   {
-    "itemId": 7575525,
+    "listItemId": 7575525,
     "number": 264,
     "gameId": 102237,
     "name": "Drako: Dragon & Dwarves",
@@ -25567,7 +25567,7 @@
     ]
   },
   {
-    "itemId": 7575526,
+    "listItemId": 7575526,
     "number": 265,
     "gameId": 285984,
     "name": "Last Bastion",
@@ -25675,7 +25675,7 @@
     ]
   },
   {
-    "itemId": 7575654,
+    "listItemId": 7575654,
     "number": 266,
     "gameId": 904,
     "name": "Dream Factory",
@@ -25755,7 +25755,7 @@
     ]
   },
   {
-    "itemId": 7575667,
+    "listItemId": 7575667,
     "number": 267,
     "gameId": 26459,
     "name": "PQ-17: Arctic Naval Operations 1941-1943",
@@ -25823,7 +25823,7 @@
     ]
   },
   {
-    "itemId": 7575669,
+    "listItemId": 7575669,
     "number": 268,
     "gameId": 247567,
     "name": "D-Day Dice Pocket",
@@ -25895,7 +25895,7 @@
     ]
   },
   {
-    "itemId": 7575670,
+    "listItemId": 7575670,
     "number": 269,
     "gameId": 224133,
     "name": "The Cousins' War",
@@ -25971,7 +25971,7 @@
     ]
   },
   {
-    "itemId": 7575672,
+    "listItemId": 7575672,
     "number": 270,
     "gameId": 147451,
     "name": "Field of Glory: The Card Game",
@@ -26043,7 +26043,7 @@
     ]
   },
   {
-    "itemId": 7576108,
+    "listItemId": 7576108,
     "number": 271,
     "gameId": 250337,
     "name": "Gloomhaven: Forgotten Circles",
@@ -26151,7 +26151,7 @@
     ]
   },
   {
-    "itemId": 7576110,
+    "listItemId": 7576110,
     "number": 272,
     "gameId": 250337,
     "name": "Gloomhaven: Forgotten Circles",
@@ -26259,7 +26259,7 @@
     ]
   },
   {
-    "itemId": 7576111,
+    "listItemId": 7576111,
     "number": 273,
     "gameId": 206156,
     "name": "SUPERHOT: The Card Game",
@@ -26497,7 +26497,7 @@
     ]
   },
   {
-    "itemId": 7576261,
+    "listItemId": 7576261,
     "number": 274,
     "gameId": 169124,
     "name": "Flick 'em Up!",
@@ -26597,7 +26597,7 @@
     ]
   },
   {
-    "itemId": 7576378,
+    "listItemId": 7576378,
     "number": 275,
     "gameId": 63268,
     "name": "Spot it!",
@@ -26769,7 +26769,7 @@
     ]
   },
   {
-    "itemId": 7576410,
+    "listItemId": 7576410,
     "number": 276,
     "gameId": 148228,
     "name": "Splendor",
@@ -26925,7 +26925,7 @@
     ]
   },
   {
-    "itemId": 7576566,
+    "listItemId": 7576566,
     "number": 277,
     "gameId": 235767,
     "name": "Sorcerer & Stones",
@@ -27140,7 +27140,7 @@
     ]
   },
   {
-    "itemId": 7576599,
+    "listItemId": 7576599,
     "number": 278,
     "gameId": 198455,
     "name": "Mystic ScROLLS",
@@ -27208,7 +27208,7 @@
     ]
   },
   {
-    "itemId": 7576602,
+    "listItemId": 7576602,
     "number": 279,
     "gameId": 223953,
     "name": "Kitchen Rush",
@@ -27296,7 +27296,7 @@
     ]
   },
   {
-    "itemId": 7576624,
+    "listItemId": 7576624,
     "number": 280,
     "gameId": 132531,
     "name": "Roll for the Galaxy",
@@ -27408,7 +27408,7 @@
     ]
   },
   {
-    "itemId": 7576866,
+    "listItemId": 7576866,
     "number": 281,
     "gameId": 154203,
     "name": "Imperial Settlers",
@@ -27532,7 +27532,7 @@
     ]
   },
   {
-    "itemId": 7576870,
+    "listItemId": 7576870,
     "number": 282,
     "gameId": 171668,
     "name": "The Grizzled",
@@ -27640,7 +27640,7 @@
     ]
   },
   {
-    "itemId": 7576878,
+    "listItemId": 7576878,
     "number": 283,
     "gameId": 124708,
     "name": "Mice and Mystics",
@@ -27756,7 +27756,7 @@
     ]
   },
   {
-    "itemId": 7576999,
+    "listItemId": 7576999,
     "number": 284,
     "gameId": 124361,
     "name": "Concordia",
@@ -27892,7 +27892,7 @@
     ]
   },
   {
-    "itemId": 7577005,
+    "listItemId": 7577005,
     "number": 285,
     "gameId": 20963,
     "name": "Fury of Dracula (Second Edition)",
@@ -28008,7 +28008,7 @@
     ]
   },
   {
-    "itemId": 7577009,
+    "listItemId": 7577009,
     "number": 286,
     "gameId": 121921,
     "name": "Robinson Crusoe: Adventures on the Cursed Island",
@@ -28144,7 +28144,7 @@
     ]
   },
   {
-    "itemId": 7577014,
+    "listItemId": 7577014,
     "number": 287,
     "gameId": 64204,
     "name": "The Logo Board Game",
@@ -28224,7 +28224,7 @@
     ]
   },
   {
-    "itemId": 7577016,
+    "listItemId": 7577016,
     "number": 288,
     "gameId": 148273,
     "name": "Kto z Kim?",
@@ -28725,7 +28725,7 @@
     ]
   },
   {
-    "itemId": 7577040,
+    "listItemId": 7577040,
     "number": 289,
     "gameId": 9674,
     "name": "Ingenious",
@@ -28901,7 +28901,7 @@
     ]
   },
   {
-    "itemId": 7577043,
+    "listItemId": 7577043,
     "number": 290,
     "gameId": 265,
     "name": "Intrigue",
@@ -28985,7 +28985,7 @@
     ]
   },
   {
-    "itemId": 7577044,
+    "listItemId": 7577044,
     "number": 291,
     "gameId": 153938,
     "name": "Camel Up",
@@ -29217,7 +29217,7 @@
     ]
   },
   {
-    "itemId": 7577045,
+    "listItemId": 7577045,
     "number": 292,
     "gameId": 34127,
     "name": "Ticket to Ride: The Card Game",
@@ -29392,7 +29392,7 @@
     ]
   },
   {
-    "itemId": 7577048,
+    "listItemId": 7577048,
     "number": 293,
     "gameId": 217372,
     "name": "The Quest for El Dorado",
@@ -29484,7 +29484,7 @@
     ]
   },
   {
-    "itemId": 7577052,
+    "listItemId": 7577052,
     "number": 294,
     "gameId": 256788,
     "name": "Detective Club",
@@ -29580,7 +29580,7 @@
     ]
   },
   {
-    "itemId": 7577067,
+    "listItemId": 7577067,
     "number": 295,
     "gameId": 81913,
     "name": "Unidentified Game",
@@ -29618,7 +29618,7 @@
     ]
   },
   {
-    "itemId": 7577087,
+    "listItemId": 7577087,
     "number": 296,
     "gameId": 3955,
     "name": "BANG!",
@@ -29782,7 +29782,7 @@
     ]
   },
   {
-    "itemId": 7577288,
+    "listItemId": 7577288,
     "number": 297,
     "gameId": 145209,
     "name": "404: Law Not Found",
@@ -29858,7 +29858,7 @@
     ]
   },
   {
-    "itemId": 7577294,
+    "listItemId": 7577294,
     "number": 298,
     "gameId": 12477,
     "name": "Bootleggers",
@@ -29946,7 +29946,7 @@
     ]
   },
   {
-    "itemId": 7577300,
+    "listItemId": 7577300,
     "number": 299,
     "gameId": 155362,
     "name": "Ca$h 'n Guns (Second Edition)",
@@ -30046,7 +30046,7 @@
     ]
   },
   {
-    "itemId": 7577301,
+    "listItemId": 7577301,
     "number": 300,
     "gameId": 122891,
     "name": "Courtier",
@@ -30114,7 +30114,7 @@
     ]
   },
   {
-    "itemId": 7577304,
+    "listItemId": 7577304,
     "number": 301,
     "gameId": 160608,
     "name": "Dungeon Bazar",
@@ -30254,7 +30254,7 @@
     ]
   },
   {
-    "itemId": 7577308,
+    "listItemId": 7577308,
     "number": 302,
     "gameId": 212969,
     "name": "Summoner's Isle",
@@ -30314,7 +30314,7 @@
     ]
   },
   {
-    "itemId": 7577310,
+    "listItemId": 7577310,
     "number": 303,
     "gameId": 138317,
     "name": "Trains and Stations",
@@ -30366,7 +30366,7 @@
     ]
   },
   {
-    "itemId": 7577314,
+    "listItemId": 7577314,
     "number": 304,
     "gameId": 169704,
     "name": "Vault Wars",
@@ -30438,7 +30438,7 @@
     ]
   },
   {
-    "itemId": 7577316,
+    "listItemId": 7577316,
     "number": 305,
     "gameId": 217268,
     "name": "Wyścig Odkrywców",
@@ -30490,7 +30490,7 @@
     ]
   },
   {
-    "itemId": 7577318,
+    "listItemId": 7577318,
     "number": 306,
     "gameId": 164775,
     "name": "Monstrous",
@@ -30566,7 +30566,7 @@
     ]
   },
   {
-    "itemId": 7577321,
+    "listItemId": 7577321,
     "number": 307,
     "gameId": 142687,
     "name": "oddball Äeronauts",
@@ -30666,7 +30666,7 @@
     ]
   },
   {
-    "itemId": 7577324,
+    "listItemId": 7577324,
     "number": 308,
     "gameId": 182704,
     "name": "SteamRollers",
@@ -30750,7 +30750,7 @@
     ]
   },
   {
-    "itemId": 7577328,
+    "listItemId": 7577328,
     "number": 309,
     "gameId": 147790,
     "name": "Buccaneer Bones",
@@ -30846,7 +30846,7 @@
     ]
   },
   {
-    "itemId": 7577335,
+    "listItemId": 7577335,
     "number": 310,
     "gameId": 18289,
     "name": "Key Largo",
@@ -30926,7 +30926,7 @@
     ]
   },
   {
-    "itemId": 7577337,
+    "listItemId": 7577337,
     "number": 311,
     "gameId": 96713,
     "name": "Deadwood",
@@ -31006,7 +31006,7 @@
     ]
   },
   {
-    "itemId": 7577340,
+    "listItemId": 7577340,
     "number": 312,
     "gameId": 259972,
     "name": "Roll & Wall",
@@ -31070,7 +31070,7 @@
     ]
   },
   {
-    "itemId": 7577342,
+    "listItemId": 7577342,
     "number": 313,
     "gameId": 135557,
     "name": "Wizard's Brew",
@@ -31126,7 +31126,7 @@
     ]
   },
   {
-    "itemId": 7577345,
+    "listItemId": 7577345,
     "number": 314,
     "gameId": 68606,
     "name": "12 Realms",
@@ -31360,7 +31360,7 @@
     ]
   },
   {
-    "itemId": 7577351,
+    "listItemId": 7577351,
     "number": 315,
     "gameId": 24270,
     "name": "Hoyuk",
@@ -31508,7 +31508,7 @@
     ]
   },
   {
-    "itemId": 7577356,
+    "listItemId": 7577356,
     "number": 316,
     "gameId": 160601,
     "name": "Justice League Strategy Game",
@@ -31572,7 +31572,7 @@
     ]
   },
   {
-    "itemId": 7577359,
+    "listItemId": 7577359,
     "number": 317,
     "gameId": 131891,
     "name": "Lost Legends",
@@ -31723,7 +31723,7 @@
     ]
   },
   {
-    "itemId": 7577363,
+    "listItemId": 7577363,
     "number": 318,
     "gameId": 232201,
     "name": "Planetoid",
@@ -31775,7 +31775,7 @@
     ]
   },
   {
-    "itemId": 7577367,
+    "listItemId": 7577367,
     "number": 319,
     "gameId": 164448,
     "name": "Ninja All-Stars",
@@ -31879,7 +31879,7 @@
     ]
   },
   {
-    "itemId": 7577369,
+    "listItemId": 7577369,
     "number": 320,
     "gameId": 261529,
     "name": "The Boldest",
@@ -31951,7 +31951,7 @@
     ]
   },
   {
-    "itemId": 7577373,
+    "listItemId": 7577373,
     "number": 321,
     "gameId": 142992,
     "name": "Gravwell: Escape from the 9th Dimension",
@@ -32019,7 +32019,7 @@
     ]
   },
   {
-    "itemId": 7577377,
+    "listItemId": 7577377,
     "number": 322,
     "gameId": 97655,
     "name": "Space Maze",
@@ -32087,7 +32087,7 @@
     ]
   },
   {
-    "itemId": 7577381,
+    "listItemId": 7577381,
     "number": 323,
     "gameId": 65200,
     "name": "Asteroyds",
@@ -32191,7 +32191,7 @@
     ]
   },
   {
-    "itemId": 7577384,
+    "listItemId": 7577384,
     "number": 324,
     "gameId": 2268,
     "name": "Lost Patrol",
@@ -32255,7 +32255,7 @@
     ]
   },
   {
-    "itemId": 7577388,
+    "listItemId": 7577388,
     "number": 325,
     "gameId": 156786,
     "name": "Munchkin Panic",
@@ -32331,7 +32331,7 @@
     ]
   },
   {
-    "itemId": 7577389,
+    "listItemId": 7577389,
     "number": 326,
     "gameId": 151151,
     "name": "Epic Resort",
@@ -32395,7 +32395,7 @@
     ]
   },
   {
-    "itemId": 7577391,
+    "listItemId": 7577391,
     "number": 327,
     "gameId": 183231,
     "name": "Adventure Land",
@@ -32451,7 +32451,7 @@
     ]
   },
   {
-    "itemId": 7577392,
+    "listItemId": 7577392,
     "number": 328,
     "gameId": 257499,
     "name": "Arkham Horror (Third Edition)",
@@ -32575,7 +32575,7 @@
     ]
   },
   {
-    "itemId": 7577394,
+    "listItemId": 7577394,
     "number": 329,
     "gameId": 197451,
     "name": "Rail Raiders Infinite",
@@ -32675,7 +32675,7 @@
     ]
   },
   {
-    "itemId": 7577512,
+    "listItemId": 7577512,
     "number": 330,
     "gameId": 124361,
     "name": "Concordia",
@@ -32811,7 +32811,7 @@
     ]
   },
   {
-    "itemId": 7578207,
+    "listItemId": 7578207,
     "number": 331,
     "gameId": 16499,
     "name": "Architekton",
@@ -32994,7 +32994,7 @@
     ]
   },
   {
-    "itemId": 7578216,
+    "listItemId": 7578216,
     "number": 332,
     "gameId": 112138,
     "name": "Krosmaster: Arena",
@@ -33098,7 +33098,7 @@
     ]
   },
   {
-    "itemId": 7578217,
+    "listItemId": 7578217,
     "number": 333,
     "gameId": 154509,
     "name": "Kingsport Festival",
@@ -33202,7 +33202,7 @@
     ]
   },
   {
-    "itemId": 7578218,
+    "listItemId": 7578218,
     "number": 334,
     "gameId": 128142,
     "name": "Winter",
@@ -33338,7 +33338,7 @@
     ]
   },
   {
-    "itemId": 7578219,
+    "listItemId": 7578219,
     "number": 335,
     "gameId": 266192,
     "name": "Wingspan",
@@ -33482,7 +33482,7 @@
     ]
   },
   {
-    "itemId": 7578222,
+    "listItemId": 7578222,
     "number": 336,
     "gameId": 34499,
     "name": "Race for the Galaxy: The Gathering Storm",
@@ -33594,7 +33594,7 @@
     ]
   },
   {
-    "itemId": 7578224,
+    "listItemId": 7578224,
     "number": 337,
     "gameId": 171889,
     "name": "Sawanna",
@@ -33658,7 +33658,7 @@
     ]
   },
   {
-    "itemId": 7578226,
+    "listItemId": 7578226,
     "number": 338,
     "gameId": 18880,
     "name": "Daddy Cool",
@@ -33730,7 +33730,7 @@
     ]
   },
   {
-    "itemId": 7578227,
+    "listItemId": 7578227,
     "number": 339,
     "gameId": 3421,
     "name": "StreetSoccer",
@@ -33798,7 +33798,7 @@
     ]
   },
   {
-    "itemId": 7578229,
+    "listItemId": 7578229,
     "number": 340,
     "gameId": 260334,
     "name": "Winston",
@@ -33874,7 +33874,7 @@
     ]
   },
   {
-    "itemId": 7578265,
+    "listItemId": 7578265,
     "number": 341,
     "gameId": 9616,
     "name": "Horus",
@@ -33950,7 +33950,7 @@
     ]
   },
   {
-    "itemId": 7578266,
+    "listItemId": 7578266,
     "number": 342,
     "gameId": 177262,
     "name": "Za siedmioma górami!",
@@ -34013,7 +34013,7 @@
     ]
   },
   {
-    "itemId": 7578267,
+    "listItemId": 7578267,
     "number": 343,
     "gameId": 245710,
     "name": "Blossoms",
@@ -34181,7 +34181,7 @@
     ]
   },
   {
-    "itemId": 7578268,
+    "listItemId": 7578268,
     "number": 344,
     "gameId": 172480,
     "name": "Roar! Catch the Monster",
@@ -34253,7 +34253,7 @@
     ]
   },
   {
-    "itemId": 7578332,
+    "listItemId": 7578332,
     "number": 345,
     "gameId": 261009,
     "name": "Inuit: The Snow Folk",
@@ -34317,7 +34317,7 @@
     ]
   },
   {
-    "itemId": 7578333,
+    "listItemId": 7578333,
     "number": 346,
     "gameId": 206915,
     "name": "Tempel des Schreckens",
@@ -34389,7 +34389,7 @@
     ]
   },
   {
-    "itemId": 7578334,
+    "listItemId": 7578334,
     "number": 347,
     "gameId": 122522,
     "name": "Smash Up",
@@ -34521,7 +34521,7 @@
     ]
   },
   {
-    "itemId": 7578335,
+    "listItemId": 7578335,
     "number": 348,
     "gameId": 110277,
     "name": "Among the Stars",
@@ -34605,7 +34605,7 @@
     ]
   },
   {
-    "itemId": 7578336,
+    "listItemId": 7578336,
     "number": 349,
     "gameId": 257759,
     "name": "The River",
@@ -34665,7 +34665,7 @@
     ]
   },
   {
-    "itemId": 7578337,
+    "listItemId": 7578337,
     "number": 350,
     "gameId": 271693,
     "name": "Wodny szlak",
@@ -34717,7 +34717,7 @@
     ]
   },
   {
-    "itemId": 7578338,
+    "listItemId": 7578338,
     "number": 351,
     "gameId": 158900,
     "name": "Samurai Spirit",
@@ -34797,7 +34797,7 @@
     ]
   },
   {
-    "itemId": 7578340,
+    "listItemId": 7578340,
     "number": 352,
     "gameId": 1042,
     "name": "Dragon's Gold",
@@ -34881,7 +34881,7 @@
     ]
   },
   {
-    "itemId": 7578341,
+    "listItemId": 7578341,
     "number": 353,
     "gameId": 211450,
     "name": "Take That",
@@ -34945,7 +34945,7 @@
     ]
   },
   {
-    "itemId": 7578342,
+    "listItemId": 7578342,
     "number": 354,
     "gameId": 164354,
     "name": "Kryptos",
@@ -35017,7 +35017,7 @@
     ]
   },
   {
-    "itemId": 7578343,
+    "listItemId": 7578343,
     "number": 355,
     "gameId": 193121,
     "name": "Legends",
@@ -35077,7 +35077,7 @@
     ]
   },
   {
-    "itemId": 7578345,
+    "listItemId": 7578345,
     "number": 356,
     "gameId": 85332,
     "name": "Palacio de Viana",
@@ -35124,7 +35124,7 @@
     ]
   },
   {
-    "itemId": 7578346,
+    "listItemId": 7578346,
     "number": 357,
     "gameId": 271088,
     "name": "Ishtar: Gardens of Babylon",
@@ -35192,7 +35192,7 @@
     ]
   },
   {
-    "itemId": 7578347,
+    "listItemId": 7578347,
     "number": 358,
     "gameId": 231624,
     "name": "Exploriana",
@@ -35324,7 +35324,7 @@
     ]
   },
   {
-    "itemId": 7578351,
+    "listItemId": 7578351,
     "number": 359,
     "gameId": 220520,
     "name": "Caverna: Cave vs Cave",
@@ -35420,7 +35420,7 @@
     ]
   },
   {
-    "itemId": 7578375,
+    "listItemId": 7578375,
     "number": 360,
     "gameId": 193738,
     "name": "Great Western Trail",
@@ -35552,7 +35552,7 @@
     ]
   },
   {
-    "itemId": 7578376,
+    "listItemId": 7578376,
     "number": 361,
     "gameId": 157917,
     "name": "The Lord of the Ice Garden",
@@ -35640,7 +35640,7 @@
     ]
   },
   {
-    "itemId": 7578377,
+    "listItemId": 7578377,
     "number": 362,
     "gameId": 45315,
     "name": "Dungeon Lords",
@@ -35756,7 +35756,7 @@
     ]
   },
   {
-    "itemId": 7578378,
+    "listItemId": 7578378,
     "number": 363,
     "gameId": 171623,
     "name": "The Voyages of Marco Polo",
@@ -35896,7 +35896,7 @@
     ]
   },
   {
-    "itemId": 7578379,
+    "listItemId": 7578379,
     "number": 364,
     "gameId": 42,
     "name": "Tigris & Euphrates",
@@ -36028,7 +36028,7 @@
     ]
   },
   {
-    "itemId": 7578380,
+    "listItemId": 7578380,
     "number": 365,
     "gameId": 58421,
     "name": "Egizia",
@@ -36124,7 +36124,7 @@
     ]
   },
   {
-    "itemId": 7578381,
+    "listItemId": 7578381,
     "number": 366,
     "gameId": 54,
     "name": "Tikal",
@@ -36256,7 +36256,7 @@
     ]
   },
   {
-    "itemId": 7578382,
+    "listItemId": 7578382,
     "number": 367,
     "gameId": 10997,
     "name": "Boomtown",
@@ -36400,7 +36400,7 @@
     ]
   },
   {
-    "itemId": 7578383,
+    "listItemId": 7578383,
     "number": 368,
     "gameId": 29308,
     "name": "Beowulf: The Movie Board Game",
@@ -36668,7 +36668,7 @@
     ]
   },
   {
-    "itemId": 7578409,
+    "listItemId": 7578409,
     "number": 369,
     "gameId": 238136,
     "name": "Elementum",
@@ -36724,7 +36724,7 @@
     ]
   },
   {
-    "itemId": 7578410,
+    "listItemId": 7578410,
     "number": 370,
     "gameId": 189686,
     "name": "T.I.M.E Stories: Under the Mask",
@@ -36836,7 +36836,7 @@
     ]
   },
   {
-    "itemId": 7578411,
+    "listItemId": 7578411,
     "number": 371,
     "gameId": 203416,
     "name": "Exit: The Game – The Pharaoh's Tomb",
@@ -36952,7 +36952,7 @@
     ]
   },
   {
-    "itemId": 7578412,
+    "listItemId": 7578412,
     "number": 372,
     "gameId": 206450,
     "name": "TOP Kitchen",
@@ -37012,7 +37012,7 @@
     ]
   },
   {
-    "itemId": 7578538,
+    "listItemId": 7578538,
     "number": 373,
     "gameId": 168446,
     "name": "Doggy GO!",
@@ -37080,7 +37080,7 @@
     ]
   },
   {
-    "itemId": 7578540,
+    "listItemId": 7578540,
     "number": 374,
     "gameId": 40964,
     "name": "Unikato",
@@ -37182,7 +37182,7 @@
     ]
   },
   {
-    "itemId": 7578544,
+    "listItemId": 7578544,
     "number": 375,
     "gameId": 10206,
     "name": "Make 'n' Break",
@@ -37238,7 +37238,7 @@
     ]
   },
   {
-    "itemId": 7578547,
+    "listItemId": 7578547,
     "number": 376,
     "gameId": 77076,
     "name": "Loch Ness",
@@ -37378,7 +37378,7 @@
     ]
   },
   {
-    "itemId": 7578552,
+    "listItemId": 7578552,
     "number": 377,
     "gameId": 66188,
     "name": "Fresco",
@@ -37462,7 +37462,7 @@
     ]
   },
   {
-    "itemId": 7578717,
+    "listItemId": 7578717,
     "number": 378,
     "gameId": 173101,
     "name": "Council of 4",
@@ -37534,7 +37534,7 @@
     ]
   },
   {
-    "itemId": 7578718,
+    "listItemId": 7578718,
     "number": 379,
     "gameId": 67178,
     "name": "Water Lily",
@@ -37593,7 +37593,7 @@
     ]
   },
   {
-    "itemId": 7578732,
+    "listItemId": 7578732,
     "number": 380,
     "gameId": 140535,
     "name": "Koryŏ",
@@ -37657,7 +37657,7 @@
     ]
   },
   {
-    "itemId": 7578992,
+    "listItemId": 7578992,
     "number": 381,
     "gameId": 13,
     "name": "Catan",
@@ -37901,7 +37901,7 @@
     ]
   },
   {
-    "itemId": 7578998,
+    "listItemId": 7578998,
     "number": 382,
     "gameId": 236457,
     "name": "Architects of the West Kingdom",
@@ -38017,7 +38017,7 @@
     ]
   },
   {
-    "itemId": 7579002,
+    "listItemId": 7579002,
     "number": 383,
     "gameId": 158900,
     "name": "Samurai Spirit",
@@ -38097,7 +38097,7 @@
     ]
   },
   {
-    "itemId": 7579010,
+    "listItemId": 7579010,
     "number": 384,
     "gameId": 61269,
     "name": "Drakon (second edition)",
@@ -38165,7 +38165,7 @@
     ]
   },
   {
-    "itemId": 7579012,
+    "listItemId": 7579012,
     "number": 385,
     "gameId": 144325,
     "name": "Munchkin Legends",
@@ -38273,7 +38273,7 @@
     ]
   },
   {
-    "itemId": 7579014,
+    "listItemId": 7579014,
     "number": 386,
     "gameId": 196306,
     "name": "Guildhall Fantasy: Coalition",
@@ -38337,7 +38337,7 @@
     ]
   },
   {
-    "itemId": 7579016,
+    "listItemId": 7579016,
     "number": 387,
     "gameId": 34496,
     "name": "World of Warcraft Miniatures Game",
@@ -38437,7 +38437,7 @@
     ]
   },
   {
-    "itemId": 7579020,
+    "listItemId": 7579020,
     "number": 388,
     "gameId": 27627,
     "name": "Talisman (Revised 4th Edition)",
@@ -38681,7 +38681,7 @@
     ]
   },
   {
-    "itemId": 7579166,
+    "listItemId": 7579166,
     "number": 389,
     "gameId": 169124,
     "name": "Flick 'em Up!",
@@ -38781,7 +38781,7 @@
     ]
   },
   {
-    "itemId": 7579380,
+    "listItemId": 7579380,
     "number": 390,
     "gameId": 86048,
     "name": "Fresco: Expansion Module 7 – The Scrolls",
@@ -38857,7 +38857,7 @@
     ]
   },
   {
-    "itemId": 7579394,
+    "listItemId": 7579394,
     "number": 391,
     "gameId": 94362,
     "name": "Rune Age",
@@ -38961,7 +38961,7 @@
     ]
   },
   {
-    "itemId": 7579420,
+    "listItemId": 7579420,
     "number": 392,
     "gameId": 241831,
     "name": "Reykholt",
@@ -39049,7 +39049,7 @@
     ]
   },
   {
-    "itemId": 7579574,
+    "listItemId": 7579574,
     "number": 393,
     "gameId": 176816,
     "name": "The Little Prince: Rising to the Stars",
@@ -39137,7 +39137,7 @@
     ]
   },
   {
-    "itemId": 7579580,
+    "listItemId": 7579580,
     "number": 394,
     "gameId": 154638,
     "name": "7 Wonders: Babel",
@@ -39225,7 +39225,7 @@
     ]
   },
   {
-    "itemId": 7579622,
+    "listItemId": 7579622,
     "number": 395,
     "gameId": 189453,
     "name": "Victorian Masterminds",
@@ -39292,7 +39292,7 @@
     ]
   },
   {
-    "itemId": 7579624,
+    "listItemId": 7579624,
     "number": 396,
     "gameId": 204602,
     "name": "Kill The Unicorns",
@@ -39388,7 +39388,7 @@
     ]
   },
   {
-    "itemId": 7579625,
+    "listItemId": 7579625,
     "number": 397,
     "gameId": 252328,
     "name": "Star Wars: X-Wing (Second Edition)",
@@ -39492,7 +39492,7 @@
     ]
   },
   {
-    "itemId": 7579636,
+    "listItemId": 7579636,
     "number": 398,
     "gameId": 157969,
     "name": "Sheriff of Nottingham",
@@ -39644,7 +39644,7 @@
     ]
   },
   {
-    "itemId": 7579641,
+    "listItemId": 7579641,
     "number": 399,
     "gameId": 213099,
     "name": "T.I.M.E Stories: Lumen Fidei",
@@ -39740,7 +39740,7 @@
     ]
   },
   {
-    "itemId": 7579644,
+    "listItemId": 7579644,
     "number": 400,
     "gameId": 153507,
     "name": "Terra",
@@ -39832,7 +39832,7 @@
     ]
   },
   {
-    "itemId": 7579649,
+    "listItemId": 7579649,
     "number": 401,
     "gameId": 35497,
     "name": "Fauna",
@@ -39940,7 +39940,7 @@
     ]
   },
   {
-    "itemId": 7579660,
+    "listItemId": 7579660,
     "number": 402,
     "gameId": 174660,
     "name": "New York 1901",
@@ -40020,7 +40020,7 @@
     ]
   },
   {
-    "itemId": 7579662,
+    "listItemId": 7579662,
     "number": 403,
     "gameId": 191077,
     "name": "Gierki Małżeńskie",
@@ -40067,7 +40067,7 @@
     ]
   },
   {
-    "itemId": 7579667,
+    "listItemId": 7579667,
     "number": 404,
     "gameId": 205498,
     "name": "Round House",
@@ -40143,7 +40143,7 @@
     ]
   },
   {
-    "itemId": 7579668,
+    "listItemId": 7579668,
     "number": 405,
     "gameId": 244049,
     "name": "Forum Trajanum",
@@ -40219,7 +40219,7 @@
     ]
   },
   {
-    "itemId": 7579671,
+    "listItemId": 7579671,
     "number": 406,
     "gameId": 189294,
     "name": "Yeti",
@@ -40295,7 +40295,7 @@
     ]
   },
   {
-    "itemId": 7579673,
+    "listItemId": 7579673,
     "number": 407,
     "gameId": 201557,
     "name": "Odyseja",
@@ -40359,7 +40359,7 @@
     ]
   },
   {
-    "itemId": 7579678,
+    "listItemId": 7579678,
     "number": 408,
     "gameId": 214000,
     "name": "In the Year of the Dragon: 10th Anniversary",
@@ -40427,7 +40427,7 @@
     ]
   },
   {
-    "itemId": 7579685,
+    "listItemId": 7579685,
     "number": 409,
     "gameId": 157083,
     "name": "Dragon Valley",
@@ -40487,7 +40487,7 @@
     ]
   },
   {
-    "itemId": 7579688,
+    "listItemId": 7579688,
     "number": 410,
     "gameId": 194575,
     "name": "Loża Szyderców",
@@ -40550,7 +40550,7 @@
     ]
   },
   {
-    "itemId": 7579689,
+    "listItemId": 7579689,
     "number": 411,
     "gameId": 272453,
     "name": "KeyForge: Age of Ascension",
@@ -40626,7 +40626,7 @@
     ]
   },
   {
-    "itemId": 7579690,
+    "listItemId": 7579690,
     "number": 412,
     "gameId": 157096,
     "name": "Historia",
@@ -40698,7 +40698,7 @@
     ]
   },
   {
-    "itemId": 7580270,
+    "listItemId": 7580270,
     "number": 413,
     "gameId": 160499,
     "name": "King of New York",
@@ -40910,7 +40910,7 @@
     ]
   },
   {
-    "itemId": 7580274,
+    "listItemId": 7580274,
     "number": 414,
     "gameId": 249404,
     "name": "Itchy Monkey",
@@ -40974,7 +40974,7 @@
     ]
   },
   {
-    "itemId": 7580289,
+    "listItemId": 7580289,
     "number": 415,
     "gameId": 223049,
     "name": "Custom Heroes",
@@ -41145,7 +41145,7 @@
     ]
   },
   {
-    "itemId": 7580392,
+    "listItemId": 7580392,
     "number": 416,
     "gameId": 73316,
     "name": "Magnum Sal",
@@ -41213,7 +41213,7 @@
     ]
   },
   {
-    "itemId": 7580393,
+    "listItemId": 7580393,
     "number": 417,
     "gameId": 30869,
     "name": "Thebes",
@@ -41293,7 +41293,7 @@
     ]
   },
   {
-    "itemId": 7580396,
+    "listItemId": 7580396,
     "number": 418,
     "gameId": 214000,
     "name": "In the Year of the Dragon: 10th Anniversary",
@@ -41361,7 +41361,7 @@
     ]
   },
   {
-    "itemId": 7580398,
+    "listItemId": 7580398,
     "number": 419,
     "gameId": 904,
     "name": "Dream Factory",
@@ -41441,7 +41441,7 @@
     ]
   },
   {
-    "itemId": 7580399,
+    "listItemId": 7580399,
     "number": 420,
     "gameId": 280977,
     "name": "Lato z Komarami",
@@ -41620,7 +41620,7 @@
     ]
   },
   {
-    "itemId": 7580408,
+    "listItemId": 7580408,
     "number": 421,
     "gameId": 73439,
     "name": "Troyes",
@@ -41720,7 +41720,7 @@
     ]
   },
   {
-    "itemId": 7580410,
+    "listItemId": 7580410,
     "number": 422,
     "gameId": 186624,
     "name": "Pacal's Rocket",
@@ -41776,7 +41776,7 @@
     ]
   },
   {
-    "itemId": 7580411,
+    "listItemId": 7580411,
     "number": 423,
     "gameId": 100901,
     "name": "Flash Point: Fire Rescue",
@@ -41892,7 +41892,7 @@
     ]
   },
   {
-    "itemId": 7580412,
+    "listItemId": 7580412,
     "number": 424,
     "gameId": 174065,
     "name": "Pan tu nie stał! Demoludy",
@@ -41956,7 +41956,7 @@
     ]
   },
   {
-    "itemId": 7580413,
+    "listItemId": 7580413,
     "number": 425,
     "gameId": 46396,
     "name": "Ubongo 3-D",
@@ -42024,7 +42024,7 @@
     ]
   },
   {
-    "itemId": 7580419,
+    "listItemId": 7580419,
     "number": 426,
     "gameId": 256,
     "name": "Mississippi Queen",
@@ -42100,7 +42100,7 @@
     ]
   },
   {
-    "itemId": 7580420,
+    "listItemId": 7580420,
     "number": 427,
     "gameId": 191862,
     "name": "Imhotep",
@@ -42239,7 +42239,7 @@
     ]
   },
   {
-    "itemId": 7580421,
+    "listItemId": 7580421,
     "number": 428,
     "gameId": 191876,
     "name": "Ulm",
@@ -42307,7 +42307,7 @@
     ]
   },
   {
-    "itemId": 7580422,
+    "listItemId": 7580422,
     "number": 429,
     "gameId": 260505,
     "name": "Stack Spell",
@@ -42355,7 +42355,7 @@
     ]
   },
   {
-    "itemId": 7580428,
+    "listItemId": 7580428,
     "number": 430,
     "gameId": 121921,
     "name": "Robinson Crusoe: Adventures on the Cursed Island",
@@ -42491,7 +42491,7 @@
     ]
   },
   {
-    "itemId": 7580447,
+    "listItemId": 7580447,
     "number": 431,
     "gameId": 72851,
     "name": "Stronghold: Undead",
@@ -42563,7 +42563,7 @@
     ]
   },
   {
-    "itemId": 7580452,
+    "listItemId": 7580452,
     "number": 432,
     "gameId": 31623,
     "name": "Hannibal Barkas",
@@ -42627,7 +42627,7 @@
     ]
   },
   {
-    "itemId": 7580453,
+    "listItemId": 7580453,
     "number": 433,
     "gameId": 166384,
     "name": "Spyfall",
@@ -42799,7 +42799,7 @@
     ]
   },
   {
-    "itemId": 7580454,
+    "listItemId": 7580454,
     "number": 434,
     "gameId": 101721,
     "name": "Mage Wars Arena",
@@ -42899,7 +42899,7 @@
     ]
   },
   {
-    "itemId": 7580455,
+    "listItemId": 7580455,
     "number": 435,
     "gameId": 172503,
     "name": "Mage Wars Academy",
@@ -42975,7 +42975,7 @@
     ]
   },
   {
-    "itemId": 7580456,
+    "listItemId": 7580456,
     "number": 436,
     "gameId": 147299,
     "name": "Pocket Imperium",
@@ -43059,7 +43059,7 @@
     ]
   },
   {
-    "itemId": 7580457,
+    "listItemId": 7580457,
     "number": 437,
     "gameId": 16443,
     "name": "Dungeoneer: Dragons of the Forsaken Desert",
@@ -43139,7 +43139,7 @@
     ]
   },
   {
-    "itemId": 7580458,
+    "listItemId": 7580458,
     "number": 438,
     "gameId": 162007,
     "name": "Steampunk Rally",
@@ -43223,7 +43223,7 @@
     ]
   },
   {
-    "itemId": 7580459,
+    "listItemId": 7580459,
     "number": 439,
     "gameId": 11159,
     "name": "Dungeoneer: Haunted Woods of Malthorin",
@@ -43299,7 +43299,7 @@
     ]
   },
   {
-    "itemId": 7580460,
+    "listItemId": 7580460,
     "number": 440,
     "gameId": 180040,
     "name": "Villages of Valeria",
@@ -43431,7 +43431,7 @@
     ]
   },
   {
-    "itemId": 7580461,
+    "listItemId": 7580461,
     "number": 441,
     "gameId": 81913,
     "name": "Unidentified Game",
@@ -43469,7 +43469,7 @@
     ]
   },
   {
-    "itemId": 7580464,
+    "listItemId": 7580464,
     "number": 442,
     "gameId": 200359,
     "name": "Shadowscape",
@@ -43533,7 +43533,7 @@
     ]
   },
   {
-    "itemId": 7580465,
+    "listItemId": 7580465,
     "number": 443,
     "gameId": 157723,
     "name": "We Didn't Playtest This at All with Chaos Pack Expansion",
@@ -43613,7 +43613,7 @@
     ]
   },
   {
-    "itemId": 7580470,
+    "listItemId": 7580470,
     "number": 444,
     "gameId": 134157,
     "name": "Guilds of London",
@@ -43685,7 +43685,7 @@
     ]
   },
   {
-    "itemId": 7580474,
+    "listItemId": 7580474,
     "number": 445,
     "gameId": 168882,
     "name": "Race to the North Pole",
@@ -43761,7 +43761,7 @@
     ]
   },
   {
-    "itemId": 7580475,
+    "listItemId": 7580475,
     "number": 446,
     "gameId": 195518,
     "name": "Crazy Karts",
@@ -43865,7 +43865,7 @@
     ]
   },
   {
-    "itemId": 7580478,
+    "listItemId": 7580478,
     "number": 447,
     "gameId": 21287,
     "name": "Bison: Thunder on the Prairie",
@@ -43953,7 +43953,7 @@
     ]
   },
   {
-    "itemId": 7580479,
+    "listItemId": 7580479,
     "number": 448,
     "gameId": 431,
     "name": "Alhambra: The Card Game",
@@ -44041,7 +44041,7 @@
     ]
   },
   {
-    "itemId": 7580481,
+    "listItemId": 7580481,
     "number": 449,
     "gameId": 25491,
     "name": "Alhambra: The Dice Game",
@@ -44097,7 +44097,7 @@
     ]
   },
   {
-    "itemId": 7580482,
+    "listItemId": 7580482,
     "number": 450,
     "gameId": 29903,
     "name": "Chang Cheng",
@@ -44161,7 +44161,7 @@
     ]
   },
   {
-    "itemId": 7580483,
+    "listItemId": 7580483,
     "number": 451,
     "gameId": 223449,
     "name": "Konja",
@@ -44241,7 +44241,7 @@
     ]
   },
   {
-    "itemId": 7580484,
+    "listItemId": 7580484,
     "number": 452,
     "gameId": 223278,
     "name": "The Palace of Mad King Ludwig",
@@ -44293,7 +44293,7 @@
     ]
   },
   {
-    "itemId": 7580485,
+    "listItemId": 7580485,
     "number": 453,
     "gameId": 210274,
     "name": "Petrichor",
@@ -44393,7 +44393,7 @@
     ]
   },
   {
-    "itemId": 7580486,
+    "listItemId": 7580486,
     "number": 454,
     "gameId": 235767,
     "name": "Sorcerer & Stones",
@@ -44481,7 +44481,7 @@
     ]
   },
   {
-    "itemId": 7580488,
+    "listItemId": 7580488,
     "number": 455,
     "gameId": 234948,
     "name": "Prehistory",
@@ -44553,7 +44553,7 @@
     ]
   },
   {
-    "itemId": 7580489,
+    "listItemId": 7580489,
     "number": 456,
     "gameId": 228183,
     "name": "Star Scrappers: Cave-in",
@@ -44633,7 +44633,7 @@
     ]
   },
   {
-    "itemId": 7580490,
+    "listItemId": 7580490,
     "number": 457,
     "gameId": 258466,
     "name": "The Great City of Rome",
@@ -44693,7 +44693,7 @@
     ]
   },
   {
-    "itemId": 7580491,
+    "listItemId": 7580491,
     "number": 458,
     "gameId": 249746,
     "name": "Nanty Narking",
@@ -44777,7 +44777,7 @@
     ]
   },
   {
-    "itemId": 7580492,
+    "listItemId": 7580492,
     "number": 459,
     "gameId": 280789,
     "name": "Pandemic: Rapid Response",
@@ -44849,7 +44849,7 @@
     ]
   },
   {
-    "itemId": 7580494,
+    "listItemId": 7580494,
     "number": 460,
     "gameId": 141734,
     "name": "String Safari",
@@ -44921,7 +44921,7 @@
     ]
   },
   {
-    "itemId": 7580498,
+    "listItemId": 7580498,
     "number": 461,
     "gameId": 209429,
     "name": "Tripol",
@@ -44981,7 +44981,7 @@
     ]
   },
   {
-    "itemId": 7580502,
+    "listItemId": 7580502,
     "number": 462,
     "gameId": 255507,
     "name": "Orbis",
@@ -45053,7 +45053,7 @@
     ]
   },
   {
-    "itemId": 7580504,
+    "listItemId": 7580504,
     "number": 463,
     "gameId": 245710,
     "name": "Blossoms",
@@ -45121,7 +45121,7 @@
     ]
   },
   {
-    "itemId": 7580505,
+    "listItemId": 7580505,
     "number": 464,
     "gameId": 189160,
     "name": "Top That!",
@@ -45193,7 +45193,7 @@
     ]
   },
   {
-    "itemId": 7580524,
+    "listItemId": 7580524,
     "number": 465,
     "gameId": 72848,
     "name": "Kill the Overlord",
@@ -45257,7 +45257,7 @@
     ]
   },
   {
-    "itemId": 7580525,
+    "listItemId": 7580525,
     "number": 466,
     "gameId": 86073,
     "name": "5 Second Rule",
@@ -45368,7 +45368,7 @@
     ]
   },
   {
-    "itemId": 7580526,
+    "listItemId": 7580526,
     "number": 467,
     "gameId": 194820,
     "name": "Mission to Mars 2049",
@@ -45444,7 +45444,7 @@
     ]
   },
   {
-    "itemId": 7580528,
+    "listItemId": 7580528,
     "number": 468,
     "gameId": 84876,
     "name": "The Castles of Burgundy",
@@ -45548,7 +45548,7 @@
     ]
   },
   {
-    "itemId": 7580531,
+    "listItemId": 7580531,
     "number": 469,
     "gameId": 200680,
     "name": "Agricola (Revised Edition)",
@@ -45736,7 +45736,7 @@
     ]
   },
   {
-    "itemId": 7580542,
+    "listItemId": 7580542,
     "number": 470,
     "gameId": 154638,
     "name": "7 Wonders: Babel",
@@ -45824,7 +45824,7 @@
     ]
   },
   {
-    "itemId": 7580642,
+    "listItemId": 7580642,
     "number": 471,
     "gameId": 204027,
     "name": "Cottage Garden",
@@ -45936,7 +45936,7 @@
     ]
   },
   {
-    "itemId": 7580647,
+    "listItemId": 7580647,
     "number": 472,
     "gameId": 146886,
     "name": "La Granja",
@@ -46064,7 +46064,7 @@
     ]
   },
   {
-    "itemId": 7580655,
+    "listItemId": 7580655,
     "number": 473,
     "gameId": 70512,
     "name": "Luna",
@@ -46156,7 +46156,7 @@
     ]
   },
   {
-    "itemId": 7580657,
+    "listItemId": 7580657,
     "number": 474,
     "gameId": 181293,
     "name": "Alien Artifacts",
@@ -46236,7 +46236,7 @@
     ]
   },
   {
-    "itemId": 7580659,
+    "listItemId": 7580659,
     "number": 475,
     "gameId": 63628,
     "name": "The Manhattan Project",
@@ -46348,7 +46348,7 @@
     ]
   },
   {
-    "itemId": 7580711,
+    "listItemId": 7580711,
     "number": 476,
     "gameId": 31481,
     "name": "Galaxy Trucker",
@@ -46492,7 +46492,7 @@
     ]
   },
   {
-    "itemId": 7580712,
+    "listItemId": 7580712,
     "number": 477,
     "gameId": 39683,
     "name": "At the Gates of Loyang",
@@ -46608,7 +46608,7 @@
     ]
   },
   {
-    "itemId": 7580722,
+    "listItemId": 7580722,
     "number": 478,
     "gameId": 158900,
     "name": "Samurai Spirit",
@@ -46688,7 +46688,7 @@
     ]
   },
   {
-    "itemId": 7580723,
+    "listItemId": 7580723,
     "number": 479,
     "gameId": 175495,
     "name": "Titan Race",
@@ -46764,7 +46764,7 @@
     ]
   },
   {
-    "itemId": 7580724,
+    "listItemId": 7580724,
     "number": 480,
     "gameId": 151247,
     "name": "Greed",
@@ -46832,7 +46832,7 @@
     ]
   },
   {
-    "itemId": 7580727,
+    "listItemId": 7580727,
     "number": 481,
     "gameId": 178054,
     "name": "A Study in Emerald (second edition)",
@@ -46948,7 +46948,7 @@
     ]
   },
   {
-    "itemId": 7580736,
+    "listItemId": 7580736,
     "number": 482,
     "gameId": 33643,
     "name": "Whoowasit?",
@@ -47016,7 +47016,7 @@
     ]
   },
   {
-    "itemId": 7580740,
+    "listItemId": 7580740,
     "number": 483,
     "gameId": 43309,
     "name": "Pig Tails",
@@ -47080,7 +47080,7 @@
     ]
   },
   {
-    "itemId": 7580741,
+    "listItemId": 7580741,
     "number": 484,
     "gameId": 21024,
     "name": "DVD Sudoku",
@@ -47160,7 +47160,7 @@
     ]
   },
   {
-    "itemId": 7580756,
+    "listItemId": 7580756,
     "number": 485,
     "gameId": 229220,
     "name": "Santa Maria",
@@ -47272,7 +47272,7 @@
     ]
   },
   {
-    "itemId": 7580757,
+    "listItemId": 7580757,
     "number": 486,
     "gameId": 119337,
     "name": "Aeroplanes: Aviation Ascendant",
@@ -47348,7 +47348,7 @@
     ]
   },
   {
-    "itemId": 7580758,
+    "listItemId": 7580758,
     "number": 487,
     "gameId": 182120,
     "name": "Histrio",
@@ -47420,7 +47420,7 @@
     ]
   },
   {
-    "itemId": 7580761,
+    "listItemId": 7580761,
     "number": 488,
     "gameId": 231581,
     "name": "AuZtralia",
@@ -47520,7 +47520,7 @@
     ]
   },
   {
-    "itemId": 7580762,
+    "listItemId": 7580762,
     "number": 489,
     "gameId": 26997,
     "name": "1989: Dawn of Freedom",
@@ -47608,7 +47608,7 @@
     ]
   },
   {
-    "itemId": 7580766,
+    "listItemId": 7580766,
     "number": 490,
     "gameId": 2651,
     "name": "Power Grid",
@@ -47840,7 +47840,7 @@
     ]
   },
   {
-    "itemId": 7580799,
+    "listItemId": 7580799,
     "number": 491,
     "gameId": 30356,
     "name": "Heartland",
@@ -47908,7 +47908,7 @@
     ]
   },
   {
-    "itemId": 7580848,
+    "listItemId": 7580848,
     "number": 492,
     "gameId": 181260,
     "name": "Burano",
@@ -47988,7 +47988,7 @@
     ]
   },
   {
-    "itemId": 7580854,
+    "listItemId": 7580854,
     "number": 493,
     "gameId": 253399,
     "name": "Journal 29: Interactive Book Game",
@@ -48182,7 +48182,7 @@
     ]
   },
   {
-    "itemId": 7580859,
+    "listItemId": 7580859,
     "number": 494,
     "gameId": 30869,
     "name": "Thebes",
@@ -48262,7 +48262,7 @@
     ]
   },
   {
-    "itemId": 7580865,
+    "listItemId": 7580865,
     "number": 495,
     "gameId": 263155,
     "name": "One Key",
@@ -48350,7 +48350,7 @@
     ]
   },
   {
-    "itemId": 7581051,
+    "listItemId": 7581051,
     "number": 496,
     "gameId": 250442,
     "name": "Crypt",
@@ -48438,7 +48438,7 @@
     ]
   },
   {
-    "itemId": 7581096,
+    "listItemId": 7581096,
     "number": 497,
     "gameId": 228183,
     "name": "Star Scrappers: Cave-in",
@@ -48518,7 +48518,7 @@
     ]
   },
   {
-    "itemId": 7581329,
+    "listItemId": 7581329,
     "number": 498,
     "gameId": 192291,
     "name": "Sushi Go Party!",
@@ -48606,7 +48606,7 @@
     ]
   },
   {
-    "itemId": 7582042,
+    "listItemId": 7582042,
     "number": 499,
     "gameId": 129459,
     "name": "Duel of Ages II",
@@ -48694,7 +48694,7 @@
     ]
   },
   {
-    "itemId": 7582111,
+    "listItemId": 7582111,
     "number": 500,
     "gameId": 218025,
     "name": "The Little Flower Shop",
@@ -48798,7 +48798,7 @@
     ]
   },
   {
-    "itemId": 7582112,
+    "listItemId": 7582112,
     "number": 501,
     "gameId": 209014,
     "name": "Front Line No Komrades",
@@ -48934,7 +48934,7 @@
     ]
   },
   {
-    "itemId": 7582113,
+    "listItemId": 7582113,
     "number": 502,
     "gameId": 169124,
     "name": "Flick 'em Up!",
@@ -49034,7 +49034,7 @@
     ]
   },
   {
-    "itemId": 7582115,
+    "listItemId": 7582115,
     "number": 503,
     "gameId": 266192,
     "name": "Wingspan",
@@ -49178,7 +49178,7 @@
     ]
   },
   {
-    "itemId": 7582116,
+    "listItemId": 7582116,
     "number": 504,
     "gameId": 171233,
     "name": "The Big Book of Madness",
@@ -49294,7 +49294,7 @@
     ]
   },
   {
-    "itemId": 7582137,
+    "listItemId": 7582137,
     "number": 505,
     "gameId": 37231,
     "name": "Comuni",
@@ -49378,7 +49378,7 @@
     ]
   },
   {
-    "itemId": 7582141,
+    "listItemId": 7582141,
     "number": 506,
     "gameId": 162591,
     "name": "Heroes",
@@ -49550,7 +49550,7 @@
     ]
   },
   {
-    "itemId": 7582253,
+    "listItemId": 7582253,
     "number": 507,
     "gameId": 162041,
     "name": "Ninja Taisen",
@@ -49626,7 +49626,7 @@
     ]
   },
   {
-    "itemId": 7582261,
+    "listItemId": 7582261,
     "number": 508,
     "gameId": 156138,
     "name": "Happy Pigs",
@@ -49702,7 +49702,7 @@
     ]
   },
   {
-    "itemId": 7582287,
+    "listItemId": 7582287,
     "number": 509,
     "gameId": 177524,
     "name": "ICECOOL",
@@ -49822,7 +49822,7 @@
     ]
   },
   {
-    "itemId": 7582289,
+    "listItemId": 7582289,
     "number": 510,
     "gameId": 204138,
     "name": "Women vs. Men Alias",
@@ -49898,7 +49898,7 @@
     ]
   },
   {
-    "itemId": 7582290,
+    "listItemId": 7582290,
     "number": 511,
     "gameId": 130680,
     "name": "iKNOW",
@@ -49957,7 +49957,7 @@
     ]
   },
   {
-    "itemId": 7582291,
+    "listItemId": 7582291,
     "number": 512,
     "gameId": 295108,
     "name": "Podróże po Jurze",
@@ -50033,7 +50033,7 @@
     ]
   },
   {
-    "itemId": 7582293,
+    "listItemId": 7582293,
     "number": 513,
     "gameId": 147938,
     "name": "Ticket to Ride Map Collection: Volume 4 – Nederland",
@@ -50101,7 +50101,7 @@
     ]
   },
   {
-    "itemId": 7582330,
+    "listItemId": 7582330,
     "number": 514,
     "gameId": 21241,
     "name": "Neuroshima Hex! 3.0",
@@ -50201,7 +50201,7 @@
     ]
   },
   {
-    "itemId": 7582332,
+    "listItemId": 7582332,
     "number": 515,
     "gameId": 18745,
     "name": "Sun Tzu",
@@ -50269,7 +50269,7 @@
     ]
   },
   {
-    "itemId": 7582388,
+    "listItemId": 7582388,
     "number": 516,
     "gameId": 109456,
     "name": "Nova Cry",
@@ -50389,7 +50389,7 @@
     ]
   },
   {
-    "itemId": 7582391,
+    "listItemId": 7582391,
     "number": 517,
     "gameId": 168582,
     "name": "Dragon Racer",
@@ -50632,7 +50632,7 @@
     ]
   },
   {
-    "itemId": 7582395,
+    "listItemId": 7582395,
     "number": 518,
     "gameId": 181293,
     "name": "Alien Artifacts",
@@ -50772,7 +50772,7 @@
     ]
   },
   {
-    "itemId": 7582397,
+    "listItemId": 7582397,
     "number": 519,
     "gameId": 70323,
     "name": "King of Tokyo",
@@ -50976,7 +50976,7 @@
     ]
   },
   {
-    "itemId": 7582563,
+    "listItemId": 7582563,
     "number": 520,
     "gameId": 193037,
     "name": "Dead of Winter: The Long Night",
@@ -51124,7 +51124,7 @@
     ]
   },
   {
-    "itemId": 7582653,
+    "listItemId": 7582653,
     "number": 521,
     "gameId": 171879,
     "name": "Kraftwagen",
@@ -51192,7 +51192,7 @@
     ]
   },
   {
-    "itemId": 7582657,
+    "listItemId": 7582657,
     "number": 522,
     "gameId": 5942,
     "name": "Mystery Rummy: Al Capone and the Chicago Underworld",
@@ -51256,7 +51256,7 @@
     ]
   },
   {
-    "itemId": 7582661,
+    "listItemId": 7582661,
     "number": 523,
     "gameId": 237182,
     "name": "Root",
@@ -51388,7 +51388,7 @@
     ]
   },
   {
-    "itemId": 7582665,
+    "listItemId": 7582665,
     "number": 524,
     "gameId": 194607,
     "name": "Mystic Vale",
@@ -51516,7 +51516,7 @@
     ]
   },
   {
-    "itemId": 7582671,
+    "listItemId": 7582671,
     "number": 525,
     "gameId": 259809,
     "name": "Sonar Family",
@@ -51620,7 +51620,7 @@
     ]
   },
   {
-    "itemId": 7582672,
+    "listItemId": 7582672,
     "number": 526,
     "gameId": 213549,
     "name": "Spoils of War",
@@ -51688,7 +51688,7 @@
     ]
   },
   {
-    "itemId": 7582675,
+    "listItemId": 7582675,
     "number": 527,
     "gameId": 83197,
     "name": "Zen Master",
@@ -51772,7 +51772,7 @@
     ]
   },
   {
-    "itemId": 7583171,
+    "listItemId": 7583171,
     "number": 528,
     "gameId": 200954,
     "name": "Fields of Green",
@@ -52078,7 +52078,7 @@
     ]
   },
   {
-    "itemId": 7583173,
+    "listItemId": 7583173,
     "number": 529,
     "gameId": 54138,
     "name": "Imperial 2030",
@@ -52182,7 +52182,7 @@
     ]
   },
   {
-    "itemId": 7583317,
+    "listItemId": 7583317,
     "number": 530,
     "gameId": 204574,
     "name": "The Flow of History",
@@ -52262,7 +52262,7 @@
     ]
   },
   {
-    "itemId": 7583318,
+    "listItemId": 7583318,
     "number": 531,
     "gameId": 154509,
     "name": "Kingsport Festival",
@@ -52366,7 +52366,7 @@
     ]
   },
   {
-    "itemId": 7583321,
+    "listItemId": 7583321,
     "number": 532,
     "gameId": 122522,
     "name": "Smash Up",
@@ -52498,7 +52498,7 @@
     ]
   },
   {
-    "itemId": 7583323,
+    "listItemId": 7583323,
     "number": 533,
     "gameId": 258308,
     "name": "Fuji",
@@ -52586,7 +52586,7 @@
     ]
   },
   {
-    "itemId": 7583325,
+    "listItemId": 7583325,
     "number": 534,
     "gameId": 272739,
     "name": "Clinic: Deluxe Edition",
@@ -52734,7 +52734,7 @@
     ]
   },
   {
-    "itemId": 7583342,
+    "listItemId": 7583342,
     "number": 535,
     "gameId": 233247,
     "name": "Sid Meier's Civilization: A New Dawn",
@@ -52822,7 +52822,7 @@
     ]
   },
   {
-    "itemId": 7583343,
+    "listItemId": 7583343,
     "number": 536,
     "gameId": 261009,
     "name": "Inuit: The Snow Folk",
@@ -52886,7 +52886,7 @@
     ]
   },
   {
-    "itemId": 7583373,
+    "listItemId": 7583373,
     "number": 537,
     "gameId": 25071,
     "name": "Munchkin Cthulhu",
@@ -53153,7 +53153,7 @@
     ]
   },
   {
-    "itemId": 7583400,
+    "listItemId": 7583400,
     "number": 538,
     "gameId": 5716,
     "name": "Balloon Cup",
@@ -53297,7 +53297,7 @@
     ]
   },
   {
-    "itemId": 7583405,
+    "listItemId": 7583405,
     "number": 539,
     "gameId": 183720,
     "name": "Cargolino Valentino",
@@ -53413,7 +53413,7 @@
     ]
   },
   {
-    "itemId": 7583433,
+    "listItemId": 7583433,
     "number": 540,
     "gameId": 171890,
     "name": "Best Treehouse Ever",
@@ -53561,7 +53561,7 @@
     ]
   },
   {
-    "itemId": 7583458,
+    "listItemId": 7583458,
     "number": 541,
     "gameId": 218509,
     "name": "Empires of the Void II",
@@ -53649,7 +53649,7 @@
     ]
   },
   {
-    "itemId": 7583860,
+    "listItemId": 7583860,
     "number": 542,
     "gameId": 204,
     "name": "Stephenson's Rocket",
@@ -53737,7 +53737,7 @@
     ]
   },
   {
-    "itemId": 7583866,
+    "listItemId": 7583866,
     "number": 543,
     "gameId": 9342,
     "name": "Fifth Avenue",
@@ -53797,7 +53797,7 @@
     ]
   },
   {
-    "itemId": 7583873,
+    "listItemId": 7583873,
     "number": 544,
     "gameId": 205498,
     "name": "Round House",
@@ -53873,7 +53873,7 @@
     ]
   },
   {
-    "itemId": 7583875,
+    "listItemId": 7583875,
     "number": 545,
     "gameId": 189052,
     "name": "Sea of Clouds",
@@ -54005,7 +54005,7 @@
     ]
   },
   {
-    "itemId": 7583887,
+    "listItemId": 7583887,
     "number": 546,
     "gameId": 182704,
     "name": "SteamRollers",
@@ -54089,7 +54089,7 @@
     ]
   },
   {
-    "itemId": 7583901,
+    "listItemId": 7583901,
     "number": 547,
     "gameId": 173346,
     "name": "7 Wonders Duel",
@@ -54225,7 +54225,7 @@
     ]
   },
   {
-    "itemId": 7583910,
+    "listItemId": 7583910,
     "number": 548,
     "gameId": 243993,
     "name": "La Stanza",
@@ -54285,7 +54285,7 @@
     ]
   },
   {
-    "itemId": 7583916,
+    "listItemId": 7583916,
     "number": 549,
     "gameId": 272427,
     "name": "Terramara",
@@ -54357,7 +54357,7 @@
     ]
   },
   {
-    "itemId": 7583966,
+    "listItemId": 7583966,
     "number": 550,
     "gameId": 54,
     "name": "Tikal",
@@ -54489,7 +54489,7 @@
     ]
   },
   {
-    "itemId": 7583970,
+    "listItemId": 7583970,
     "number": 551,
     "gameId": 193037,
     "name": "Dead of Winter: The Long Night",
@@ -54637,7 +54637,7 @@
     ]
   },
   {
-    "itemId": 7583972,
+    "listItemId": 7583972,
     "number": 552,
     "gameId": 201825,
     "name": "Ex Libris",
@@ -54737,7 +54737,7 @@
     ]
   },
   {
-    "itemId": 7584140,
+    "listItemId": 7584140,
     "number": 553,
     "gameId": 59959,
     "name": "Letters from Whitechapel",
@@ -54873,7 +54873,7 @@
     ]
   },
   {
-    "itemId": 7584141,
+    "listItemId": 7584141,
     "number": 554,
     "gameId": 146021,
     "name": "Eldritch Horror",
@@ -55017,7 +55017,7 @@
     ]
   },
   {
-    "itemId": 7584142,
+    "listItemId": 7584142,
     "number": 555,
     "gameId": 206450,
     "name": "TOP Kitchen",
@@ -55077,7 +55077,7 @@
     ]
   },
   {
-    "itemId": 7584144,
+    "listItemId": 7584144,
     "number": 556,
     "gameId": 8125,
     "name": "Santiago",
@@ -55157,7 +55157,7 @@
     ]
   },
   {
-    "itemId": 7584145,
+    "listItemId": 7584145,
     "number": 557,
     "gameId": 245045,
     "name": "Deckscape: Heist in Venice",
@@ -55329,7 +55329,7 @@
     ]
   },
   {
-    "itemId": 7584159,
+    "listItemId": 7584159,
     "number": 558,
     "gameId": 223855,
     "name": "Sentient",
@@ -55588,7 +55588,7 @@
     ]
   },
   {
-    "itemId": 7584212,
+    "listItemId": 7584212,
     "number": 559,
     "gameId": 118048,
     "name": "Targi",
@@ -55760,7 +55760,7 @@
     ]
   },
   {
-    "itemId": 7584277,
+    "listItemId": 7584277,
     "number": 560,
     "gameId": 146278,
     "name": "Tash-Kalar: Arena of Legends",
@@ -55984,7 +55984,7 @@
     ]
   },
   {
-    "itemId": 7584287,
+    "listItemId": 7584287,
     "number": 561,
     "gameId": 180592,
     "name": "Steam Time",
@@ -56044,7 +56044,7 @@
     ]
   },
   {
-    "itemId": 7584294,
+    "listItemId": 7584294,
     "number": 562,
     "gameId": 191876,
     "name": "Ulm",
@@ -56112,7 +56112,7 @@
     ]
   },
   {
-    "itemId": 7584334,
+    "listItemId": 7584334,
     "number": 563,
     "gameId": 197408,
     "name": "Phalanxx",
@@ -56188,7 +56188,7 @@
     ]
   },
   {
-    "itemId": 7584461,
+    "listItemId": 7584461,
     "number": 564,
     "gameId": 113636,
     "name": "Edo",
@@ -56256,7 +56256,7 @@
     ]
   },
   {
-    "itemId": 7584466,
+    "listItemId": 7584466,
     "number": 565,
     "gameId": 227456,
     "name": "Escape the Dark Castle",
@@ -56356,7 +56356,7 @@
     ]
   },
   {
-    "itemId": 7584469,
+    "listItemId": 7584469,
     "number": 566,
     "gameId": 25613,
     "name": "Through the Ages: A Story of Civilization",
@@ -56468,7 +56468,7 @@
     ]
   },
   {
-    "itemId": 7584473,
+    "listItemId": 7584473,
     "number": 567,
     "gameId": 203740,
     "name": "Age of Thieves",
@@ -56548,7 +56548,7 @@
     ]
   },
   {
-    "itemId": 7584478,
+    "listItemId": 7584478,
     "number": 568,
     "gameId": 39683,
     "name": "At the Gates of Loyang",
@@ -56664,7 +56664,7 @@
     ]
   },
   {
-    "itemId": 7584484,
+    "listItemId": 7584484,
     "number": 569,
     "gameId": 181293,
     "name": "Alien Artifacts",
@@ -56744,7 +56744,7 @@
     ]
   },
   {
-    "itemId": 7584490,
+    "listItemId": 7584490,
     "number": 570,
     "gameId": 169544,
     "name": "Bright Future",
@@ -56832,7 +56832,7 @@
     ]
   },
   {
-    "itemId": 7584501,
+    "listItemId": 7584501,
     "number": 571,
     "gameId": 207336,
     "name": "Honshū",
@@ -56988,7 +56988,7 @@
     ]
   },
   {
-    "itemId": 7584511,
+    "listItemId": 7584511,
     "number": 572,
     "gameId": 178054,
     "name": "A Study in Emerald (second edition)",
@@ -57172,7 +57172,7 @@
     ]
   },
   {
-    "itemId": 7584522,
+    "listItemId": 7584522,
     "number": 573,
     "gameId": 176494,
     "name": "Isle of Skye: From Chieftain to King",
@@ -57360,7 +57360,7 @@
     ]
   },
   {
-    "itemId": 7584527,
+    "listItemId": 7584527,
     "number": 574,
     "gameId": 258244,
     "name": "Discover: Lands Unknown",
@@ -57536,7 +57536,7 @@
     ]
   },
   {
-    "itemId": 7584529,
+    "listItemId": 7584529,
     "number": 575,
     "gameId": 194879,
     "name": "Not Alone",
@@ -57648,7 +57648,7 @@
     ]
   },
   {
-    "itemId": 7584531,
+    "listItemId": 7584531,
     "number": 576,
     "gameId": 163968,
     "name": "Elysium",
@@ -57724,7 +57724,7 @@
     ]
   },
   {
-    "itemId": 7584532,
+    "listItemId": 7584532,
     "number": 577,
     "gameId": 146418,
     "name": "Warhammer: Diskwars",
@@ -57824,7 +57824,7 @@
     ]
   },
   {
-    "itemId": 7584535,
+    "listItemId": 7584535,
     "number": 578,
     "gameId": 144041,
     "name": "Patchistory",
@@ -57964,7 +57964,7 @@
     ]
   },
   {
-    "itemId": 7584541,
+    "listItemId": 7584541,
     "number": 579,
     "gameId": 121410,
     "name": "Steam Park",
@@ -58076,7 +58076,7 @@
     ]
   },
   {
-    "itemId": 7584586,
+    "listItemId": 7584586,
     "number": 580,
     "gameId": 3243,
     "name": "Wooly Wars",
@@ -58359,7 +58359,7 @@
     ]
   },
   {
-    "itemId": 7584596,
+    "listItemId": 7584596,
     "number": 581,
     "gameId": 144228,
     "name": "FUBA",
@@ -58415,7 +58415,7 @@
     ]
   },
   {
-    "itemId": 7584767,
+    "listItemId": 7584767,
     "number": 582,
     "gameId": 182960,
     "name": "Termity",
@@ -58483,7 +58483,7 @@
     ]
   },
   {
-    "itemId": 7584769,
+    "listItemId": 7584769,
     "number": 583,
     "gameId": 651,
     "name": "Zero Down",
@@ -58563,7 +58563,7 @@
     ]
   },
   {
-    "itemId": 7584771,
+    "listItemId": 7584771,
     "number": 584,
     "gameId": 180785,
     "name": "Mighty Monsters",
@@ -58631,7 +58631,7 @@
     ]
   },
   {
-    "itemId": 7584775,
+    "listItemId": 7584775,
     "number": 585,
     "gameId": 160495,
     "name": "ZhanGuo",
@@ -58703,7 +58703,7 @@
     ]
   },
   {
-    "itemId": 7584777,
+    "listItemId": 7584777,
     "number": 586,
     "gameId": 73369,
     "name": "51st State",
@@ -58783,7 +58783,7 @@
     ]
   },
   {
-    "itemId": 7584787,
+    "listItemId": 7584787,
     "number": 587,
     "gameId": 41297,
     "name": "Ab ins Bett, Nils!",
@@ -58954,7 +58954,7 @@
     ]
   },
   {
-    "itemId": 7584793,
+    "listItemId": 7584793,
     "number": 588,
     "gameId": 96007,
     "name": "The New Era",
@@ -59157,7 +59157,7 @@
     ]
   },
   {
-    "itemId": 7584837,
+    "listItemId": 7584837,
     "number": 589,
     "gameId": 45986,
     "name": "Stronghold",
@@ -59305,7 +59305,7 @@
     ]
   },
   {
-    "itemId": 7584845,
+    "listItemId": 7584845,
     "number": 590,
     "gameId": 39683,
     "name": "At the Gates of Loyang",
@@ -59421,7 +59421,7 @@
     ]
   },
   {
-    "itemId": 7584853,
+    "listItemId": 7584853,
     "number": 591,
     "gameId": 175914,
     "name": "Food Chain Magnate",
@@ -59513,7 +59513,7 @@
     ]
   },
   {
-    "itemId": 7584883,
+    "listItemId": 7584883,
     "number": 592,
     "gameId": 143693,
     "name": "Glass Road",
@@ -59621,7 +59621,7 @@
     ]
   },
   {
-    "itemId": 7584888,
+    "listItemId": 7584888,
     "number": 593,
     "gameId": 31627,
     "name": "Ticket to Ride: Nordic Countries",
@@ -59709,7 +59709,7 @@
     ]
   },
   {
-    "itemId": 7584890,
+    "listItemId": 7584890,
     "number": 594,
     "gameId": 225244,
     "name": "Ticket to Ride: Germany",
@@ -59777,7 +59777,7 @@
     ]
   },
   {
-    "itemId": 7584895,
+    "listItemId": 7584895,
     "number": 595,
     "gameId": 87890,
     "name": "Prêt-à-Porter",
@@ -59857,7 +59857,7 @@
     ]
   },
   {
-    "itemId": 7584899,
+    "listItemId": 7584899,
     "number": 596,
     "gameId": 192455,
     "name": "First Martians: Adventures on the Red Planet",
@@ -59953,7 +59953,7 @@
     ]
   },
   {
-    "itemId": 7584933,
+    "listItemId": 7584933,
     "number": 597,
     "gameId": 12333,
     "name": "Twilight Struggle",
@@ -60089,7 +60089,7 @@
     ]
   },
   {
-    "itemId": 7584946,
+    "listItemId": 7584946,
     "number": 598,
     "gameId": 182078,
     "name": "Ticket to Ride Map Collection: Volume 5 – United Kingdom & Pennsylvania",
@@ -60161,7 +60161,7 @@
     ]
   },
   {
-    "itemId": 7584990,
+    "listItemId": 7584990,
     "number": 599,
     "gameId": 90137,
     "name": "Blood Bowl: Team Manager – The Card Game",
@@ -60257,7 +60257,7 @@
     ]
   },
   {
-    "itemId": 7585216,
+    "listItemId": 7585216,
     "number": 600,
     "gameId": 207898,
     "name": "Captive",
@@ -60635,7 +60635,7 @@
     ]
   },
   {
-    "itemId": 7585245,
+    "listItemId": 7585245,
     "number": 601,
     "gameId": 133473,
     "name": "Sushi Go!",
@@ -60953,7 +60953,7 @@
     ]
   },
   {
-    "itemId": 7585264,
+    "listItemId": 7585264,
     "number": 602,
     "gameId": 181494,
     "name": "CVlizations",
@@ -61029,7 +61029,7 @@
     ]
   },
   {
-    "itemId": 7585265,
+    "listItemId": 7585265,
     "number": 603,
     "gameId": 170202,
     "name": "Floating Market",
@@ -61089,7 +61089,7 @@
     ]
   },
   {
-    "itemId": 7585268,
+    "listItemId": 7585268,
     "number": 604,
     "gameId": 214,
     "name": "Café International",
@@ -61169,7 +61169,7 @@
     ]
   },
   {
-    "itemId": 7585274,
+    "listItemId": 7585274,
     "number": 605,
     "gameId": 233312,
     "name": "Stuffed Fables",
@@ -61269,7 +61269,7 @@
     ]
   },
   {
-    "itemId": 7585287,
+    "listItemId": 7585287,
     "number": 606,
     "gameId": 249703,
     "name": "Gentes: Deluxified Edition",
@@ -61333,7 +61333,7 @@
     ]
   },
   {
-    "itemId": 7585326,
+    "listItemId": 7585326,
     "number": 607,
     "gameId": 205498,
     "name": "Round House",
@@ -61587,7 +61587,7 @@
     ]
   },
   {
-    "itemId": 7585348,
+    "listItemId": 7585348,
     "number": 608,
     "gameId": 31260,
     "name": "Agricola",
@@ -61751,7 +61751,7 @@
     ]
   },
   {
-    "itemId": 7585362,
+    "listItemId": 7585362,
     "number": 609,
     "gameId": 276830,
     "name": "Sanctum",
@@ -61839,7 +61839,7 @@
     ]
   },
   {
-    "itemId": 7585365,
+    "listItemId": 7585365,
     "number": 610,
     "gameId": 42,
     "name": "Tigris & Euphrates",
@@ -62063,7 +62063,7 @@
     ]
   },
   {
-    "itemId": 7585382,
+    "listItemId": 7585382,
     "number": 611,
     "gameId": 201825,
     "name": "Ex Libris",
@@ -62243,7 +62243,7 @@
     ]
   },
   {
-    "itemId": 7585390,
+    "listItemId": 7585390,
     "number": 612,
     "gameId": 182704,
     "name": "SteamRollers",
@@ -62399,7 +62399,7 @@
     ]
   },
   {
-    "itemId": 7585399,
+    "listItemId": 7585399,
     "number": 613,
     "gameId": 244153,
     "name": "Your Town",
@@ -62649,7 +62649,7 @@
     ]
   },
   {
-    "itemId": 7585411,
+    "listItemId": 7585411,
     "number": 614,
     "gameId": 143693,
     "name": "Glass Road",
@@ -62757,7 +62757,7 @@
     ]
   },
   {
-    "itemId": 7585516,
+    "listItemId": 7585516,
     "number": 615,
     "gameId": 181521,
     "name": "Warhammer Quest: The Adventure Card Game",
@@ -62865,7 +62865,7 @@
     ]
   },
   {
-    "itemId": 7585520,
+    "listItemId": 7585520,
     "number": 616,
     "gameId": 244212,
     "name": "Railroad Rivals",
@@ -62929,7 +62929,7 @@
     ]
   },
   {
-    "itemId": 7586564,
+    "listItemId": 7586564,
     "number": 617,
     "gameId": 183272,
     "name": "Legacy: The Testament of Duke de Crecy – Five Families",
@@ -63073,7 +63073,7 @@
     ]
   },
   {
-    "itemId": 7586607,
+    "listItemId": 7586607,
     "number": 618,
     "gameId": 214032,
     "name": "Founders of Gloomhaven",
@@ -63153,7 +63153,7 @@
     ]
   },
   {
-    "itemId": 7586608,
+    "listItemId": 7586608,
     "number": 619,
     "gameId": 39683,
     "name": "At the Gates of Loyang",
@@ -63269,7 +63269,7 @@
     ]
   },
   {
-    "itemId": 7586652,
+    "listItemId": 7586652,
     "number": 620,
     "gameId": 213460,
     "name": "Unlock!: Escape Adventures",
@@ -63381,7 +63381,7 @@
     ]
   },
   {
-    "itemId": 7586653,
+    "listItemId": 7586653,
     "number": 621,
     "gameId": 102897,
     "name": "Farmageddon",
@@ -63449,7 +63449,7 @@
     ]
   },
   {
-    "itemId": 7586659,
+    "listItemId": 7586659,
     "number": 622,
     "gameId": 146508,
     "name": "T.I.M.E Stories",
@@ -63557,7 +63557,7 @@
     ]
   },
   {
-    "itemId": 7586681,
+    "listItemId": 7586681,
     "number": 623,
     "gameId": 175621,
     "name": "Epic Card Game",
@@ -63641,7 +63641,7 @@
     ]
   },
   {
-    "itemId": 7586682,
+    "listItemId": 7586682,
     "number": 624,
     "gameId": 69552,
     "name": "Panic Station",
@@ -63868,7 +63868,7 @@
     ]
   },
   {
-    "itemId": 7586694,
+    "listItemId": 7586694,
     "number": 625,
     "gameId": 125658,
     "name": "Level 7 [Escape]",
@@ -63932,7 +63932,7 @@
     ]
   },
   {
-    "itemId": 7586695,
+    "listItemId": 7586695,
     "number": 626,
     "gameId": 253214,
     "name": "Escape Tales: The Awakening",
@@ -64044,7 +64044,7 @@
     ]
   },
   {
-    "itemId": 7586699,
+    "listItemId": 7586699,
     "number": 627,
     "gameId": 66356,
     "name": "Dungeons & Dragons: Wrath of Ashardalon Board Game",
@@ -64132,7 +64132,7 @@
     ]
   },
   {
-    "itemId": 7586725,
+    "listItemId": 7586725,
     "number": 628,
     "gameId": 171233,
     "name": "The Big Book of Madness",
@@ -64248,7 +64248,7 @@
     ]
   },
   {
-    "itemId": 7586761,
+    "listItemId": 7586761,
     "number": 629,
     "gameId": 9625,
     "name": "Struggle of Empires",
@@ -64332,7 +64332,7 @@
     ]
   },
   {
-    "itemId": 7586772,
+    "listItemId": 7586772,
     "number": 630,
     "gameId": 146408,
     "name": "Sentinel Tactics: The Flame of Freedom",
@@ -64412,7 +64412,7 @@
     ]
   },
   {
-    "itemId": 7586776,
+    "listItemId": 7586776,
     "number": 631,
     "gameId": 132428,
     "name": "BioShock Infinite: The Siege of Columbia",
@@ -64492,7 +64492,7 @@
     ]
   },
   {
-    "itemId": 7586788,
+    "listItemId": 7586788,
     "number": 632,
     "gameId": 266179,
     "name": "Space Gate Odyssey",
@@ -64552,7 +64552,7 @@
     ]
   },
   {
-    "itemId": 7586791,
+    "listItemId": 7586791,
     "number": 633,
     "gameId": 285773,
     "name": "Arkham Horror: Final Hour",
@@ -64620,7 +64620,7 @@
     ]
   },
   {
-    "itemId": 7586792,
+    "listItemId": 7586792,
     "number": 634,
     "gameId": 216459,
     "name": "The Lost Expedition",
@@ -64700,7 +64700,7 @@
     ]
   },
   {
-    "itemId": 7586793,
+    "listItemId": 7586793,
     "number": 635,
     "gameId": 255037,
     "name": "Silk",
@@ -64772,7 +64772,7 @@
     ]
   },
   {
-    "itemId": 7586795,
+    "listItemId": 7586795,
     "number": 636,
     "gameId": 253214,
     "name": "Escape Tales: The Awakening",
@@ -64884,7 +64884,7 @@
     ]
   },
   {
-    "itemId": 7586801,
+    "listItemId": 7586801,
     "number": 637,
     "gameId": 150658,
     "name": "Pandemic: The Cure",
@@ -65048,7 +65048,7 @@
     ]
   },
   {
-    "itemId": 7586804,
+    "listItemId": 7586804,
     "number": 638,
     "gameId": 167400,
     "name": "Ashes: Rise of the Phoenixborn",
@@ -65136,7 +65136,7 @@
     ]
   },
   {
-    "itemId": 7586810,
+    "listItemId": 7586810,
     "number": 639,
     "gameId": 176606,
     "name": "Rattle, Battle, Grab the Loot",
@@ -65208,7 +65208,7 @@
     ]
   },
   {
-    "itemId": 7586811,
+    "listItemId": 7586811,
     "number": 640,
     "gameId": 187377,
     "name": "Vikings Gone Wild",
@@ -65368,7 +65368,7 @@
     ]
   },
   {
-    "itemId": 7586813,
+    "listItemId": 7586813,
     "number": 641,
     "gameId": 122522,
     "name": "Smash Up",
@@ -65500,7 +65500,7 @@
     ]
   },
   {
-    "itemId": 7586815,
+    "listItemId": 7586815,
     "number": 642,
     "gameId": 31481,
     "name": "Galaxy Trucker",
@@ -65644,7 +65644,7 @@
     ]
   },
   {
-    "itemId": 7586816,
+    "listItemId": 7586816,
     "number": 643,
     "gameId": 168274,
     "name": "Mistfall",
@@ -65736,7 +65736,7 @@
     ]
   },
   {
-    "itemId": 7586817,
+    "listItemId": 7586817,
     "number": 644,
     "gameId": 38453,
     "name": "Space Alert",
@@ -65868,7 +65868,7 @@
     ]
   },
   {
-    "itemId": 7586818,
+    "listItemId": 7586818,
     "number": 645,
     "gameId": 192673,
     "name": "Martians: A Story of Civilization",
@@ -65960,7 +65960,7 @@
     ]
   },
   {
-    "itemId": 7586820,
+    "listItemId": 7586820,
     "number": 646,
     "gameId": 25613,
     "name": "Through the Ages: A Story of Civilization",
@@ -66072,7 +66072,7 @@
     ]
   },
   {
-    "itemId": 7586822,
+    "listItemId": 7586822,
     "number": 647,
     "gameId": 231966,
     "name": "Stworze",
@@ -66228,7 +66228,7 @@
     ]
   },
   {
-    "itemId": 7586853,
+    "listItemId": 7586853,
     "number": 648,
     "gameId": 35587,
     "name": "Biznes po europejsku",
@@ -66292,7 +66292,7 @@
     ]
   },
   {
-    "itemId": 7586855,
+    "listItemId": 7586855,
     "number": 649,
     "gameId": 32264,
     "name": "Biznes po polsku",
@@ -66356,7 +66356,7 @@
     ]
   },
   {
-    "itemId": 7586857,
+    "listItemId": 7586857,
     "number": 650,
     "gameId": 240223,
     "name": "5 sekund bez cenzury",
@@ -66403,7 +66403,7 @@
     ]
   },
   {
-    "itemId": 7586860,
+    "listItemId": 7586860,
     "number": 651,
     "gameId": 86073,
     "name": "5 Second Rule",
@@ -66514,7 +66514,7 @@
     ]
   },
   {
-    "itemId": 7586861,
+    "listItemId": 7586861,
     "number": 652,
     "gameId": 261307,
     "name": "5 Second Rule Jr.",
@@ -66560,7 +66560,7 @@
     ]
   },
   {
-    "itemId": 7586863,
+    "listItemId": 7586863,
     "number": 653,
     "gameId": 145103,
     "name": "7 Days of Westerplatte",
@@ -66628,7 +66628,7 @@
     ]
   },
   {
-    "itemId": 7586865,
+    "listItemId": 7586865,
     "number": 654,
     "gameId": 21287,
     "name": "Bison: Thunder on the Prairie",
@@ -66716,7 +66716,7 @@
     ]
   },
   {
-    "itemId": 7586868,
+    "listItemId": 7586868,
     "number": 655,
     "gameId": 278,
     "name": "Catan Card Game",
@@ -66832,7 +66832,7 @@
     ]
   },
   {
-    "itemId": 7586870,
+    "listItemId": 7586870,
     "number": 656,
     "gameId": 181494,
     "name": "CVlizations",
@@ -66908,7 +66908,7 @@
     ]
   },
   {
-    "itemId": 7586872,
+    "listItemId": 7586872,
     "number": 657,
     "gameId": 15512,
     "name": "Diamant",
@@ -67040,7 +67040,7 @@
     ]
   },
   {
-    "itemId": 7586873,
+    "listItemId": 7586873,
     "number": 658,
     "gameId": 63268,
     "name": "Spot it!",
@@ -67212,7 +67212,7 @@
     ]
   },
   {
-    "itemId": 7586875,
+    "listItemId": 7586875,
     "number": 659,
     "gameId": 3394,
     "name": "Monopoly: The Simpsons",
@@ -67372,7 +67372,7 @@
     ]
   },
   {
-    "itemId": 7586876,
+    "listItemId": 7586876,
     "number": 660,
     "gameId": 176165,
     "name": "Dale of Merchants",
@@ -67476,7 +67476,7 @@
     ]
   },
   {
-    "itemId": 7586878,
+    "listItemId": 7586878,
     "number": 661,
     "gameId": 191597,
     "name": "Dale of Merchants 2",
@@ -67584,7 +67584,7 @@
     ]
   },
   {
-    "itemId": 7586879,
+    "listItemId": 7586879,
     "number": 662,
     "gameId": 22348,
     "name": "Duplik",
@@ -67656,7 +67656,7 @@
     ]
   },
   {
-    "itemId": 7586880,
+    "listItemId": 7586880,
     "number": 663,
     "gameId": 39564,
     "name": "ego",
@@ -67720,7 +67720,7 @@
     ]
   },
   {
-    "itemId": 7586881,
+    "listItemId": 7586881,
     "number": 664,
     "gameId": 172225,
     "name": "Exploding Kittens",
@@ -67856,7 +67856,7 @@
     ]
   },
   {
-    "itemId": 7586883,
+    "listItemId": 7586883,
     "number": 665,
     "gameId": 171273,
     "name": "FUSE",
@@ -67948,7 +67948,7 @@
     ]
   },
   {
-    "itemId": 7586884,
+    "listItemId": 7586884,
     "number": 666,
     "gameId": 170431,
     "name": "King's Kilt",
@@ -68000,7 +68000,7 @@
     ]
   },
   {
-    "itemId": 7586885,
+    "listItemId": 7586885,
     "number": 667,
     "gameId": 134157,
     "name": "Guilds of London",
@@ -68072,7 +68072,7 @@
     ]
   },
   {
-    "itemId": 7586886,
+    "listItemId": 7586886,
     "number": 668,
     "gameId": 198994,
     "name": "Hero Realms",
@@ -68172,7 +68172,7 @@
     ]
   },
   {
-    "itemId": 7586888,
+    "listItemId": 7586888,
     "number": 669,
     "gameId": 2452,
     "name": "Jenga",
@@ -68432,7 +68432,7 @@
     ]
   },
   {
-    "itemId": 7586889,
+    "listItemId": 7586889,
     "number": 670,
     "gameId": 2452,
     "name": "Jenga",
@@ -68692,7 +68692,7 @@
     ]
   },
   {
-    "itemId": 7586890,
+    "listItemId": 7586890,
     "number": 671,
     "gameId": 200147,
     "name": "Kanagawa",
@@ -68812,7 +68812,7 @@
     ]
   },
   {
-    "itemId": 7586891,
+    "listItemId": 7586891,
     "number": 672,
     "gameId": 220520,
     "name": "Caverna: Cave vs Cave",
@@ -68908,7 +68908,7 @@
     ]
   },
   {
-    "itemId": 7586893,
+    "listItemId": 7586893,
     "number": 673,
     "gameId": 204583,
     "name": "Kingdomino",
@@ -69056,7 +69056,7 @@
     ]
   },
   {
-    "itemId": 7586894,
+    "listItemId": 7586894,
     "number": 674,
     "gameId": 281960,
     "name": "Kingdomino Duel",
@@ -69115,7 +69115,7 @@
     ]
   },
   {
-    "itemId": 7586895,
+    "listItemId": 7586895,
     "number": 675,
     "gameId": 33088,
     "name": "Chabyrinthe",
@@ -69195,7 +69195,7 @@
     ]
   },
   {
-    "itemId": 7586896,
+    "listItemId": 7586896,
     "number": 676,
     "gameId": 129622,
     "name": "Love Letter",
@@ -69359,7 +69359,7 @@
     ]
   },
   {
-    "itemId": 7586900,
+    "listItemId": 7586900,
     "number": 677,
     "gameId": 166019,
     "name": "Mafia: Vendetta",
@@ -69442,7 +69442,7 @@
     ]
   },
   {
-    "itemId": 7586901,
+    "listItemId": 7586901,
     "number": 678,
     "gameId": 264241,
     "name": "Mandala",
@@ -69506,7 +69506,7 @@
     ]
   },
   {
-    "itemId": 7586902,
+    "listItemId": 7586902,
     "number": 679,
     "gameId": 129380,
     "name": "Mercurius",
@@ -69566,7 +69566,7 @@
     ]
   },
   {
-    "itemId": 7586903,
+    "listItemId": 7586903,
     "number": 680,
     "gameId": 194879,
     "name": "Not Alone",
@@ -69678,7 +69678,7 @@
     ]
   },
   {
-    "itemId": 7586904,
+    "listItemId": 7586904,
     "number": 681,
     "gameId": 159675,
     "name": "Fields of Arle",
@@ -69838,7 +69838,7 @@
     ]
   },
   {
-    "itemId": 7586906,
+    "listItemId": 7586906,
     "number": 682,
     "gameId": 54137,
     "name": "Battle Sheep",
@@ -69946,7 +69946,7 @@
     ]
   },
   {
-    "itemId": 7586907,
+    "listItemId": 7586907,
     "number": 683,
     "gameId": 242523,
     "name": "Dolly Crush",
@@ -70026,7 +70026,7 @@
     ]
   },
   {
-    "itemId": 7586910,
+    "listItemId": 7586910,
     "number": 684,
     "gameId": 359,
     "name": "Bucket Brigade",
@@ -70102,7 +70102,7 @@
     ]
   },
   {
-    "itemId": 7586911,
+    "listItemId": 7586911,
     "number": 685,
     "gameId": 194194,
     "name": "Pędzące Ślimaki",
@@ -70162,7 +70162,7 @@
     ]
   },
   {
-    "itemId": 7586913,
+    "listItemId": 7586913,
     "number": 686,
     "gameId": 9441,
     "name": "Ribbit",
@@ -70282,7 +70282,7 @@
     ]
   },
   {
-    "itemId": 7586914,
+    "listItemId": 7586914,
     "number": 687,
     "gameId": 32405,
     "name": "Alles Tomate!",
@@ -70402,7 +70402,7 @@
     ]
   },
   {
-    "itemId": 7586915,
+    "listItemId": 7586915,
     "number": 688,
     "gameId": 176229,
     "name": "Tides of Time",
@@ -70486,7 +70486,7 @@
     ]
   },
   {
-    "itemId": 7586916,
+    "listItemId": 7586916,
     "number": 689,
     "gameId": 43578,
     "name": "Monster Chase",
@@ -70586,7 +70586,7 @@
     ]
   },
   {
-    "itemId": 7586918,
+    "listItemId": 7586918,
     "number": 690,
     "gameId": 192947,
     "name": "Camel Up Cards",
@@ -70678,7 +70678,7 @@
     ]
   },
   {
-    "itemId": 7586922,
+    "listItemId": 7586922,
     "number": 691,
     "gameId": 166669,
     "name": "San Juan (Second Edition)",
@@ -70762,7 +70762,7 @@
     ]
   },
   {
-    "itemId": 7586924,
+    "listItemId": 7586924,
     "number": 692,
     "gameId": 20100,
     "name": "Wits & Wagers",
@@ -70842,7 +70842,7 @@
     ]
   },
   {
-    "itemId": 7586925,
+    "listItemId": 7586925,
     "number": 693,
     "gameId": 181,
     "name": "Risk",
@@ -70994,7 +70994,7 @@
     ]
   },
   {
-    "itemId": 7586927,
+    "listItemId": 7586927,
     "number": 694,
     "gameId": 8125,
     "name": "Santiago",
@@ -71074,7 +71074,7 @@
     ]
   },
   {
-    "itemId": 7586928,
+    "listItemId": 7586928,
     "number": 695,
     "gameId": 172662,
     "name": "Seven7s",
@@ -71130,7 +71130,7 @@
     ]
   },
   {
-    "itemId": 7586929,
+    "listItemId": 7586929,
     "number": 696,
     "gameId": 92415,
     "name": "Skull",
@@ -71206,7 +71206,7 @@
     ]
   },
   {
-    "itemId": 7586931,
+    "listItemId": 7586931,
     "number": 697,
     "gameId": 147020,
     "name": "Star Realms",
@@ -71310,7 +71310,7 @@
     ]
   },
   {
-    "itemId": 7586932,
+    "listItemId": 7586932,
     "number": 698,
     "gameId": 178900,
     "name": "Codenames",
@@ -71498,7 +71498,7 @@
     ]
   },
   {
-    "itemId": 7586933,
+    "listItemId": 7586933,
     "number": 699,
     "gameId": 198773,
     "name": "Codenames: Pictures",
@@ -71650,7 +71650,7 @@
     ]
   },
   {
-    "itemId": 7586935,
+    "listItemId": 7586935,
     "number": 700,
     "gameId": 205158,
     "name": "Codenames: Deep Undercover",
@@ -71758,7 +71758,7 @@
     ]
   },
   {
-    "itemId": 7586936,
+    "listItemId": 7586936,
     "number": 701,
     "gameId": 224037,
     "name": "Codenames: Duet",
@@ -71906,7 +71906,7 @@
     ]
   },
   {
-    "itemId": 7586937,
+    "listItemId": 7586937,
     "number": 702,
     "gameId": 93472,
     "name": "Ubongo: Das Kartenspiel",
@@ -71957,7 +71957,7 @@
     ]
   },
   {
-    "itemId": 7586938,
+    "listItemId": 7586938,
     "number": 703,
     "gameId": 171668,
     "name": "The Grizzled",
@@ -72065,7 +72065,7 @@
     ]
   },
   {
-    "itemId": 7586939,
+    "listItemId": 7586939,
     "number": 704,
     "gameId": 147030,
     "name": "World of Tanks: Rush",
@@ -72153,7 +72153,7 @@
     ]
   },
   {
-    "itemId": 7586941,
+    "listItemId": 7586941,
     "number": 705,
     "gameId": 283595,
     "name": "Wsiąść do Pociągu: Polska",
@@ -72221,7 +72221,7 @@
     ]
   },
   {
-    "itemId": 7586943,
+    "listItemId": 7586943,
     "number": 706,
     "gameId": 253284,
     "name": "Ticket to Ride: New York",
@@ -72301,7 +72301,7 @@
     ]
   },
   {
-    "itemId": 7586944,
+    "listItemId": 7586944,
     "number": 707,
     "gameId": 276894,
     "name": "Ticket to Ride: London",
@@ -72365,7 +72365,7 @@
     ]
   },
   {
-    "itemId": 7586945,
+    "listItemId": 7586945,
     "number": 708,
     "gameId": 189294,
     "name": "Yeti",
@@ -72441,7 +72441,7 @@
     ]
   },
   {
-    "itemId": 7586946,
+    "listItemId": 7586946,
     "number": 709,
     "gameId": 150312,
     "name": "Welcome to the Dungeon",
@@ -72569,7 +72569,7 @@
     ]
   },
   {
-    "itemId": 7586947,
+    "listItemId": 7586947,
     "number": 710,
     "gameId": 125050,
     "name": "Pay Dirt",
@@ -72629,7 +72629,7 @@
     ]
   },
   {
-    "itemId": 7586948,
+    "listItemId": 7586948,
     "number": 711,
     "gameId": 195043,
     "name": "Welcome Back to the Dungeon",
@@ -72737,7 +72737,7 @@
     ]
   },
   {
-    "itemId": 7586949,
+    "listItemId": 7586949,
     "number": 712,
     "gameId": 228411,
     "name": "Iron Curtain",
@@ -72821,7 +72821,7 @@
     ]
   },
   {
-    "itemId": 7586950,
+    "listItemId": 7586950,
     "number": 713,
     "gameId": 139562,
     "name": "Rockwell",
@@ -72893,7 +72893,7 @@
     ]
   },
   {
-    "itemId": 7586951,
+    "listItemId": 7586951,
     "number": 714,
     "gameId": 3243,
     "name": "Wooly Wars",
@@ -72993,7 +72993,7 @@
     ]
   },
   {
-    "itemId": 7586954,
+    "listItemId": 7586954,
     "number": 715,
     "gameId": 191862,
     "name": "Imhotep",
@@ -73093,7 +73093,7 @@
     ]
   },
   {
-    "itemId": 7586966,
+    "listItemId": 7586966,
     "number": 716,
     "gameId": 72225,
     "name": "CO₂",
@@ -73169,7 +73169,7 @@
     ]
   },
   {
-    "itemId": 7586969,
+    "listItemId": 7586969,
     "number": 717,
     "gameId": 40692,
     "name": "Small World",
@@ -73293,7 +73293,7 @@
     ]
   },
   {
-    "itemId": 7586975,
+    "listItemId": 7586975,
     "number": 718,
     "gameId": 232405,
     "name": "Western Legends",
@@ -73619,7 +73619,7 @@
     ]
   },
   {
-    "itemId": 7586987,
+    "listItemId": 7586987,
     "number": 719,
     "gameId": 69789,
     "name": "Ascension: Deckbuilding Game",
@@ -73703,7 +73703,7 @@
     ]
   },
   {
-    "itemId": 7586989,
+    "listItemId": 7586989,
     "number": 720,
     "gameId": 265402,
     "name": "In the Hall of the Mountain King",
@@ -73894,7 +73894,7 @@
     ]
   },
   {
-    "itemId": 7586991,
+    "listItemId": 7586991,
     "number": 721,
     "gameId": 6472,
     "name": "A Game of Thrones",
@@ -74042,7 +74042,7 @@
     ]
   },
   {
-    "itemId": 7586992,
+    "listItemId": 7586992,
     "number": 722,
     "gameId": 7719,
     "name": "Arena Maximus",
@@ -74114,7 +74114,7 @@
     ]
   },
   {
-    "itemId": 7586994,
+    "listItemId": 7586994,
     "number": 723,
     "gameId": 61269,
     "name": "Drakon (second edition)",
@@ -74182,7 +74182,7 @@
     ]
   },
   {
-    "itemId": 7586995,
+    "listItemId": 7586995,
     "number": 724,
     "gameId": 128028,
     "name": "CLASH: Jihad vs. McWorld",
@@ -74250,7 +74250,7 @@
     ]
   },
   {
-    "itemId": 7586997,
+    "listItemId": 7586997,
     "number": 725,
     "gameId": 209418,
     "name": "Dominion (Second Edition)",
@@ -74330,7 +74330,7 @@
     ]
   },
   {
-    "itemId": 7586998,
+    "listItemId": 7586998,
     "number": 726,
     "gameId": 274426,
     "name": "Pangea",
@@ -74402,7 +74402,7 @@
     ]
   },
   {
-    "itemId": 7587004,
+    "listItemId": 7587004,
     "number": 727,
     "gameId": 205637,
     "name": "Arkham Horror: The Card Game",
@@ -74658,7 +74658,7 @@
     ]
   },
   {
-    "itemId": 7587031,
+    "listItemId": 7587031,
     "number": 728,
     "gameId": 158900,
     "name": "Samurai Spirit",
@@ -74818,7 +74818,7 @@
     ]
   },
   {
-    "itemId": 7587032,
+    "listItemId": 7587032,
     "number": 729,
     "gameId": 231581,
     "name": "AuZtralia",
@@ -74918,7 +74918,7 @@
     ]
   },
   {
-    "itemId": 7587034,
+    "listItemId": 7587034,
     "number": 730,
     "gameId": 187377,
     "name": "Vikings Gone Wild",
@@ -75010,7 +75010,7 @@
     ]
   },
   {
-    "itemId": 7587037,
+    "listItemId": 7587037,
     "number": 731,
     "gameId": 9216,
     "name": "Goa",
@@ -75114,7 +75114,7 @@
     ]
   },
   {
-    "itemId": 7587040,
+    "listItemId": 7587040,
     "number": 732,
     "gameId": 199561,
     "name": "Sagrada",
@@ -75238,7 +75238,7 @@
     ]
   },
   {
-    "itemId": 7587042,
+    "listItemId": 7587042,
     "number": 733,
     "gameId": 246192,
     "name": "Gizmos",
@@ -75334,7 +75334,7 @@
     ]
   },
   {
-    "itemId": 7587052,
+    "listItemId": 7587052,
     "number": 734,
     "gameId": 141423,
     "name": "Dead Men Tell No Tales",
@@ -75438,7 +75438,7 @@
     ]
   },
   {
-    "itemId": 7587053,
+    "listItemId": 7587053,
     "number": 735,
     "gameId": 555,
     "name": "The Princes of Florence",
@@ -75554,7 +75554,7 @@
     ]
   },
   {
-    "itemId": 7587060,
+    "listItemId": 7587060,
     "number": 736,
     "gameId": 214000,
     "name": "In the Year of the Dragon: 10th Anniversary",
@@ -75622,7 +75622,7 @@
     ]
   },
   {
-    "itemId": 7587068,
+    "listItemId": 7587068,
     "number": 737,
     "gameId": 172308,
     "name": "Broom Service",
@@ -75714,7 +75714,7 @@
     ]
   },
   {
-    "itemId": 7587147,
+    "listItemId": 7587147,
     "number": 738,
     "gameId": 15474,
     "name": "Zombiaki",
@@ -75786,7 +75786,7 @@
     ]
   },
   {
-    "itemId": 7587159,
+    "listItemId": 7587159,
     "number": 739,
     "gameId": 55697,
     "name": "Power Struggle",
@@ -75850,7 +75850,7 @@
     ]
   },
   {
-    "itemId": 7587165,
+    "listItemId": 7587165,
     "number": 740,
     "gameId": 163081,
     "name": "Galaxy of Trian",
@@ -75926,7 +75926,7 @@
     ]
   },
   {
-    "itemId": 7587167,
+    "listItemId": 7587167,
     "number": 741,
     "gameId": 59960,
     "name": "Dakota",
@@ -75998,7 +75998,7 @@
     ]
   },
   {
-    "itemId": 7587168,
+    "listItemId": 7587168,
     "number": 742,
     "gameId": 84876,
     "name": "The Castles of Burgundy",
@@ -76393,7 +76393,7 @@
     ]
   },
   {
-    "itemId": 7587170,
+    "listItemId": 7587170,
     "number": 743,
     "gameId": 296636,
     "name": "In the Hall of the Mountain King: Cursed Mountain",
@@ -76473,7 +76473,7 @@
     ]
   },
   {
-    "itemId": 7587172,
+    "listItemId": 7587172,
     "number": 744,
     "gameId": 174801,
     "name": "Blood Rage: Gods of Ásgard",
@@ -76549,7 +76549,7 @@
     ]
   },
   {
-    "itemId": 7587176,
+    "listItemId": 7587176,
     "number": 745,
     "gameId": 200785,
     "name": "Legendary Inventors",
@@ -76617,7 +76617,7 @@
     ]
   },
   {
-    "itemId": 7587177,
+    "listItemId": 7587177,
     "number": 746,
     "gameId": 43570,
     "name": "Friday",
@@ -76725,7 +76725,7 @@
     ]
   },
   {
-    "itemId": 7587179,
+    "listItemId": 7587179,
     "number": 747,
     "gameId": 174078,
     "name": "Holmes: Sherlock & Mycroft",
@@ -76889,7 +76889,7 @@
     ]
   },
   {
-    "itemId": 7587181,
+    "listItemId": 7587181,
     "number": 748,
     "gameId": 108687,
     "name": "Puerto Rico (with two expansions)",
@@ -77013,7 +77013,7 @@
     ]
   },
   {
-    "itemId": 7587184,
+    "listItemId": 7587184,
     "number": 749,
     "gameId": 17450,
     "name": "Argo",
@@ -77089,7 +77089,7 @@
     ]
   },
   {
-    "itemId": 7587186,
+    "listItemId": 7587186,
     "number": 750,
     "gameId": 172047,
     "name": "The Others",
@@ -77189,7 +77189,7 @@
     ]
   },
   {
-    "itemId": 7587188,
+    "listItemId": 7587188,
     "number": 751,
     "gameId": 21798,
     "name": "HysteriCoach",
@@ -77265,7 +77265,7 @@
     ]
   },
   {
-    "itemId": 7587190,
+    "listItemId": 7587190,
     "number": 752,
     "gameId": 169255,
     "name": "A Game of Thrones: The Card Game (Second Edition)",
@@ -78116,7 +78116,7 @@
     ]
   },
   {
-    "itemId": 7587192,
+    "listItemId": 7587192,
     "number": 753,
     "gameId": 53953,
     "name": "Thunderstone",
@@ -78268,7 +78268,7 @@
     ]
   },
   {
-    "itemId": 7587193,
+    "listItemId": 7587193,
     "number": 754,
     "gameId": 129368,
     "name": "Amber",
@@ -78328,7 +78328,7 @@
     ]
   },
   {
-    "itemId": 7587194,
+    "listItemId": 7587194,
     "number": 755,
     "gameId": 205359,
     "name": "Star Wars: Destiny",
@@ -78432,7 +78432,7 @@
     ]
   },
   {
-    "itemId": 7587195,
+    "listItemId": 7587195,
     "number": 756,
     "gameId": 162591,
     "name": "Heroes",
@@ -78584,7 +78584,7 @@
     ]
   },
   {
-    "itemId": 7587197,
+    "listItemId": 7587197,
     "number": 757,
     "gameId": 129380,
     "name": "Mercurius",
@@ -78644,7 +78644,7 @@
     ]
   },
   {
-    "itemId": 7587198,
+    "listItemId": 7587198,
     "number": 758,
     "gameId": 128855,
     "name": "Pyramidion",
@@ -78696,7 +78696,7 @@
     ]
   },
   {
-    "itemId": 7587199,
+    "listItemId": 7587199,
     "number": 759,
     "gameId": 23685,
     "name": "1805: Sea of Glory",
@@ -78772,7 +78772,7 @@
     ]
   },
   {
-    "itemId": 7587200,
+    "listItemId": 7587200,
     "number": 760,
     "gameId": 85325,
     "name": "Kolejka",
@@ -78852,7 +78852,7 @@
     ]
   },
   {
-    "itemId": 7587204,
+    "listItemId": 7587204,
     "number": 761,
     "gameId": 228341,
     "name": "Pulsar 2849",
@@ -78952,7 +78952,7 @@
     ]
   },
   {
-    "itemId": 7587219,
+    "listItemId": 7587219,
     "number": 762,
     "gameId": 17025,
     "name": "Friday the 13th",
@@ -79040,7 +79040,7 @@
     ]
   },
   {
-    "itemId": 7587221,
+    "listItemId": 7587221,
     "number": 763,
     "gameId": 206803,
     "name": "Warsaw: City of Ruins",
@@ -79108,7 +79108,7 @@
     ]
   },
   {
-    "itemId": 7587222,
+    "listItemId": 7587222,
     "number": 764,
     "gameId": 179303,
     "name": "Cthulhu Realms",
@@ -79200,7 +79200,7 @@
     ]
   },
   {
-    "itemId": 7587225,
+    "listItemId": 7587225,
     "number": 765,
     "gameId": 176396,
     "name": "Quadropolis",
@@ -79288,7 +79288,7 @@
     ]
   },
   {
-    "itemId": 7587234,
+    "listItemId": 7587234,
     "number": 766,
     "gameId": 8098,
     "name": "Jungle Speed",
@@ -79460,7 +79460,7 @@
     ]
   },
   {
-    "itemId": 7587235,
+    "listItemId": 7587235,
     "number": 767,
     "gameId": 372,
     "name": "Schotten Totten",
@@ -79572,7 +79572,7 @@
     ]
   },
   {
-    "itemId": 7587236,
+    "listItemId": 7587236,
     "number": 768,
     "gameId": 213460,
     "name": "Unlock!: Escape Adventures",
@@ -79684,7 +79684,7 @@
     ]
   },
   {
-    "itemId": 7587237,
+    "listItemId": 7587237,
     "number": 769,
     "gameId": 206802,
     "name": "Spaghetti",
@@ -79760,7 +79760,7 @@
     ]
   },
   {
-    "itemId": 7587239,
+    "listItemId": 7587239,
     "number": 770,
     "gameId": 187680,
     "name": "Quests of Valeria",
@@ -79828,7 +79828,7 @@
     ]
   },
   {
-    "itemId": 7587240,
+    "listItemId": 7587240,
     "number": 771,
     "gameId": 169124,
     "name": "Flick 'em Up!",
@@ -79928,7 +79928,7 @@
     ]
   },
   {
-    "itemId": 7587241,
+    "listItemId": 7587241,
     "number": 772,
     "gameId": 15549,
     "name": "Roulette",
@@ -80144,7 +80144,7 @@
     ]
   },
   {
-    "itemId": 7587242,
+    "listItemId": 7587242,
     "number": 773,
     "gameId": 171889,
     "name": "Sawanna",
@@ -80208,7 +80208,7 @@
     ]
   },
   {
-    "itemId": 7587244,
+    "listItemId": 7587244,
     "number": 774,
     "gameId": 23451,
     "name": "Space Dealer",
@@ -80292,7 +80292,7 @@
     ]
   },
   {
-    "itemId": 7587245,
+    "listItemId": 7587245,
     "number": 775,
     "gameId": 200785,
     "name": "Legendary Inventors",
@@ -80360,7 +80360,7 @@
     ]
   },
   {
-    "itemId": 7587246,
+    "listItemId": 7587246,
     "number": 776,
     "gameId": 158343,
     "name": "Hand Made Wonders",
@@ -80428,7 +80428,7 @@
     ]
   },
   {
-    "itemId": 7587247,
+    "listItemId": 7587247,
     "number": 777,
     "gameId": 116998,
     "name": "Thunderstone Advance: Towers of Ruin",
@@ -80504,7 +80504,7 @@
     ]
   },
   {
-    "itemId": 7587248,
+    "listItemId": 7587248,
     "number": 778,
     "gameId": 81913,
     "name": "Unidentified Game",
@@ -80542,7 +80542,7 @@
     ]
   },
   {
-    "itemId": 7587249,
+    "listItemId": 7587249,
     "number": 779,
     "gameId": 49397,
     "name": "Battleground Fantasy Warfare: Men of Hawkshold",
@@ -80606,7 +80606,7 @@
     ]
   },
   {
-    "itemId": 7587250,
+    "listItemId": 7587250,
     "number": 780,
     "gameId": 258451,
     "name": "Deckscape: The Mystery of Eldorado",
@@ -80702,7 +80702,7 @@
     ]
   },
   {
-    "itemId": 7587253,
+    "listItemId": 7587253,
     "number": 781,
     "gameId": 101785,
     "name": "D-Day Dice",
@@ -80766,7 +80766,7 @@
     ]
   },
   {
-    "itemId": 7587287,
+    "listItemId": 7587287,
     "number": 782,
     "gameId": 101721,
     "name": "Mage Wars Arena",
@@ -80866,7 +80866,7 @@
     ]
   },
   {
-    "itemId": 7587289,
+    "listItemId": 7587289,
     "number": 783,
     "gameId": 187377,
     "name": "Vikings Gone Wild",
@@ -81093,7 +81093,7 @@
     ]
   },
   {
-    "itemId": 7587294,
+    "listItemId": 7587294,
     "number": 784,
     "gameId": 31481,
     "name": "Galaxy Trucker",
@@ -81313,7 +81313,7 @@
     ]
   },
   {
-    "itemId": 7587298,
+    "listItemId": 7587298,
     "number": 785,
     "gameId": 271896,
     "name": "Star Wars: Outer Rim",
@@ -81429,7 +81429,7 @@
     ]
   },
   {
-    "itemId": 7587299,
+    "listItemId": 7587299,
     "number": 786,
     "gameId": 154203,
     "name": "Imperial Settlers",
@@ -81637,7 +81637,7 @@
     ]
   },
   {
-    "itemId": 7587304,
+    "listItemId": 7587304,
     "number": 787,
     "gameId": 97786,
     "name": "Small World Underground",
@@ -81725,7 +81725,7 @@
     ]
   },
   {
-    "itemId": 7587313,
+    "listItemId": 7587313,
     "number": 788,
     "gameId": 161578,
     "name": "[redacted]",
@@ -81932,7 +81932,7 @@
     ]
   },
   {
-    "itemId": 7587314,
+    "listItemId": 7587314,
     "number": 789,
     "gameId": 256159,
     "name": "Guardians",
@@ -81984,7 +81984,7 @@
     ]
   },
   {
-    "itemId": 7587315,
+    "listItemId": 7587315,
     "number": 790,
     "gameId": 156750,
     "name": "Fleets: The Pleiad Conflict",
@@ -82100,7 +82100,7 @@
     ]
   },
   {
-    "itemId": 7587316,
+    "listItemId": 7587316,
     "number": 791,
     "gameId": 177619,
     "name": "Terminator Genisys: The Miniatures Game – The War Against The Machine",
@@ -82168,7 +82168,7 @@
     ]
   },
   {
-    "itemId": 7587317,
+    "listItemId": 7587317,
     "number": 792,
     "gameId": 187377,
     "name": "Vikings Gone Wild",
@@ -82260,7 +82260,7 @@
     ]
   },
   {
-    "itemId": 7587318,
+    "listItemId": 7587318,
     "number": 793,
     "gameId": 177499,
     "name": "WWE Superstar Showdown",
@@ -82340,7 +82340,7 @@
     ]
   },
   {
-    "itemId": 7587319,
+    "listItemId": 7587319,
     "number": 794,
     "gameId": 160601,
     "name": "Justice League Strategy Game",
@@ -82404,7 +82404,7 @@
     ]
   },
   {
-    "itemId": 7587320,
+    "listItemId": 7587320,
     "number": 795,
     "gameId": 123096,
     "name": "Space Cadets",
@@ -82584,7 +82584,7 @@
     ]
   },
   {
-    "itemId": 7587321,
+    "listItemId": 7587321,
     "number": 796,
     "gameId": 206091,
     "name": "The Football Game",
@@ -82763,7 +82763,7 @@
     ]
   },
   {
-    "itemId": 7587322,
+    "listItemId": 7587322,
     "number": 797,
     "gameId": 150376,
     "name": "Dead of Winter: A Crossroads Game",
@@ -83027,7 +83027,7 @@
     ]
   },
   {
-    "itemId": 7587323,
+    "listItemId": 7587323,
     "number": 798,
     "gameId": 133528,
     "name": "City of Remnants",
@@ -83139,7 +83139,7 @@
     ]
   },
   {
-    "itemId": 7587324,
+    "listItemId": 7587324,
     "number": 799,
     "gameId": 68260,
     "name": "FAB: Sicily",
@@ -83203,7 +83203,7 @@
     ]
   },
   {
-    "itemId": 7587325,
+    "listItemId": 7587325,
     "number": 800,
     "gameId": 214484,
     "name": "HEXplore It: The Valley of the Dead King",
@@ -83299,7 +83299,7 @@
     ]
   },
   {
-    "itemId": 7587326,
+    "listItemId": 7587326,
     "number": 801,
     "gameId": 233571,
     "name": "Star Wars: Legion",
@@ -83375,7 +83375,7 @@
     ]
   },
   {
-    "itemId": 7587352,
+    "listItemId": 7587352,
     "number": 802,
     "gameId": 176544,
     "name": "Automania",
@@ -83443,7 +83443,7 @@
     ]
   },
   {
-    "itemId": 7587359,
+    "listItemId": 7587359,
     "number": 803,
     "gameId": 195528,
     "name": "La Granja: No Siesta",
@@ -83503,7 +83503,7 @@
     ]
   },
   {
-    "itemId": 7587366,
+    "listItemId": 7587366,
     "number": 804,
     "gameId": 172381,
     "name": "My Village",
@@ -83591,7 +83591,7 @@
     ]
   },
   {
-    "itemId": 7587389,
+    "listItemId": 7587389,
     "number": 805,
     "gameId": 232918,
     "name": "Fallout",
@@ -83703,7 +83703,7 @@
     ]
   },
   {
-    "itemId": 7587394,
+    "listItemId": 7587394,
     "number": 806,
     "gameId": 230267,
     "name": "Dice Settlers",
@@ -83807,7 +83807,7 @@
     ]
   },
   {
-    "itemId": 7587397,
+    "listItemId": 7587397,
     "number": 807,
     "gameId": 233973,
     "name": "Huns",
@@ -83871,7 +83871,7 @@
     ]
   },
   {
-    "itemId": 7587401,
+    "listItemId": 7587401,
     "number": 808,
     "gameId": 159675,
     "name": "Fields of Arle",
@@ -83963,7 +83963,7 @@
     ]
   },
   {
-    "itemId": 7587402,
+    "listItemId": 7587402,
     "number": 809,
     "gameId": 238012,
     "name": "Semper Fidelis: Bitwa o Lwów 1918-1919",
@@ -84035,7 +84035,7 @@
     ]
   },
   {
-    "itemId": 7587408,
+    "listItemId": 7587408,
     "number": 810,
     "gameId": 112109,
     "name": "Kolejka: Ogonek",
@@ -84099,7 +84099,7 @@
     ]
   },
   {
-    "itemId": 7587411,
+    "listItemId": 7587411,
     "number": 811,
     "gameId": 147020,
     "name": "Star Realms",
@@ -84203,7 +84203,7 @@
     ]
   },
   {
-    "itemId": 7587412,
+    "listItemId": 7587412,
     "number": 812,
     "gameId": 249404,
     "name": "Itchy Monkey",
@@ -84267,7 +84267,7 @@
     ]
   },
   {
-    "itemId": 7587418,
+    "listItemId": 7587418,
     "number": 813,
     "gameId": 146508,
     "name": "T.I.M.E Stories",
@@ -84467,7 +84467,7 @@
     ]
   },
   {
-    "itemId": 7587420,
+    "listItemId": 7587420,
     "number": 814,
     "gameId": 144344,
     "name": "Rococo",
@@ -84575,7 +84575,7 @@
     ]
   },
   {
-    "itemId": 7587421,
+    "listItemId": 7587421,
     "number": 815,
     "gameId": 199689,
     "name": "Tavern's Tales",
@@ -84707,7 +84707,7 @@
     ]
   },
   {
-    "itemId": 7587423,
+    "listItemId": 7587423,
     "number": 816,
     "gameId": 248876,
     "name": "Kariera polityczna",
@@ -84774,7 +84774,7 @@
     ]
   },
   {
-    "itemId": 7587424,
+    "listItemId": 7587424,
     "number": 817,
     "gameId": 244157,
     "name": "Hold-Up",
@@ -84826,7 +84826,7 @@
     ]
   },
   {
-    "itemId": 7587427,
+    "listItemId": 7587427,
     "number": 818,
     "gameId": 432,
     "name": "6 nimmt!",
@@ -85002,7 +85002,7 @@
     ]
   },
   {
-    "itemId": 7587429,
+    "listItemId": 7587429,
     "number": 819,
     "gameId": 191597,
     "name": "Dale of Merchants 2",
@@ -85110,7 +85110,7 @@
     ]
   },
   {
-    "itemId": 7587433,
+    "listItemId": 7587433,
     "number": 820,
     "gameId": 206156,
     "name": "SUPERHOT: The Card Game",
@@ -85182,7 +85182,7 @@
     ]
   },
   {
-    "itemId": 7587436,
+    "listItemId": 7587436,
     "number": 821,
     "gameId": 181687,
     "name": "The Pursuit of Happiness",
@@ -85270,7 +85270,7 @@
     ]
   },
   {
-    "itemId": 7587439,
+    "listItemId": 7587439,
     "number": 822,
     "gameId": 182,
     "name": "Hungry",
@@ -85346,7 +85346,7 @@
     ]
   },
   {
-    "itemId": 7587440,
+    "listItemId": 7587440,
     "number": 823,
     "gameId": 238550,
     "name": "Necromunda: Underhive – Gang War",
@@ -85542,7 +85542,7 @@
     ]
   },
   {
-    "itemId": 7587441,
+    "listItemId": 7587441,
     "number": 824,
     "gameId": 296442,
     "name": "Triang Wars",
@@ -85597,7 +85597,7 @@
     ]
   },
   {
-    "itemId": 7587442,
+    "listItemId": 7587442,
     "number": 825,
     "gameId": 163081,
     "name": "Galaxy of Trian",
@@ -85673,7 +85673,7 @@
     ]
   },
   {
-    "itemId": 7587443,
+    "listItemId": 7587443,
     "number": 826,
     "gameId": 25674,
     "name": "Khronos",
@@ -85769,7 +85769,7 @@
     ]
   },
   {
-    "itemId": 7587445,
+    "listItemId": 7587445,
     "number": 827,
     "gameId": 31624,
     "name": "League of Six",
@@ -85889,7 +85889,7 @@
     ]
   },
   {
-    "itemId": 7587446,
+    "listItemId": 7587446,
     "number": 828,
     "gameId": 147030,
     "name": "World of Tanks: Rush",
@@ -85977,7 +85977,7 @@
     ]
   },
   {
-    "itemId": 7587447,
+    "listItemId": 7587447,
     "number": 829,
     "gameId": 21892,
     "name": "Augsburg 1520",
@@ -86037,7 +86037,7 @@
     ]
   },
   {
-    "itemId": 7587450,
+    "listItemId": 7587450,
     "number": 830,
     "gameId": 221769,
     "name": "Bios: Megafauna (Second Edition)",
@@ -86121,7 +86121,7 @@
     ]
   },
   {
-    "itemId": 7587452,
+    "listItemId": 7587452,
     "number": 831,
     "gameId": 235555,
     "name": "Bios: Origins (Second Edition)",
@@ -86213,7 +86213,7 @@
     ]
   },
   {
-    "itemId": 7587455,
+    "listItemId": 7587455,
     "number": 832,
     "gameId": 554,
     "name": "La Città",
@@ -86305,7 +86305,7 @@
     ]
   },
   {
-    "itemId": 7587457,
+    "listItemId": 7587457,
     "number": 833,
     "gameId": 114031,
     "name": "Copycat",
@@ -86389,7 +86389,7 @@
     ]
   },
   {
-    "itemId": 7587460,
+    "listItemId": 7587460,
     "number": 834,
     "gameId": 277597,
     "name": "Fast Sloths",
@@ -86465,7 +86465,7 @@
     ]
   },
   {
-    "itemId": 7587462,
+    "listItemId": 7587462,
     "number": 835,
     "gameId": 258389,
     "name": "Futuropia",
@@ -86545,7 +86545,7 @@
     ]
   },
   {
-    "itemId": 7587464,
+    "listItemId": 7587464,
     "number": 836,
     "gameId": 155873,
     "name": "Power Grid Deluxe: Europe/North America",
@@ -86637,7 +86637,7 @@
     ]
   },
   {
-    "itemId": 7587467,
+    "listItemId": 7587467,
     "number": 837,
     "gameId": 25224,
     "name": "Hermagor",
@@ -86721,7 +86721,7 @@
     ]
   },
   {
-    "itemId": 7587470,
+    "listItemId": 7587470,
     "number": 838,
     "gameId": 275067,
     "name": "Key Market: Second edition",
@@ -86801,7 +86801,7 @@
     ]
   },
   {
-    "itemId": 7587473,
+    "listItemId": 7587473,
     "number": 839,
     "gameId": 35435,
     "name": "Nefertiti",
@@ -86925,7 +86925,7 @@
     ]
   },
   {
-    "itemId": 7587476,
+    "listItemId": 7587476,
     "number": 840,
     "gameId": 157912,
     "name": "Rise to Power",
@@ -87001,7 +87001,7 @@
     ]
   },
   {
-    "itemId": 7587478,
+    "listItemId": 7587478,
     "number": 841,
     "gameId": 118048,
     "name": "Targi",
@@ -87113,7 +87113,7 @@
     ]
   },
   {
-    "itemId": 7587481,
+    "listItemId": 7587481,
     "number": 842,
     "gameId": 257732,
     "name": "Pax Transhumanity",
@@ -87177,7 +87177,7 @@
     ]
   },
   {
-    "itemId": 7587482,
+    "listItemId": 7587482,
     "number": 843,
     "gameId": 272739,
     "name": "Clinic: Deluxe Edition",
@@ -87261,7 +87261,7 @@
     ]
   },
   {
-    "itemId": 7587525,
+    "listItemId": 7587525,
     "number": 844,
     "gameId": 248763,
     "name": "Magic: The Gathering – Heroes of Dominaria Board Game",
@@ -87329,7 +87329,7 @@
     ]
   },
   {
-    "itemId": 7587531,
+    "listItemId": 7587531,
     "number": 845,
     "gameId": 194019,
     "name": "Guilds",
@@ -87409,7 +87409,7 @@
     ]
   },
   {
-    "itemId": 7587533,
+    "listItemId": 7587533,
     "number": 846,
     "gameId": 192353,
     "name": "Spooky Castle",
@@ -87469,7 +87469,7 @@
     ]
   },
   {
-    "itemId": 7587539,
+    "listItemId": 7587539,
     "number": 847,
     "gameId": 83629,
     "name": "The Hobbit",
@@ -87601,7 +87601,7 @@
     ]
   },
   {
-    "itemId": 7587540,
+    "listItemId": 7587540,
     "number": 848,
     "gameId": 101721,
     "name": "Mage Wars Arena",
@@ -87701,7 +87701,7 @@
     ]
   },
   {
-    "itemId": 7587541,
+    "listItemId": 7587541,
     "number": 849,
     "gameId": 253214,
     "name": "Escape Tales: The Awakening",
@@ -87813,7 +87813,7 @@
     ]
   },
   {
-    "itemId": 7587543,
+    "listItemId": 7587543,
     "number": 850,
     "gameId": 192945,
     "name": "Coal Baron: The Great Card Game",
@@ -87901,7 +87901,7 @@
     ]
   },
   {
-    "itemId": 7587545,
+    "listItemId": 7587545,
     "number": 851,
     "gameId": 253719,
     "name": "Getaway Driver",
@@ -87973,7 +87973,7 @@
     ]
   },
   {
-    "itemId": 7587546,
+    "listItemId": 7587546,
     "number": 852,
     "gameId": 228183,
     "name": "Star Scrappers: Cave-in",
@@ -88053,7 +88053,7 @@
     ]
   },
   {
-    "itemId": 7587547,
+    "listItemId": 7587547,
     "number": 853,
     "gameId": 176396,
     "name": "Quadropolis",
@@ -88141,7 +88141,7 @@
     ]
   },
   {
-    "itemId": 7587550,
+    "listItemId": 7587550,
     "number": 854,
     "gameId": 184704,
     "name": "Dragonsgate College",
@@ -88209,7 +88209,7 @@
     ]
   },
   {
-    "itemId": 7587551,
+    "listItemId": 7587551,
     "number": 855,
     "gameId": 270836,
     "name": "Imperial Settlers: Roll & Write",
@@ -88289,7 +88289,7 @@
     ]
   },
   {
-    "itemId": 7587552,
+    "listItemId": 7587552,
     "number": 856,
     "gameId": 182681,
     "name": "Mini Cywilizacja",
@@ -88349,7 +88349,7 @@
     ]
   },
   {
-    "itemId": 7587554,
+    "listItemId": 7587554,
     "number": 857,
     "gameId": 192334,
     "name": "Vikings on Board",
@@ -88437,7 +88437,7 @@
     ]
   },
   {
-    "itemId": 7587557,
+    "listItemId": 7587557,
     "number": 858,
     "gameId": 176165,
     "name": "Dale of Merchants",
@@ -88641,7 +88641,7 @@
     ]
   },
   {
-    "itemId": 7587559,
+    "listItemId": 7587559,
     "number": 859,
     "gameId": 1345,
     "name": "Genoa",
@@ -88745,7 +88745,7 @@
     ]
   },
   {
-    "itemId": 7587562,
+    "listItemId": 7587562,
     "number": 860,
     "gameId": 256788,
     "name": "Detective Club",
@@ -88841,7 +88841,7 @@
     ]
   },
   {
-    "itemId": 7587563,
+    "listItemId": 7587563,
     "number": 861,
     "gameId": 195518,
     "name": "Crazy Karts",
@@ -88945,7 +88945,7 @@
     ]
   },
   {
-    "itemId": 7587564,
+    "listItemId": 7587564,
     "number": 862,
     "gameId": 57037,
     "name": "Kingpin",
@@ -89093,7 +89093,7 @@
     ]
   },
   {
-    "itemId": 7587565,
+    "listItemId": 7587565,
     "number": 863,
     "gameId": 223321,
     "name": "Detective: A Modern Crime Board Game",
@@ -89281,7 +89281,7 @@
     ]
   },
   {
-    "itemId": 7587568,
+    "listItemId": 7587568,
     "number": 864,
     "gameId": 231824,
     "name": "Blank",
@@ -89353,7 +89353,7 @@
     ]
   },
   {
-    "itemId": 7587569,
+    "listItemId": 7587569,
     "number": 865,
     "gameId": 7720,
     "name": "The Prince: The Struggle of House Borgia",
@@ -89413,7 +89413,7 @@
     ]
   },
   {
-    "itemId": 7587572,
+    "listItemId": 7587572,
     "number": 866,
     "gameId": 214486,
     "name": "Mise: Kolonizace",
@@ -89469,7 +89469,7 @@
     ]
   },
   {
-    "itemId": 7587573,
+    "listItemId": 7587573,
     "number": 867,
     "gameId": 201920,
     "name": "Pocket Madness",
@@ -89549,7 +89549,7 @@
     ]
   },
   {
-    "itemId": 7587575,
+    "listItemId": 7587575,
     "number": 868,
     "gameId": 169255,
     "name": "A Game of Thrones: The Card Game (Second Edition)",
@@ -89657,7 +89657,7 @@
     ]
   },
   {
-    "itemId": 7587578,
+    "listItemId": 7587578,
     "number": 869,
     "gameId": 157322,
     "name": "Dice Brewing",
@@ -89729,7 +89729,7 @@
     ]
   },
   {
-    "itemId": 7587580,
+    "listItemId": 7587580,
     "number": 870,
     "gameId": 171668,
     "name": "The Grizzled",
@@ -89837,7 +89837,7 @@
     ]
   },
   {
-    "itemId": 7587582,
+    "listItemId": 7587582,
     "number": 871,
     "gameId": 114392,
     "name": "Piastowie Narodziny Orła",
@@ -89892,7 +89892,7 @@
     ]
   },
   {
-    "itemId": 7587583,
+    "listItemId": 7587583,
     "number": 872,
     "gameId": 31481,
     "name": "Galaxy Trucker",
@@ -90036,7 +90036,7 @@
     ]
   },
   {
-    "itemId": 7587584,
+    "listItemId": 7587584,
     "number": 873,
     "gameId": 36634,
     "name": "Rice Wars",
@@ -90100,7 +90100,7 @@
     ]
   },
   {
-    "itemId": 7587585,
+    "listItemId": 7587585,
     "number": 874,
     "gameId": 4979,
     "name": "Blood Berets",
@@ -90196,7 +90196,7 @@
     ]
   },
   {
-    "itemId": 7587586,
+    "listItemId": 7587586,
     "number": 875,
     "gameId": 206156,
     "name": "SUPERHOT: The Card Game",
@@ -90268,7 +90268,7 @@
     ]
   },
   {
-    "itemId": 7587587,
+    "listItemId": 7587587,
     "number": 876,
     "gameId": 73761,
     "name": "K2",
@@ -90368,7 +90368,7 @@
     ]
   },
   {
-    "itemId": 7587588,
+    "listItemId": 7587588,
     "number": 877,
     "gameId": 148601,
     "name": "1944: Race to the Rhine",
@@ -90464,7 +90464,7 @@
     ]
   },
   {
-    "itemId": 7587589,
+    "listItemId": 7587589,
     "number": 878,
     "gameId": 1035,
     "name": "Squad Leader",
@@ -90536,7 +90536,7 @@
     ]
   },
   {
-    "itemId": 7587590,
+    "listItemId": 7587590,
     "number": 879,
     "gameId": 35350,
     "name": "Field Commander: Alexander",
@@ -90596,7 +90596,7 @@
     ]
   },
   {
-    "itemId": 7587595,
+    "listItemId": 7587595,
     "number": 880,
     "gameId": 167400,
     "name": "Ashes: Rise of the Phoenixborn",
@@ -90684,7 +90684,7 @@
     ]
   },
   {
-    "itemId": 7587597,
+    "listItemId": 7587597,
     "number": 881,
     "gameId": 195856,
     "name": "Bloodborne: The Card Game",
@@ -90892,7 +90892,7 @@
     ]
   },
   {
-    "itemId": 7587598,
+    "listItemId": 7587598,
     "number": 882,
     "gameId": 157322,
     "name": "Dice Brewing",
@@ -90964,7 +90964,7 @@
     ]
   },
   {
-    "itemId": 7587599,
+    "listItemId": 7587599,
     "number": 883,
     "gameId": 200147,
     "name": "Kanagawa",
@@ -91084,7 +91084,7 @@
     ]
   },
   {
-    "itemId": 7587600,
+    "listItemId": 7587600,
     "number": 884,
     "gameId": 242667,
     "name": "Dark Souls: The Card Game",
@@ -91152,7 +91152,7 @@
     ]
   },
   {
-    "itemId": 7587601,
+    "listItemId": 7587601,
     "number": 885,
     "gameId": 37904,
     "name": "Formula D",
@@ -91248,7 +91248,7 @@
     ]
   },
   {
-    "itemId": 7587602,
+    "listItemId": 7587602,
     "number": 886,
     "gameId": 206091,
     "name": "The Football Game",
@@ -91316,7 +91316,7 @@
     ]
   },
   {
-    "itemId": 7587604,
+    "listItemId": 7587604,
     "number": 887,
     "gameId": 160773,
     "name": "First to Fight",
@@ -91388,7 +91388,7 @@
     ]
   },
   {
-    "itemId": 7587605,
+    "listItemId": 7587605,
     "number": 888,
     "gameId": 136144,
     "name": "Martial Arts: The Card Game",
@@ -91448,7 +91448,7 @@
     ]
   },
   {
-    "itemId": 7587606,
+    "listItemId": 7587606,
     "number": 889,
     "gameId": 22038,
     "name": "Warrior Knights",
@@ -91564,7 +91564,7 @@
     ]
   },
   {
-    "itemId": 7587607,
+    "listItemId": 7587607,
     "number": 890,
     "gameId": 208895,
     "name": "New York Slice",
@@ -91628,7 +91628,7 @@
     ]
   },
   {
-    "itemId": 7587609,
+    "listItemId": 7587609,
     "number": 891,
     "gameId": 270836,
     "name": "Imperial Settlers: Roll & Write",
@@ -91898,7 +91898,7 @@
     ]
   },
   {
-    "itemId": 7587610,
+    "listItemId": 7587610,
     "number": 892,
     "gameId": 203427,
     "name": "Fabled Fruit",
@@ -91994,7 +91994,7 @@
     ]
   },
   {
-    "itemId": 7587612,
+    "listItemId": 7587612,
     "number": 893,
     "gameId": 172969,
     "name": "Pixel Tactics 5",
@@ -92062,7 +92062,7 @@
     ]
   },
   {
-    "itemId": 7587613,
+    "listItemId": 7587613,
     "number": 894,
     "gameId": 128733,
     "name": "Revolver 2: Last Stand at Malpaso",
@@ -92130,7 +92130,7 @@
     ]
   },
   {
-    "itemId": 7587614,
+    "listItemId": 7587614,
     "number": 895,
     "gameId": 230342,
     "name": "InBetween",
@@ -92218,7 +92218,7 @@
     ]
   },
   {
-    "itemId": 7587615,
+    "listItemId": 7587615,
     "number": 896,
     "gameId": 174660,
     "name": "New York 1901",
@@ -92298,7 +92298,7 @@
     ]
   },
   {
-    "itemId": 7587617,
+    "listItemId": 7587617,
     "number": 897,
     "gameId": 62853,
     "name": "JAB: Realtime Boxing",
@@ -92366,7 +92366,7 @@
     ]
   },
   {
-    "itemId": 7587618,
+    "listItemId": 7587618,
     "number": 898,
     "gameId": 185028,
     "name": "Giraffometer",
@@ -92426,7 +92426,7 @@
     ]
   },
   {
-    "itemId": 7587623,
+    "listItemId": 7587623,
     "number": 899,
     "gameId": 218995,
     "name": "Santo Domingo",
@@ -92506,7 +92506,7 @@
     ]
   },
   {
-    "itemId": 7587625,
+    "listItemId": 7587625,
     "number": 900,
     "gameId": 233015,
     "name": "Imperius",
@@ -92677,7 +92677,7 @@
     ]
   },
   {
-    "itemId": 7587629,
+    "listItemId": 7587629,
     "number": 901,
     "gameId": 119337,
     "name": "Aeroplanes: Aviation Ascendant",
@@ -92797,7 +92797,7 @@
     ]
   },
   {
-    "itemId": 7587631,
+    "listItemId": 7587631,
     "number": 902,
     "gameId": 171542,
     "name": "Gum Gum Machine",
@@ -92861,7 +92861,7 @@
     ]
   },
   {
-    "itemId": 7587632,
+    "listItemId": 7587632,
     "number": 903,
     "gameId": 226256,
     "name": "Password Express",
@@ -92925,7 +92925,7 @@
     ]
   },
   {
-    "itemId": 7587633,
+    "listItemId": 7587633,
     "number": 904,
     "gameId": 147030,
     "name": "World of Tanks: Rush",
@@ -93065,7 +93065,7 @@
     ]
   },
   {
-    "itemId": 7587635,
+    "listItemId": 7587635,
     "number": 905,
     "gameId": 223770,
     "name": "Startups",
@@ -93121,7 +93121,7 @@
     ]
   },
   {
-    "itemId": 7587636,
+    "listItemId": 7587636,
     "number": 906,
     "gameId": 256711,
     "name": "Scrabble Speed",
@@ -93173,7 +93173,7 @@
     ]
   },
   {
-    "itemId": 7587637,
+    "listItemId": 7587637,
     "number": 907,
     "gameId": 244393,
     "name": "Tiger Leader: Upgrade Kit",
@@ -93211,7 +93211,7 @@
     ]
   },
   {
-    "itemId": 7587638,
+    "listItemId": 7587638,
     "number": 908,
     "gameId": 217861,
     "name": "Paper Tales",
@@ -93331,7 +93331,7 @@
     ]
   },
   {
-    "itemId": 7587643,
+    "listItemId": 7587643,
     "number": 909,
     "gameId": 103885,
     "name": "Star Wars: X-Wing Miniatures Game",
@@ -93479,7 +93479,7 @@
     ]
   },
   {
-    "itemId": 7587644,
+    "listItemId": 7587644,
     "number": 910,
     "gameId": 39463,
     "name": "Cosmic Encounter",
@@ -93615,7 +93615,7 @@
     ]
   },
   {
-    "itemId": 7587648,
+    "listItemId": 7587648,
     "number": 911,
     "gameId": 272453,
     "name": "KeyForge: Age of Ascension",
@@ -93826,7 +93826,7 @@
     ]
   },
   {
-    "itemId": 7587653,
+    "listItemId": 7587653,
     "number": 912,
     "gameId": 157354,
     "name": "Five Tribes",
@@ -93946,7 +93946,7 @@
     ]
   },
   {
-    "itemId": 7587658,
+    "listItemId": 7587658,
     "number": 913,
     "gameId": 176920,
     "name": "Mission: Red Planet (Second Edition)",
@@ -94038,7 +94038,7 @@
     ]
   },
   {
-    "itemId": 7587664,
+    "listItemId": 7587664,
     "number": 914,
     "gameId": 8125,
     "name": "Santiago",
@@ -94186,7 +94186,7 @@
     ]
   },
   {
-    "itemId": 7587665,
+    "listItemId": 7587665,
     "number": 915,
     "gameId": 160499,
     "name": "King of New York",
@@ -94310,7 +94310,7 @@
     ]
   },
   {
-    "itemId": 7587673,
+    "listItemId": 7587673,
     "number": 916,
     "gameId": 213893,
     "name": "Yamataï",
@@ -94370,7 +94370,7 @@
     ]
   },
   {
-    "itemId": 7587677,
+    "listItemId": 7587677,
     "number": 917,
     "gameId": 157917,
     "name": "The Lord of the Ice Garden",
@@ -94458,7 +94458,7 @@
     ]
   },
   {
-    "itemId": 7587682,
+    "listItemId": 7587682,
     "number": 918,
     "gameId": 171499,
     "name": "Cacao",
@@ -94582,7 +94582,7 @@
     ]
   },
   {
-    "itemId": 7587700,
+    "listItemId": 7587700,
     "number": 919,
     "gameId": 191876,
     "name": "Ulm",
@@ -94650,7 +94650,7 @@
     ]
   },
   {
-    "itemId": 7587703,
+    "listItemId": 7587703,
     "number": 920,
     "gameId": 6249,
     "name": "Alhambra",
@@ -94762,7 +94762,7 @@
     ]
   },
   {
-    "itemId": 7587710,
+    "listItemId": 7587710,
     "number": 921,
     "gameId": 193739,
     "name": "Jórvík",
@@ -94849,7 +94849,7 @@
     ]
   },
   {
-    "itemId": 7587730,
+    "listItemId": 7587730,
     "number": 922,
     "gameId": 24508,
     "name": "Taluva",
@@ -94917,7 +94917,7 @@
     ]
   },
   {
-    "itemId": 7587734,
+    "listItemId": 7587734,
     "number": 923,
     "gameId": 57925,
     "name": "Havana",
@@ -95001,7 +95001,7 @@
     ]
   },
   {
-    "itemId": 7587738,
+    "listItemId": 7587738,
     "number": 924,
     "gameId": 176494,
     "name": "Isle of Skye: From Chieftain to King",
@@ -95129,7 +95129,7 @@
     ]
   },
   {
-    "itemId": 7587803,
+    "listItemId": 7587803,
     "number": 925,
     "gameId": 157969,
     "name": "Sheriff of Nottingham",
@@ -95337,7 +95337,7 @@
     ]
   },
   {
-    "itemId": 7587815,
+    "listItemId": 7587815,
     "number": 926,
     "gameId": 239472,
     "name": "Abomination: The Heir of Frankenstein",
@@ -95429,7 +95429,7 @@
     ]
   },
   {
-    "itemId": 7587819,
+    "listItemId": 7587819,
     "number": 927,
     "gameId": 281442,
     "name": "Trismegistus: The Ultimate Formula",
@@ -95521,7 +95521,7 @@
     ]
   },
   {
-    "itemId": 7587822,
+    "listItemId": 7587822,
     "number": 928,
     "gameId": 286096,
     "name": "Tapestry",
@@ -95641,7 +95641,7 @@
     ]
   },
   {
-    "itemId": 7587824,
+    "listItemId": 7587824,
     "number": 929,
     "gameId": 267652,
     "name": "Dungeonology: The Expedition",
@@ -95861,7 +95861,7 @@
     ]
   },
   {
-    "itemId": 7587827,
+    "listItemId": 7587827,
     "number": 930,
     "gameId": 238412,
     "name": "Heropath: Dragon Roar",
@@ -96132,7 +96132,7 @@
     ]
   },
   {
-    "itemId": 7587858,
+    "listItemId": 7587858,
     "number": 931,
     "gameId": 278120,
     "name": "God of War: The Card Game",
@@ -96212,7 +96212,7 @@
     ]
   },
   {
-    "itemId": 7587910,
+    "listItemId": 7587910,
     "number": 932,
     "gameId": 192934,
     "name": "Colony",
@@ -96284,7 +96284,7 @@
     ]
   },
   {
-    "itemId": 7587920,
+    "listItemId": 7587920,
     "number": 933,
     "gameId": 212402,
     "name": "The Grimm Forest",
@@ -96360,7 +96360,7 @@
     ]
   },
   {
-    "itemId": 7587922,
+    "listItemId": 7587922,
     "number": 934,
     "gameId": 254193,
     "name": "Fantastic Beasts: Perilous Pursuit",
@@ -96440,7 +96440,7 @@
     ]
   },
   {
-    "itemId": 7587939,
+    "listItemId": 7587939,
     "number": 935,
     "gameId": 148228,
     "name": "Splendor",
@@ -96596,7 +96596,7 @@
     ]
   },
   {
-    "itemId": 7587944,
+    "listItemId": 7587944,
     "number": 936,
     "gameId": 225910,
     "name": "Terrors of London",
@@ -96664,7 +96664,7 @@
     ]
   },
   {
-    "itemId": 7588000,
+    "listItemId": 7588000,
     "number": 937,
     "gameId": 552,
     "name": "Bus",
@@ -96728,7 +96728,7 @@
     ]
   },
   {
-    "itemId": 7588068,
+    "listItemId": 7588068,
     "number": 938,
     "gameId": 216985,
     "name": "Nomads",
@@ -96780,7 +96780,7 @@
     ]
   },
   {
-    "itemId": 7588072,
+    "listItemId": 7588072,
     "number": 939,
     "gameId": 255658,
     "name": "Talisman: Legendary Tales",
@@ -96852,7 +96852,7 @@
     ]
   },
   {
-    "itemId": 7588074,
+    "listItemId": 7588074,
     "number": 940,
     "gameId": 178397,
     "name": "Samhain",
@@ -96920,7 +96920,7 @@
     ]
   },
   {
-    "itemId": 7588079,
+    "listItemId": 7588079,
     "number": 941,
     "gameId": 259972,
     "name": "Roll & Wall",
@@ -96984,7 +96984,7 @@
     ]
   },
   {
-    "itemId": 7588093,
+    "listItemId": 7588093,
     "number": 942,
     "gameId": 180592,
     "name": "Steam Time",
@@ -97044,7 +97044,7 @@
     ]
   },
   {
-    "itemId": 7588289,
+    "listItemId": 7588289,
     "number": 943,
     "gameId": 31481,
     "name": "Galaxy Trucker",
@@ -97264,7 +97264,7 @@
     ]
   },
   {
-    "itemId": 7588302,
+    "listItemId": 7588302,
     "number": 944,
     "gameId": 226009,
     "name": "Alien vs Predator: The Hunt Begins (Second Edition)",
@@ -97415,7 +97415,7 @@
     ]
   },
   {
-    "itemId": 7588303,
+    "listItemId": 7588303,
     "number": 945,
     "gameId": 244522,
     "name": "That's Pretty Clever",
@@ -97919,7 +97919,7 @@
     ]
   },
   {
-    "itemId": 7588306,
+    "listItemId": 7588306,
     "number": 946,
     "gameId": 138161,
     "name": "Firefly: The Game",
@@ -98027,7 +98027,7 @@
     ]
   },
   {
-    "itemId": 7588308,
+    "listItemId": 7588308,
     "number": 947,
     "gameId": 146725,
     "name": "Golem Arcana",
@@ -98447,7 +98447,7 @@
     ]
   },
   {
-    "itemId": 7588313,
+    "listItemId": 7588313,
     "number": 948,
     "gameId": 6472,
     "name": "A Game of Thrones",
@@ -98595,7 +98595,7 @@
     ]
   },
   {
-    "itemId": 7588315,
+    "listItemId": 7588315,
     "number": 949,
     "gameId": 41569,
     "name": "The Great Fire of London 1666",
@@ -98667,7 +98667,7 @@
     ]
   },
   {
-    "itemId": 7588318,
+    "listItemId": 7588318,
     "number": 950,
     "gameId": 172047,
     "name": "The Others",
@@ -98767,7 +98767,7 @@
     ]
   },
   {
-    "itemId": 7588320,
+    "listItemId": 7588320,
     "number": 951,
     "gameId": 95083,
     "name": "Proch i Stal",
@@ -98827,7 +98827,7 @@
     ]
   },
   {
-    "itemId": 7588322,
+    "listItemId": 7588322,
     "number": 952,
     "gameId": 68228,
     "name": "Railways of the World: The Card Game",
@@ -98955,7 +98955,7 @@
     ]
   },
   {
-    "itemId": 7588325,
+    "listItemId": 7588325,
     "number": 953,
     "gameId": 21790,
     "name": "Thurn and Taxis",
@@ -99135,7 +99135,7 @@
     ]
   },
   {
-    "itemId": 7588327,
+    "listItemId": 7588327,
     "number": 954,
     "gameId": 224710,
     "name": "Zombicide: Green Horde",
@@ -99243,7 +99243,7 @@
     ]
   },
   {
-    "itemId": 7588416,
+    "listItemId": 7588416,
     "number": 955,
     "gameId": 43015,
     "name": "Hansa Teutonica",
@@ -99323,7 +99323,7 @@
     ]
   },
   {
-    "itemId": 7588424,
+    "listItemId": 7588424,
     "number": 956,
     "gameId": 176165,
     "name": "Dale of Merchants",
@@ -99648,7 +99648,7 @@
     ]
   },
   {
-    "itemId": 7588429,
+    "listItemId": 7588429,
     "number": 957,
     "gameId": 203993,
     "name": "Lorenzo il Magnifico",
@@ -99760,7 +99760,7 @@
     ]
   },
   {
-    "itemId": 7588434,
+    "listItemId": 7588434,
     "number": 958,
     "gameId": 31594,
     "name": "In the Year of the Dragon",
@@ -99844,7 +99844,7 @@
     ]
   },
   {
-    "itemId": 7588440,
+    "listItemId": 7588440,
     "number": 959,
     "gameId": 39463,
     "name": "Cosmic Encounter",
@@ -99980,7 +99980,7 @@
     ]
   },
   {
-    "itemId": 7588442,
+    "listItemId": 7588442,
     "number": 960,
     "gameId": 244654,
     "name": "Wildlands",
@@ -100052,7 +100052,7 @@
     ]
   },
   {
-    "itemId": 7588443,
+    "listItemId": 7588443,
     "number": 961,
     "gameId": 212402,
     "name": "The Grimm Forest",
@@ -100128,7 +100128,7 @@
     ]
   },
   {
-    "itemId": 7588444,
+    "listItemId": 7588444,
     "number": 962,
     "gameId": 241987,
     "name": "Dual Powers: Revolution 1917",
@@ -100204,7 +100204,7 @@
     ]
   },
   {
-    "itemId": 7588446,
+    "listItemId": 7588446,
     "number": 963,
     "gameId": 172308,
     "name": "Broom Service",
@@ -100296,7 +100296,7 @@
     ]
   },
   {
-    "itemId": 7588447,
+    "listItemId": 7588447,
     "number": 964,
     "gameId": 104347,
     "name": "Santiago de Cuba",
@@ -100404,7 +100404,7 @@
     ]
   },
   {
-    "itemId": 7588448,
+    "listItemId": 7588448,
     "number": 965,
     "gameId": 21414,
     "name": "To The Last Man!",
@@ -100488,7 +100488,7 @@
     ]
   },
   {
-    "itemId": 7588451,
+    "listItemId": 7588451,
     "number": 966,
     "gameId": 241334,
     "name": "Dwar7s Winter",
@@ -100632,7 +100632,7 @@
     ]
   },
   {
-    "itemId": 7588454,
+    "listItemId": 7588454,
     "number": 967,
     "gameId": 285712,
     "name": "Tan-tan Caravan",
@@ -100748,7 +100748,7 @@
     ]
   },
   {
-    "itemId": 7588455,
+    "listItemId": 7588455,
     "number": 968,
     "gameId": 276497,
     "name": "La Viña",
@@ -100864,7 +100864,7 @@
     ]
   },
   {
-    "itemId": 7588469,
+    "listItemId": 7588469,
     "number": 969,
     "gameId": 41636,
     "name": "Abandon Ship",
@@ -100932,7 +100932,7 @@
     ]
   },
   {
-    "itemId": 7588470,
+    "listItemId": 7588470,
     "number": 970,
     "gameId": 241831,
     "name": "Reykholt",
@@ -101020,7 +101020,7 @@
     ]
   },
   {
-    "itemId": 7588471,
+    "listItemId": 7588471,
     "number": 971,
     "gameId": 162007,
     "name": "Steampunk Rally",
@@ -101104,7 +101104,7 @@
     ]
   },
   {
-    "itemId": 7588473,
+    "listItemId": 7588473,
     "number": 972,
     "gameId": 63740,
     "name": "Hotel Samoa",
@@ -101180,7 +101180,7 @@
     ]
   },
   {
-    "itemId": 7588475,
+    "listItemId": 7588475,
     "number": 973,
     "gameId": 8125,
     "name": "Santiago",
@@ -101260,7 +101260,7 @@
     ]
   },
   {
-    "itemId": 7588476,
+    "listItemId": 7588476,
     "number": 974,
     "gameId": 173100,
     "name": "Monsters' Tower",
@@ -101319,7 +101319,7 @@
     ]
   },
   {
-    "itemId": 7588477,
+    "listItemId": 7588477,
     "number": 975,
     "gameId": 243752,
     "name": "Dam It!",
@@ -101371,7 +101371,7 @@
     ]
   },
   {
-    "itemId": 7588478,
+    "listItemId": 7588478,
     "number": 976,
     "gameId": 191572,
     "name": "Animals on Board",
@@ -101471,7 +101471,7 @@
     ]
   },
   {
-    "itemId": 7588479,
+    "listItemId": 7588479,
     "number": 977,
     "gameId": 170431,
     "name": "King's Kilt",
@@ -101523,7 +101523,7 @@
     ]
   },
   {
-    "itemId": 7588480,
+    "listItemId": 7588480,
     "number": 978,
     "gameId": 162823,
     "name": "El Gaucho",
@@ -101591,7 +101591,7 @@
     ]
   },
   {
-    "itemId": 7588481,
+    "listItemId": 7588481,
     "number": 979,
     "gameId": 229220,
     "name": "Santa Maria",
@@ -101703,7 +101703,7 @@
     ]
   },
   {
-    "itemId": 7588482,
+    "listItemId": 7588482,
     "number": 980,
     "gameId": 218603,
     "name": "Photosynthesis",
@@ -101811,7 +101811,7 @@
     ]
   },
   {
-    "itemId": 7588483,
+    "listItemId": 7588483,
     "number": 981,
     "gameId": 129050,
     "name": "P.I.",
@@ -101883,7 +101883,7 @@
     ]
   },
   {
-    "itemId": 7588489,
+    "listItemId": 7588489,
     "number": 982,
     "gameId": 176494,
     "name": "Isle of Skye: From Chieftain to King",
@@ -102011,7 +102011,7 @@
     ]
   },
   {
-    "itemId": 7588492,
+    "listItemId": 7588492,
     "number": 983,
     "gameId": 163968,
     "name": "Elysium",
@@ -102087,7 +102087,7 @@
     ]
   },
   {
-    "itemId": 7588493,
+    "listItemId": 7588493,
     "number": 984,
     "gameId": 140717,
     "name": "Progress: Evolution of Technology",
@@ -102163,7 +102163,7 @@
     ]
   },
   {
-    "itemId": 7588494,
+    "listItemId": 7588494,
     "number": 985,
     "gameId": 265712,
     "name": "Niepodległa",
@@ -102227,7 +102227,7 @@
     ]
   },
   {
-    "itemId": 7588495,
+    "listItemId": 7588495,
     "number": 986,
     "gameId": 73761,
     "name": "K2",
@@ -102327,7 +102327,7 @@
     ]
   },
   {
-    "itemId": 7588496,
+    "listItemId": 7588496,
     "number": 987,
     "gameId": 154246,
     "name": "La Isla",
@@ -102399,7 +102399,7 @@
     ]
   },
   {
-    "itemId": 7588497,
+    "listItemId": 7588497,
     "number": 988,
     "gameId": 30549,
     "name": "Pandemic",
@@ -102595,7 +102595,7 @@
     ]
   },
   {
-    "itemId": 7588499,
+    "listItemId": 7588499,
     "number": 989,
     "gameId": 174611,
     "name": "Ion: A Compound Building Game",
@@ -102675,7 +102675,7 @@
     ]
   },
   {
-    "itemId": 7588500,
+    "listItemId": 7588500,
     "number": 990,
     "gameId": 180040,
     "name": "Villages of Valeria",
@@ -102747,7 +102747,7 @@
     ]
   },
   {
-    "itemId": 7588501,
+    "listItemId": 7588501,
     "number": 991,
     "gameId": 191977,
     "name": "The Castles of Burgundy: The Card Game",
@@ -102807,7 +102807,7 @@
     ]
   },
   {
-    "itemId": 7588504,
+    "listItemId": 7588504,
     "number": 992,
     "gameId": 214887,
     "name": "CO₂: Second Chance",
@@ -102891,7 +102891,7 @@
     ]
   },
   {
-    "itemId": 7588510,
+    "listItemId": 7588510,
     "number": 993,
     "gameId": 226562,
     "name": "Immortals",
@@ -102959,7 +102959,7 @@
     ]
   },
   {
-    "itemId": 7588511,
+    "listItemId": 7588511,
     "number": 994,
     "gameId": 144763,
     "name": "Mage Knight Board Game: Krang Character Expansion",
@@ -103071,7 +103071,7 @@
     ]
   },
   {
-    "itemId": 7588512,
+    "listItemId": 7588512,
     "number": 995,
     "gameId": 152470,
     "name": "Fief: France 1429",
@@ -103163,7 +103163,7 @@
     ]
   },
   {
-    "itemId": 7588513,
+    "listItemId": 7588513,
     "number": 996,
     "gameId": 192455,
     "name": "First Martians: Adventures on the Red Planet",
@@ -103259,7 +103259,7 @@
     ]
   },
   {
-    "itemId": 7588522,
+    "listItemId": 7588522,
     "number": 997,
     "gameId": 21882,
     "name": "Blue Moon City",
@@ -103363,7 +103363,7 @@
     ]
   },
   {
-    "itemId": 7588523,
+    "listItemId": 7588523,
     "number": 998,
     "gameId": 172971,
     "name": "Crossing",
@@ -103451,7 +103451,7 @@
     ]
   },
   {
-    "itemId": 7588524,
+    "listItemId": 7588524,
     "number": 999,
     "gameId": 75449,
     "name": "Firenze",
@@ -103515,7 +103515,7 @@
     ]
   },
   {
-    "itemId": 7588525,
+    "listItemId": 7588525,
     "number": 1000,
     "gameId": 173090,
     "name": "The Game",
@@ -103631,7 +103631,7 @@
     ]
   },
   {
-    "itemId": 7588527,
+    "listItemId": 7588527,
     "number": 1001,
     "gameId": 147170,
     "name": "El Grande Decennial Edition",
@@ -103715,7 +103715,7 @@
     ]
   },
   {
-    "itemId": 7588528,
+    "listItemId": 7588528,
     "number": 1002,
     "gameId": 146886,
     "name": "La Granja",
@@ -103843,7 +103843,7 @@
     ]
   },
   {
-    "itemId": 7588529,
+    "listItemId": 7588529,
     "number": 1003,
     "gameId": 171668,
     "name": "The Grizzled",
@@ -103951,7 +103951,7 @@
     ]
   },
   {
-    "itemId": 7588530,
+    "listItemId": 7588530,
     "number": 1004,
     "gameId": 54138,
     "name": "Imperial 2030",
@@ -104055,7 +104055,7 @@
     ]
   },
   {
-    "itemId": 7588531,
+    "listItemId": 7588531,
     "number": 1005,
     "gameId": 96848,
     "name": "Mage Knight Board Game",
@@ -104183,7 +104183,7 @@
     ]
   },
   {
-    "itemId": 7588532,
+    "listItemId": 7588532,
     "number": 1006,
     "gameId": 203780,
     "name": "Power Grid: The Card Game",
@@ -104267,7 +104267,7 @@
     ]
   },
   {
-    "itemId": 7588533,
+    "listItemId": 7588533,
     "number": 1007,
     "gameId": 19100,
     "name": "Hacienda",
@@ -104347,7 +104347,7 @@
     ]
   },
   {
-    "itemId": 7588534,
+    "listItemId": 7588534,
     "number": 1008,
     "gameId": 82402,
     "name": "Friesematenten",
@@ -104471,7 +104471,7 @@
     ]
   },
   {
-    "itemId": 7588535,
+    "listItemId": 7588535,
     "number": 1009,
     "gameId": 165189,
     "name": "Altaria: Clash of Dimensions",
@@ -104547,7 +104547,7 @@
     ]
   },
   {
-    "itemId": 7588536,
+    "listItemId": 7588536,
     "number": 1010,
     "gameId": 171226,
     "name": "Starfighter",
@@ -104603,7 +104603,7 @@
     ]
   },
   {
-    "itemId": 7588537,
+    "listItemId": 7588537,
     "number": 1011,
     "gameId": 112445,
     "name": "Disaster Looms!",
@@ -104683,7 +104683,7 @@
     ]
   },
   {
-    "itemId": 7588538,
+    "listItemId": 7588538,
     "number": 1012,
     "gameId": 162286,
     "name": "Super Motherload",
@@ -104763,7 +104763,7 @@
     ]
   },
   {
-    "itemId": 7588539,
+    "listItemId": 7588539,
     "number": 1013,
     "gameId": 163931,
     "name": "Grog Island",
@@ -104839,7 +104839,7 @@
     ]
   },
   {
-    "itemId": 7588540,
+    "listItemId": 7588540,
     "number": 1014,
     "gameId": 163968,
     "name": "Elysium",
@@ -104915,7 +104915,7 @@
     ]
   },
   {
-    "itemId": 7588541,
+    "listItemId": 7588541,
     "number": 1015,
     "gameId": 182875,
     "name": "Hengist",
@@ -104983,7 +104983,7 @@
     ]
   },
   {
-    "itemId": 7588542,
+    "listItemId": 7588542,
     "number": 1016,
     "gameId": 40444,
     "name": "Livingstone",
@@ -105051,7 +105051,7 @@
     ]
   },
   {
-    "itemId": 7588543,
+    "listItemId": 7588543,
     "number": 1017,
     "gameId": 229220,
     "name": "Santa Maria",
@@ -105163,7 +105163,7 @@
     ]
   },
   {
-    "itemId": 7588544,
+    "listItemId": 7588544,
     "number": 1018,
     "gameId": 119622,
     "name": "Massilia",
@@ -105219,7 +105219,7 @@
     ]
   },
   {
-    "itemId": 7588545,
+    "listItemId": 7588545,
     "number": 1019,
     "gameId": 203624,
     "name": "Mea Culpa",
@@ -105311,7 +105311,7 @@
     ]
   },
   {
-    "itemId": 7588546,
+    "listItemId": 7588546,
     "number": 1020,
     "gameId": 179385,
     "name": "Rome: City of Marble",
@@ -105371,7 +105371,7 @@
     ]
   },
   {
-    "itemId": 7588547,
+    "listItemId": 7588547,
     "number": 1021,
     "gameId": 244951,
     "name": "Round the World",
@@ -105431,7 +105431,7 @@
     ]
   },
   {
-    "itemId": 7588548,
+    "listItemId": 7588548,
     "number": 1022,
     "gameId": 21241,
     "name": "Neuroshima Hex! 3.0",
@@ -105531,7 +105531,7 @@
     ]
   },
   {
-    "itemId": 7588549,
+    "listItemId": 7588549,
     "number": 1023,
     "gameId": 284684,
     "name": "Evidence",
@@ -105599,7 +105599,7 @@
     ]
   },
   {
-    "itemId": 7588551,
+    "listItemId": 7588551,
     "number": 1024,
     "gameId": 163805,
     "name": "Transatlantic",
@@ -105671,7 +105671,7 @@
     ]
   },
   {
-    "itemId": 7588552,
+    "listItemId": 7588552,
     "number": 1025,
     "gameId": 106999,
     "name": "Coney Island",
@@ -105727,7 +105727,7 @@
     ]
   },
   {
-    "itemId": 7588555,
+    "listItemId": 7588555,
     "number": 1026,
     "gameId": 144592,
     "name": "Bruxelles 1893",
@@ -105807,7 +105807,7 @@
     ]
   },
   {
-    "itemId": 7588557,
+    "listItemId": 7588557,
     "number": 1027,
     "gameId": 169062,
     "name": "Monsters vs. Heroes: Victorian Nightmares",
@@ -105871,7 +105871,7 @@
     ]
   },
   {
-    "itemId": 7588558,
+    "listItemId": 7588558,
     "number": 1028,
     "gameId": 6281,
     "name": "Eketorp",
@@ -105947,7 +105947,7 @@
     ]
   },
   {
-    "itemId": 7588559,
+    "listItemId": 7588559,
     "number": 1029,
     "gameId": 254976,
     "name": "Skylands",
@@ -106011,7 +106011,7 @@
     ]
   },
   {
-    "itemId": 7588561,
+    "listItemId": 7588561,
     "number": 1030,
     "gameId": 155173,
     "name": "Subdivision",
@@ -106071,7 +106071,7 @@
     ]
   },
   {
-    "itemId": 7588562,
+    "listItemId": 7588562,
     "number": 1031,
     "gameId": 240464,
     "name": "Cosmic Run: Regeneration",
@@ -106139,7 +106139,7 @@
     ]
   },
   {
-    "itemId": 7588563,
+    "listItemId": 7588563,
     "number": 1032,
     "gameId": 20080,
     "name": "Aqua Romana",
@@ -106199,7 +106199,7 @@
     ]
   },
   {
-    "itemId": 7588564,
+    "listItemId": 7588564,
     "number": 1033,
     "gameId": 182074,
     "name": "Antarctica",
@@ -106250,7 +106250,7 @@
     ]
   },
   {
-    "itemId": 7588565,
+    "listItemId": 7588565,
     "number": 1034,
     "gameId": 168681,
     "name": "Beyond Baker Street",
@@ -106338,7 +106338,7 @@
     ]
   },
   {
-    "itemId": 7588566,
+    "listItemId": 7588566,
     "number": 1035,
     "gameId": 166202,
     "name": "Bomb Squad Academy",
@@ -106397,7 +106397,7 @@
     ]
   },
   {
-    "itemId": 7588567,
+    "listItemId": 7588567,
     "number": 1036,
     "gameId": 16497,
     "name": "Rat Hot",
@@ -106461,7 +106461,7 @@
     ]
   },
   {
-    "itemId": 7588568,
+    "listItemId": 7588568,
     "number": 1037,
     "gameId": 192934,
     "name": "Colony",
@@ -106533,7 +106533,7 @@
     ]
   },
   {
-    "itemId": 7588569,
+    "listItemId": 7588569,
     "number": 1038,
     "gameId": 37231,
     "name": "Comuni",
@@ -106617,7 +106617,7 @@
     ]
   },
   {
-    "itemId": 7588571,
+    "listItemId": 7588571,
     "number": 1039,
     "gameId": 173101,
     "name": "Council of 4",
@@ -106689,7 +106689,7 @@
     ]
   },
   {
-    "itemId": 7588573,
+    "listItemId": 7588573,
     "number": 1040,
     "gameId": 205478,
     "name": "Covenant",
@@ -106741,7 +106741,7 @@
     ]
   },
   {
-    "itemId": 7588574,
+    "listItemId": 7588574,
     "number": 1041,
     "gameId": 137330,
     "name": "Cube Quest",
@@ -106817,7 +106817,7 @@
     ]
   },
   {
-    "itemId": 7588575,
+    "listItemId": 7588575,
     "number": 1042,
     "gameId": 123260,
     "name": "Suburbia",
@@ -106917,7 +106917,7 @@
     ]
   },
   {
-    "itemId": 7588576,
+    "listItemId": 7588576,
     "number": 1043,
     "gameId": 181494,
     "name": "CVlizations",
@@ -106993,7 +106993,7 @@
     ]
   },
   {
-    "itemId": 7588578,
+    "listItemId": 7588578,
     "number": 1044,
     "gameId": 823,
     "name": "Lord of the Rings",
@@ -107141,7 +107141,7 @@
     ]
   },
   {
-    "itemId": 7588579,
+    "listItemId": 7588579,
     "number": 1045,
     "gameId": 235465,
     "name": "Karuba: The Card Game",
@@ -107209,7 +107209,7 @@
     ]
   },
   {
-    "itemId": 7588580,
+    "listItemId": 7588580,
     "number": 1046,
     "gameId": 176565,
     "name": "Ninja Camp",
@@ -107289,7 +107289,7 @@
     ]
   },
   {
-    "itemId": 7588582,
+    "listItemId": 7588582,
     "number": 1047,
     "gameId": 144492,
     "name": "Packet Row",
@@ -107357,7 +107357,7 @@
     ]
   },
   {
-    "itemId": 7588583,
+    "listItemId": 7588583,
     "number": 1048,
     "gameId": 16986,
     "name": "Ubongo",
@@ -107509,7 +107509,7 @@
     ]
   },
   {
-    "itemId": 7588584,
+    "listItemId": 7588584,
     "number": 1049,
     "gameId": 35599,
     "name": "Witchcraft",
@@ -107569,7 +107569,7 @@
     ]
   },
   {
-    "itemId": 7588586,
+    "listItemId": 7588586,
     "number": 1050,
     "gameId": 157526,
     "name": "Viceroy",
@@ -107685,7 +107685,7 @@
     ]
   },
   {
-    "itemId": 7588587,
+    "listItemId": 7588587,
     "number": 1051,
     "gameId": 46396,
     "name": "Ubongo 3-D",
@@ -107753,7 +107753,7 @@
     ]
   },
   {
-    "itemId": 7588588,
+    "listItemId": 7588588,
     "number": 1052,
     "gameId": 160669,
     "name": "Town Center (fourth edition)",
@@ -107805,7 +107805,7 @@
     ]
   },
   {
-    "itemId": 7588589,
+    "listItemId": 7588589,
     "number": 1053,
     "gameId": 83629,
     "name": "The Hobbit",
@@ -107937,7 +107937,7 @@
     ]
   },
   {
-    "itemId": 7588590,
+    "listItemId": 7588590,
     "number": 1054,
     "gameId": 3,
     "name": "Samurai",
@@ -108065,7 +108065,7 @@
     ]
   },
   {
-    "itemId": 7588592,
+    "listItemId": 7588592,
     "number": 1055,
     "gameId": 143986,
     "name": "CV",
@@ -108177,7 +108177,7 @@
     ]
   },
   {
-    "itemId": 7588595,
+    "listItemId": 7588595,
     "number": 1056,
     "gameId": 287954,
     "name": "Azul: Summer Pavilion",
@@ -108249,7 +108249,7 @@
     ]
   },
   {
-    "itemId": 7588597,
+    "listItemId": 7588597,
     "number": 1057,
     "gameId": 232043,
     "name": "Queendomino",
@@ -108373,7 +108373,7 @@
     ]
   },
   {
-    "itemId": 7588598,
+    "listItemId": 7588598,
     "number": 1058,
     "gameId": 157403,
     "name": "Black Fleet",
@@ -108445,7 +108445,7 @@
     ]
   },
   {
-    "itemId": 7588599,
+    "listItemId": 7588599,
     "number": 1059,
     "gameId": 242213,
     "name": "Downforce: Danger Circuit",
@@ -108545,7 +108545,7 @@
     ]
   },
   {
-    "itemId": 7588601,
+    "listItemId": 7588601,
     "number": 1060,
     "gameId": 217398,
     "name": "Path of Light and Shadow",
@@ -108633,7 +108633,7 @@
     ]
   },
   {
-    "itemId": 7588603,
+    "listItemId": 7588603,
     "number": 1061,
     "gameId": 249833,
     "name": "Monopoly Gamer: Mario Kart",
@@ -108701,7 +108701,7 @@
     ]
   },
   {
-    "itemId": 7588605,
+    "listItemId": 7588605,
     "number": 1062,
     "gameId": 145203,
     "name": "Prosperity",
@@ -108781,7 +108781,7 @@
     ]
   },
   {
-    "itemId": 7588607,
+    "listItemId": 7588607,
     "number": 1063,
     "gameId": 182074,
     "name": "Antarctica",
@@ -108832,7 +108832,7 @@
     ]
   },
   {
-    "itemId": 7588609,
+    "listItemId": 7588609,
     "number": 1064,
     "gameId": 202296,
     "name": "Wizardry to the power of three",
@@ -108928,7 +108928,7 @@
     ]
   },
   {
-    "itemId": 7588611,
+    "listItemId": 7588611,
     "number": 1065,
     "gameId": 223312,
     "name": "Little Big Fish",
@@ -109004,7 +109004,7 @@
     ]
   },
   {
-    "itemId": 7588613,
+    "listItemId": 7588613,
     "number": 1066,
     "gameId": 14996,
     "name": "Ticket to Ride: Europe",
@@ -109144,7 +109144,7 @@
     ]
   },
   {
-    "itemId": 7588614,
+    "listItemId": 7588614,
     "number": 1067,
     "gameId": 158899,
     "name": "Colt Express",
@@ -109292,7 +109292,7 @@
     ]
   },
   {
-    "itemId": 7588625,
+    "listItemId": 7588625,
     "number": 1068,
     "gameId": 127060,
     "name": "Bora Bora",
@@ -109356,7 +109356,7 @@
     ]
   },
   {
-    "itemId": 7588626,
+    "listItemId": 7588626,
     "number": 1069,
     "gameId": 172386,
     "name": "Mombasa",
@@ -109492,7 +109492,7 @@
     ]
   },
   {
-    "itemId": 7588627,
+    "listItemId": 7588627,
     "number": 1070,
     "gameId": 103343,
     "name": "A Game of Thrones: The Board Game (Second Edition)",
@@ -109652,7 +109652,7 @@
     ]
   },
   {
-    "itemId": 7588628,
+    "listItemId": 7588628,
     "number": 1071,
     "gameId": 39351,
     "name": "Automobile",
@@ -109736,7 +109736,7 @@
     ]
   },
   {
-    "itemId": 7588629,
+    "listItemId": 7588629,
     "number": 1072,
     "gameId": 24480,
     "name": "The Pillars of the Earth",
@@ -109860,7 +109860,7 @@
     ]
   },
   {
-    "itemId": 7588630,
+    "listItemId": 7588630,
     "number": 1073,
     "gameId": 122515,
     "name": "Keyflower",
@@ -110016,7 +110016,7 @@
     ]
   },
   {
-    "itemId": 7588632,
+    "listItemId": 7588632,
     "number": 1074,
     "gameId": 248830,
     "name": "Guardians of Xobos",
@@ -110063,7 +110063,7 @@
     ]
   },
   {
-    "itemId": 7588633,
+    "listItemId": 7588633,
     "number": 1075,
     "gameId": 70512,
     "name": "Luna",
@@ -110155,7 +110155,7 @@
     ]
   },
   {
-    "itemId": 7588634,
+    "listItemId": 7588634,
     "number": 1076,
     "gameId": 27833,
     "name": "Steam",
@@ -110259,7 +110259,7 @@
     ]
   },
   {
-    "itemId": 7588635,
+    "listItemId": 7588635,
     "number": 1077,
     "gameId": 2655,
     "name": "Hive",
@@ -110387,7 +110387,7 @@
     ]
   },
   {
-    "itemId": 7588636,
+    "listItemId": 7588636,
     "number": 1078,
     "gameId": 27588,
     "name": "Zooloretto",
@@ -110487,7 +110487,7 @@
     ]
   },
   {
-    "itemId": 7588637,
+    "listItemId": 7588637,
     "number": 1079,
     "gameId": 264239,
     "name": "Patchwork Doodle",
@@ -110559,7 +110559,7 @@
     ]
   },
   {
-    "itemId": 7588638,
+    "listItemId": 7588638,
     "number": 1080,
     "gameId": 73316,
     "name": "Magnum Sal",
@@ -110627,7 +110627,7 @@
     ]
   },
   {
-    "itemId": 7588639,
+    "listItemId": 7588639,
     "number": 1081,
     "gameId": 112210,
     "name": "Metro 2033",
@@ -110695,7 +110695,7 @@
     ]
   },
   {
-    "itemId": 7588640,
+    "listItemId": 7588640,
     "number": 1082,
     "gameId": 146886,
     "name": "La Granja",
@@ -110823,7 +110823,7 @@
     ]
   },
   {
-    "itemId": 7588641,
+    "listItemId": 7588641,
     "number": 1083,
     "gameId": 191876,
     "name": "Ulm",
@@ -110891,7 +110891,7 @@
     ]
   },
   {
-    "itemId": 7588642,
+    "listItemId": 7588642,
     "number": 1084,
     "gameId": 182874,
     "name": "Grand Austria Hotel",
@@ -111007,7 +111007,7 @@
     ]
   },
   {
-    "itemId": 7588643,
+    "listItemId": 7588643,
     "number": 1085,
     "gameId": 9216,
     "name": "Goa",
@@ -111111,7 +111111,7 @@
     ]
   },
   {
-    "itemId": 7588644,
+    "listItemId": 7588644,
     "number": 1086,
     "gameId": 214234,
     "name": "Tank Duel: Enemy in the Crosshairs",
@@ -111167,7 +111167,7 @@
     ]
   },
   {
-    "itemId": 7588645,
+    "listItemId": 7588645,
     "number": 1087,
     "gameId": 18602,
     "name": "Caylus",
@@ -111291,7 +111291,7 @@
     ]
   },
   {
-    "itemId": 7588646,
+    "listItemId": 7588646,
     "number": 1088,
     "gameId": 148949,
     "name": "Istanbul",
@@ -111411,7 +111411,7 @@
     ]
   },
   {
-    "itemId": 7588647,
+    "listItemId": 7588647,
     "number": 1089,
     "gameId": 132531,
     "name": "Roll for the Galaxy",
@@ -111523,7 +111523,7 @@
     ]
   },
   {
-    "itemId": 7588648,
+    "listItemId": 7588648,
     "number": 1090,
     "gameId": 157917,
     "name": "The Lord of the Ice Garden",
@@ -111611,7 +111611,7 @@
     ]
   },
   {
-    "itemId": 7588649,
+    "listItemId": 7588649,
     "number": 1091,
     "gameId": 182028,
     "name": "Through the Ages: A New Story of Civilization",
@@ -111731,7 +111731,7 @@
     ]
   },
   {
-    "itemId": 7588650,
+    "listItemId": 7588650,
     "number": 1092,
     "gameId": 155821,
     "name": "Inis",
@@ -111847,7 +111847,7 @@
     ]
   },
   {
-    "itemId": 7588654,
+    "listItemId": 7588654,
     "number": 1093,
     "gameId": 27364,
     "name": "Caylus Magna Carta",
@@ -111935,7 +111935,7 @@
     ]
   },
   {
-    "itemId": 7588655,
+    "listItemId": 7588655,
     "number": 1094,
     "gameId": 10630,
     "name": "Memoir '44",
@@ -112043,7 +112043,7 @@
     ]
   },
   {
-    "itemId": 7588656,
+    "listItemId": 7588656,
     "number": 1095,
     "gameId": 246987,
     "name": "HATE: The Mother Prophecy",
@@ -112123,7 +112123,7 @@
     ]
   },
   {
-    "itemId": 7588658,
+    "listItemId": 7588658,
     "number": 1096,
     "gameId": 37046,
     "name": "Ghost Stories",
@@ -112219,7 +112219,7 @@
     ]
   },
   {
-    "itemId": 7588659,
+    "listItemId": 7588659,
     "number": 1097,
     "gameId": 192153,
     "name": "Pandemic: Reign of Cthulhu",
@@ -112331,7 +112331,7 @@
     ]
   },
   {
-    "itemId": 7588660,
+    "listItemId": 7588660,
     "number": 1098,
     "gameId": 31260,
     "name": "Agricola",
@@ -112495,7 +112495,7 @@
     ]
   },
   {
-    "itemId": 7588662,
+    "listItemId": 7588662,
     "number": 1099,
     "gameId": 73439,
     "name": "Troyes",
@@ -112595,7 +112595,7 @@
     ]
   },
   {
-    "itemId": 7588663,
+    "listItemId": 7588663,
     "number": 1100,
     "gameId": 102794,
     "name": "Caverna: The Cave Farmers",
@@ -112731,7 +112731,7 @@
     ]
   },
   {
-    "itemId": 7588665,
+    "listItemId": 7588665,
     "number": 1101,
     "gameId": 224517,
     "name": "Brass: Birmingham",
@@ -112859,7 +112859,7 @@
     ]
   },
   {
-    "itemId": 7588666,
+    "listItemId": 7588666,
     "number": 1102,
     "gameId": 144239,
     "name": "Impulse",
