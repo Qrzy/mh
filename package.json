@@ -33,6 +33,7 @@
     "bgg-xml-api-client": "^0.1.5",
     "body-parser": "^1.19.0",
     "core-js": "^3.10.0",
+    "express": "^4.17.1",
     "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
     "nuxt": "^2.15.3",
