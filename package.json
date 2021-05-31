@@ -31,7 +31,7 @@
     "@supabase/supabase-js": "^1.11.9",
     "@types/jest": "^26.0.20",
     "bgg-xml-api-client": "^0.1.5",
-    "core-js": "^3.10.0",
+    "core-js": "^3.11.1",
     "js-bbcode-parser": "^3.0.4",
     "normalize-text": "^2.3.1",
     "nuxt": "^2.15.3",
