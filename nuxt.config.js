@@ -25,7 +25,7 @@ export default {
   plugins: [],
   serverMiddleware: [{ path: '/api', handler: '~/serverMiddleware/api.ts' }],
   components: true,
-  buildModules: ['@nuxt/typescript-build', '@nuxtjs/stylelint-module', '@nuxtjs/vuetify', '@nuxtjs/composition-api'],
+  buildModules: ['@nuxt/typescript-build', '@nuxtjs/stylelint-module', '@nuxtjs/vuetify', '@nuxtjs/composition-api/module'],
   modules: ['@nuxtjs/pwa'],
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
