@@ -1692,12 +1692,12 @@
     webpack-node-externals "^3.0.0"
     webpackbar "^4.0.0"
 
-"@nuxtjs/composition-api@0.24.3":
-  version "0.24.3"
-  resolved "https://registry.yarnpkg.com/@nuxtjs/composition-api/-/composition-api-0.24.3.tgz#d8219801dbc3b44bdf95d9417725e80caf6d1ae8"
-  integrity sha512-x/Z/IA0YWGfRSVUPuzZJzLFtg/VZoKVF5u7kmeRrnRQxutt+kCE2sKmyt0SPCqM0SocE7mlfKVgQTj4YF+YxPA==
+"@nuxtjs/composition-api@0.24.5":
+  version "0.24.5"
+  resolved "https://registry.yarnpkg.com/@nuxtjs/composition-api/-/composition-api-0.24.5.tgz#3ac74bdf16479133450f9840a59aeffba3ea7ffd"
+  integrity sha512-iCY0XIF8XUYhMmBIobRUoniF6Yyl1O0fdKhREcGqWw8DEHBIGCi1/wE4G4jZ+vI0xH2PM5zMnOqd3SbzH8oE6w==
   dependencies:
-    "@vue/composition-api" "1.0.0-rc.10"
+    "@vue/composition-api" "1.0.0-rc.12"
     defu "^5.0.0"
     estree-walker "^2.0.2"
     fs-extra "^9.1.0"
@@ -2507,10 +2507,10 @@
   optionalDependencies:
     prettier "^1.18.2"
 
-"@vue/composition-api@1.0.0-rc.10":
-  version "1.0.0-rc.10"
-  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-rc.10.tgz#a98e2b810613531bbbbd3b4c0a9fc46198cc931d"
-  integrity sha512-ftm4OU8H1Ipw64gxIVqzlCW9lJrtr9iOJME0/KJ/fWmVGy55Qbd0uIgIttOkCdLL94A5cjTSbJFTQhu9jBDRXw==
+"@vue/composition-api@1.0.0-rc.12":
+  version "1.0.0-rc.12"
+  resolved "https://registry.yarnpkg.com/@vue/composition-api/-/composition-api-1.0.0-rc.12.tgz#30a122ee74ba322310efd15f1b33ee5822f4bbdc"
+  integrity sha512-b5CLnxza4hbCZB1FeOgutYHJI24u6DL8Z1edilAJa3apVgC1PNSgIk1maQOYC9DoEO0V1KK9H6mEdkuPMJJw1g==
   dependencies:
     tslib "^2.2.0"
 
