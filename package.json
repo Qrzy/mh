@@ -28,7 +28,7 @@
     "@nuxtjs/pwa": "3.3.5",
     "@nuxtjs/vuetify": "1.11.3",
     "@octokit/graphql": "4.6.2",
-    "@supabase/supabase-js": "1.13.1",
+    "@supabase/supabase-js": "1.17.0",
     "@types/jest": "26.0.23",
     "bgg-xml-api-client": "0.1.5",
     "body-parser": "1.19.0",
